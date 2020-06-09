@@ -1,0 +1,58 @@
+{
+    "name": "@strawberrydigital/baleen",
+    "version": "1.0.0",
+    "main": "src/Collection.vue",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/strawberry/baleen"
+    },
+    "author": "davidwarrington_strawberry <david.warrington@strawberry.co.uk>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/strawberry/baleen/issues"
+    },
+    "homepage": "https://github.com/strawberry/baleen",
+    "keywords": [
+        "shopify",
+        "vue",
+        "js",
+        "filters"
+    ],
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs",
+        "dev:themekit": "shopify-themekit watch --config tests/e2e/config.yml --dir tests/e2e/fixtures/theme",
+        "dev:webpack": "webpack --watch",
+        "lint": "eslint --ext .js,.vue .",
+        "test:unit": "jest",
+        "test:e2e": "cypress open"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.9.6",
+        "@babel/preset-env": "^7.9.6",
+        "@shopify/themekit": "^1.1.4",
+        "@strawberrydigital/eslint-config": "^1.0.0",
+        "@vue/cli-plugin-unit-jest": "^4.3.1",
+        "@vue/test-utils": "^1.0.2",
+        "axios": "^0.19.2",
+        "babel-loader": "^8.1.0",
+        "cypress": "^4.5.0",
+        "eslint": "^7.0.0",
+        "eslint-plugin-cypress": "^2.10.3",
+        "jest": "^26.0.1",
+        "jest-mock-axios": "^4.0.0",
+        "prettier": "^2.0.5",
+        "vue": "^2.6.11",
+        "vue-loader": "^15.9.2",
+        "vue-router": "^3.3.2",
+        "vue-template-compiler": "^2.6.11",
+        "vuepress": "^1.5.0",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.11"
+    },
+    "peerDependencies": {
+        "axios": "^0.19.2",
+        "vue": "^2.6.11",
+        "vue-router": "^3.3.2"
+    }
+}

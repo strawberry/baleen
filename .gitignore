@@ -1,0 +1,6 @@
+node_modules
+dist
+
+cypress.env.json
+tests/e2e/config.yml
+tests/e2e/fixtures/theme/assets/index.js

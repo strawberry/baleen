@@ -1,0 +1,901 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item
+mew,Mew,"<p>Mew is said to possess the genetic composition of all<br>
+Pokémon. It is capable of making itself invisible at will,<br>
+so it entirely avoids notice even if it approaches people.</p>",Kanto,Psychic,"ability:synchronize, attack:100, base-experience:270, base-happiness:100, capture-rate:45, color:pink, defense:100, egg-group:no-eggs, evolution-chain:mew, forms:mew, generation:i, genus:New Species Pokémon, habitat:rare, has-gender-differences:false, height:4, held-item:lum-berry, hidden-ability:null, hp:100, id:151, is-baby:false, primary-type:psychic, shape:upright, special-attack:100, special-defense:100, speed:100, type:psychic, weight:40",true,Gender,Default,Shiny,Normal,,,,4000.004314845,,166,deny,manual,100.00,120.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+mew,,,,,,,,Default,,Shiny,,,,4000.004314845,,184,deny,manual,175.00,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mewtwo,Mewtwo,"<p>Mewtwo is a Pokémon that was created by genetic<br>
+manipulation. However, even though the scientific power<br>
+of humans created this Pokémon’s body, they failed to<br>
+endow Mewtwo with a compassionate heart.</p>",Kanto,Psychic,"ability:pressure, ability:unnerve, attack:110, base-experience:306, base-happiness:0, capture-rate:3, color:purple, defense:90, egg-group:no-eggs, evolution-chain:mewtwo, forms:mewtwo, generation:i, genus:Genetic Pokémon, habitat:rare, has-gender-differences:false, height:20, hidden-ability:unnerve, hp:106, id:150, is-baby:false, primary-type:psychic, shape:upright, special-attack:154, special-defense:90, speed:130, type:psychic, weight:1220",true,Gender,Default,Shiny,Normal,,,,122000.01820468,,96,deny,manual,113.33,113.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+mewtwo,,,,,,,,Default,,Shiny,,,,122000.01820468,,168,deny,manual,198.33,198.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonite,Dragonite,"<p>It flies over raging seas as if they were nothing.<br>
+Observing this, a ship’s captain dubbed this<br>
+Pokémon “the sea incarnate.”</p>",Kanto,Dragon/Flying,"ability:inner-focus, ability:multiscale, attack:134, base-experience:270, base-happiness:35, capture-rate:45, color:brown, defense:95, egg-group:dragon, egg-group:water1, evolution-chain:dratini, forms:dragonite, generation:i, genus:Dragon Pokémon, habitat:waters-edge, has-gender-differences:false, height:22, held-item:dragon-fang, held-item:dragon-scale, hidden-ability:multiscale, hp:91, id:149, is-baby:false, primary-type:dragon, shape:upright, special-attack:100, special-defense:100, speed:80, type:dragon, type:flying, weight:2100",true,Gender,Male,Shiny,Normal,,,,210000.022412796,,118,deny,manual,100.00,100.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dragonite,,,,,,,,Male,,Shiny,,,,210000.022412796,,99,deny,manual,175.00,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonite,,,,,,,,Female,,Normal,,,,210000.022412796,,27,deny,manual,100.00,100.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonite,,,,,,,,Female,,Shiny,,,,210000.022412796,,187,deny,manual,175.00,210.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonair,Dragonair,"<p>Lakes where Dragonair live are filled with<br>
+offerings from people, because they believe this<br>
+Pokémon is able to control the weather.</p>",Kanto,Dragon,"ability:marvel-scale, ability:shed-skin, attack:84, base-experience:147, base-happiness:35, capture-rate:45, color:blue, defense:65, egg-group:dragon, egg-group:water1, evolution-chain:dratini, forms:dragonair, generation:i, genus:Dragon Pokémon, habitat:waters-edge, has-gender-differences:false, height:40, held-item:dragon-fang, held-item:dragon-scale, hidden-ability:marvel-scale, hp:61, id:148, is-baby:false, primary-type:dragon, shape:squiggle, special-attack:70, special-defense:70, speed:70, type:dragon, weight:165",true,Gender,Male,Shiny,Normal,,,,16500.012128831,,17,deny,manual,70.00,70.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dragonair,,,,,,,,Male,,Shiny,,,,16500.012128831,,38,deny,manual,122.50,147.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonair,,,,,,,,Female,,Normal,,,,16500.012128831,,179,deny,manual,70.00,70.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dragonair,,,,,,,,Female,,Shiny,,,,16500.012128831,,189,deny,manual,122.50,122.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dratini,Dratini,"<p>It’s still weak, so it lurks on the floor of bodies<br>
+of water, eating whatever food sinks down and<br>
+living a quiet life.</p>",Kanto,Dragon,"ability:marvel-scale, ability:shed-skin, attack:64, base-experience:60, base-happiness:35, capture-rate:45, color:blue, defense:45, egg-group:dragon, egg-group:water1, evolution-chain:dratini, forms:dratini, generation:i, genus:Dragon Pokémon, habitat:waters-edge, has-gender-differences:false, height:18, held-item:dragon-scale, hidden-ability:marvel-scale, hp:41, id:147, is-baby:false, primary-type:dragon, shape:squiggle, special-attack:50, special-defense:50, speed:50, type:dragon, weight:33",true,Gender,Male,Shiny,Normal,,,,3300.020569461,,143,deny,manual,50.00,50.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dratini,,,,,,,,Male,,Shiny,,,,3300.020569461,,168,deny,manual,87.50,105.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dratini,,,,,,,,Female,,Normal,,,,3300.020569461,,233,deny,manual,50.00,50.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dratini,,,,,,,,Female,,Shiny,,,,3300.020569461,,81,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+moltres,Moltres,"<p>Moltres is a legendary bird Pokémon that has the ability<br>
+to control fire. If this Pokémon is injured, it is said to dip its<br>
+body in the molten magma of a volcano to burn and heal itself.</p>",Kanto,Fire/Flying,"ability:flame-body, ability:pressure, attack:100, base-experience:261, base-happiness:35, capture-rate:3, color:yellow, defense:90, egg-group:no-eggs, evolution-chain:moltres, forms:moltres, generation:i, genus:Flame Pokémon, habitat:rare, has-gender-differences:false, height:20, hidden-ability:flame-body, hp:90, id:146, is-baby:false, primary-type:fire, shape:wings, special-attack:125, special-defense:85, speed:90, type:fire, type:flying, weight:600",true,Gender,Default,Shiny,Normal,,,,60000.019363438,,233,deny,manual,96.67,96.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+moltres,,,,,,,,Default,,Shiny,,,,60000.019363438,,85,deny,manual,169.17,169.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+zapdos,Zapdos,"<p>Zapdos is a legendary bird Pokémon that has the ability<br>
+to control electricity. It usually lives in thunderclouds.<br>
+The Pokémon gains power if it is stricken by lightning bolts.</p>",Kanto,Electric/Flying,"ability:pressure, ability:static, attack:90, base-experience:261, base-happiness:35, capture-rate:3, color:yellow, defense:85, egg-group:no-eggs, evolution-chain:zapdos, forms:zapdos, generation:i, genus:Electric Pokémon, habitat:rare, has-gender-differences:false, height:16, hidden-ability:static, hp:90, id:145, is-baby:false, primary-type:electric, shape:wings, special-attack:125, special-defense:90, speed:100, type:electric, type:flying, weight:526",true,Gender,Default,Shiny,Normal,,,,52599.977361547,,168,deny,manual,96.67,96.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+zapdos,,,,,,,,Default,,Shiny,,,,52599.977361547,,211,deny,manual,169.17,169.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+articuno,Articuno,"<p>Articuno is a legendary bird Pokémon that can control ice.<br>
+The flapping of its wings chills the air. As a result, it is said<br>
+that when this Pokémon flies, snow will fall.</p>",Kanto,Ice/Flying,"ability:pressure, ability:snow-cloak, attack:85, base-experience:261, base-happiness:35, capture-rate:3, color:blue, defense:100, egg-group:no-eggs, evolution-chain:articuno, forms:articuno, generation:i, genus:Freeze Pokémon, habitat:rare, has-gender-differences:false, height:17, hidden-ability:snow-cloak, hp:90, id:144, is-baby:false, primary-type:ice, shape:wings, special-attack:95, special-defense:125, speed:85, type:flying, type:ice, weight:554",true,Gender,Default,Shiny,Normal,,,,55400.003061557,,194,deny,manual,96.67,96.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+articuno,,,,,,,,Default,,Shiny,,,,55400.003061557,,127,deny,manual,169.17,169.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+snorlax,Snorlax,"<p>It doesn’t do anything other than eat and sleep.<br>
+When prompted to make a serious effort,<br>
+though, it apparently displays awesome power.</p>",Kanto,Normal,"ability:gluttony, ability:immunity, ability:thick-fat, attack:110, base-experience:189, base-happiness:70, capture-rate:25, color:black, defense:65, egg-group:monster, evolution-chain:munchlax, forms:snorlax, generation:i, genus:Sleeping Pokémon, habitat:mountain, has-gender-differences:false, height:21, held-item:chesto-berry, held-item:leftovers, hidden-ability:gluttony, hp:160, id:143, is-baby:false, primary-type:normal, shape:humanoid, special-attack:65, special-defense:110, speed:30, type:normal, weight:4600",true,Gender,Male,Shiny,Normal,,,,459999.997255568,,187,deny,manual,90.00,108.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+snorlax,,,,,,,,Male,,Shiny,,,,459999.997255568,,229,deny,manual,157.50,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+snorlax,,,,,,,,Female,,Normal,,,,459999.997255568,,205,deny,manual,90.00,90.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+snorlax,,,,,,,,Female,,Shiny,,,,459999.997255568,,29,deny,manual,157.50,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+aerodactyl,Aerodactyl,"<p>Restored from DNA found in amber, this<br>
+Pokémon exhibited ferocity that was greater<br>
+than expected. Some casualties resulted.</p>",Kanto,Rock/Flying,"ability:pressure, ability:rock-head, ability:unnerve, attack:105, base-experience:180, base-happiness:70, capture-rate:45, color:purple, defense:65, egg-group:flying, evolution-chain:aerodactyl, forms:aerodactyl, generation:i, genus:Fossil Pokémon, habitat:mountain, has-gender-differences:false, height:18, hidden-ability:unnerve, hp:80, id:142, is-baby:false, primary-type:rock, shape:wings, special-attack:60, special-defense:75, speed:130, type:flying, type:rock, weight:590",true,Gender,Male,Shiny,Normal,,,,58999.984265299,,224,deny,manual,85.83,85.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+aerodactyl,,,,,,,,Male,,Shiny,,,,58999.984265299,,180,deny,manual,150.21,150.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+aerodactyl,,,,,,,,Female,,Normal,,,,58999.984265299,,69,deny,manual,85.83,103.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+aerodactyl,,,,,,,,Female,,Shiny,,,,58999.984265299,,249,deny,manual,150.21,150.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabutops,Kabutops,"<p>Its body had begun to change so it could<br>
+function on land. But it didn’t adapt in time and<br>
+went extinct.</p>",Kanto,Rock/Water,"ability:battle-armor, ability:swift-swim, ability:weak-armor, attack:115, base-experience:173, base-happiness:70, capture-rate:45, color:brown, defense:105, egg-group:water1, egg-group:water3, evolution-chain:kabuto, forms:kabutops, generation:i, genus:Shellfish Pokémon, habitat:sea, has-gender-differences:false, height:13, hidden-ability:weak-armor, hp:60, id:141, is-baby:false, primary-type:rock, shape:upright, special-attack:65, special-defense:70, speed:80, type:rock, type:water, weight:405",true,Gender,Male,Shiny,Normal,,,,40499.992658664,,113,deny,manual,82.50,82.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kabutops,,,,,,,,Male,,Shiny,,,,40499.992658664,,249,deny,manual,144.38,144.38,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabutops,,,,,,,,Female,,Normal,,,,40499.992658664,,143,deny,manual,82.50,82.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabutops,,,,,,,,Female,,Shiny,,,,40499.992658664,,96,deny,manual,144.38,173.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabuto,Kabuto,"<p>This Pokémon thrived 300 million years ago. It’s<br>
+said that living specimens can still be seen<br>
+in a certain region—a rare sight.</p>",Kanto,Rock/Water,"ability:battle-armor, ability:swift-swim, ability:weak-armor, attack:80, base-experience:71, base-happiness:70, capture-rate:45, color:brown, defense:90, egg-group:water1, egg-group:water3, evolution-chain:kabuto, forms:kabuto, generation:i, genus:Shellfish Pokémon, habitat:sea, has-gender-differences:false, height:5, hidden-ability:weak-armor, hp:30, id:140, is-baby:false, primary-type:rock, shape:armor, special-attack:55, special-defense:45, speed:55, type:rock, type:water, weight:115",true,Gender,Male,Shiny,Normal,,,,11500.018075084,,198,deny,manual,59.17,59.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kabuto,,,,,,,,Male,,Shiny,,,,11500.018075084,,137,deny,manual,103.54,124.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabuto,,,,,,,,Female,,Normal,,,,11500.018075084,,48,deny,manual,59.17,59.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kabuto,,,,,,,,Female,,Shiny,,,,11500.018075084,,160,deny,manual,103.54,103.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omastar,Omastar,"<p>Its heavy shell is thought to be the reason this<br>
+ancient Pokémon died out. It’s apparently a<br>
+distant ancestor of Octillery.</p>",Kanto,Rock/Water,"ability:shell-armor, ability:swift-swim, ability:weak-armor, attack:60, base-experience:173, base-happiness:70, capture-rate:45, color:blue, defense:125, egg-group:water1, egg-group:water3, evolution-chain:omanyte, forms:omastar, generation:i, genus:Spiral Pokémon, habitat:sea, has-gender-differences:false, height:10, hidden-ability:weak-armor, hp:70, id:139, is-baby:false, primary-type:rock, shape:tentacles, special-attack:115, special-defense:70, speed:55, type:rock, type:water, weight:350",true,Gender,Male,Shiny,Normal,,,,35000.003735466,,194,deny,manual,82.50,99.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+omastar,,,,,,,,Male,,Shiny,,,,35000.003735466,,196,deny,manual,144.38,144.38,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omastar,,,,,,,,Female,,Normal,,,,35000.003735466,,203,deny,manual,82.50,99.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omastar,,,,,,,,Female,,Shiny,,,,35000.003735466,,15,deny,manual,144.38,173.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omanyte,Omanyte,"<p>Omanyte lived in the seas of antiquity. Its<br>
+fossils have been found bearing bite marks from<br>
+Archeops, so apparently Archeops preyed on it.</p>",Kanto,Rock/Water,"ability:shell-armor, ability:swift-swim, ability:weak-armor, attack:40, base-experience:71, base-happiness:70, capture-rate:45, color:blue, defense:100, egg-group:water1, egg-group:water3, evolution-chain:omanyte, forms:omanyte, generation:i, genus:Spiral Pokémon, habitat:sea, has-gender-differences:false, height:4, hidden-ability:weak-armor, hp:35, id:138, is-baby:false, primary-type:rock, shape:tentacles, special-attack:90, special-defense:55, speed:35, type:rock, type:water, weight:75",true,Gender,Male,Shiny,Normal,,,,7500.013760239,,122,deny,manual,59.17,59.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+omanyte,,,,,,,,Male,,Shiny,,,,7500.013760239,,125,deny,manual,103.54,103.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omanyte,,,,,,,,Female,,Normal,,,,7500.013760239,,94,deny,manual,59.17,59.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+omanyte,,,,,,,,Female,,Shiny,,,,7500.013760239,,122,deny,manual,103.54,103.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+porygon,Porygon,"<p>This Pokémon was created using the<br>
+cutting-edge science of 20 years ago, so<br>
+many parts of it have since become obsolete.</p>",Kanto,Normal,"ability:analytic, ability:download, ability:trace, attack:60, base-experience:79, base-happiness:70, capture-rate:45, color:pink, defense:70, egg-group:mineral, evolution-chain:porygon, forms:porygon, generation:i, genus:Virtual Pokémon, habitat:urban, has-gender-differences:false, height:8, hidden-ability:analytic, hp:65, id:137, is-baby:false, primary-type:normal, shape:legs, special-attack:85, special-defense:75, speed:40, type:normal, weight:365",true,Gender,Default,Shiny,Normal,,,,36499.988343819,,231,deny,manual,65.83,65.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+porygon,,,,,,,,Default,,Shiny,,,,36499.988343819,,212,deny,manual,115.21,138.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+flareon,Flareon,"<p>If it inhales deeply, that’s a sign it’s about to<br>
+attack. Prepare to be hit by flames of over<br>
+3,000 degrees Fahrenheit!</p>",Kanto,Fire,"ability:flash-fire, ability:guts, attack:130, base-experience:184, base-happiness:70, capture-rate:45, color:red, defense:60, egg-group:ground, evolution-chain:eevee, forms:flareon, generation:i, genus:Flame Pokémon, habitat:urban, has-gender-differences:false, height:9, hidden-ability:guts, hp:65, id:136, is-baby:false, primary-type:fire, shape:quadruped, special-attack:95, special-defense:110, speed:65, type:fire, weight:250",true,Gender,Male,Shiny,Normal,,,,25000.015627972,,205,deny,manual,87.50,87.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+flareon,,,,,,,,Male,,Shiny,,,,25000.015627972,,121,deny,manual,153.13,183.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+flareon,,,,,,,,Female,,Normal,,,,25000.015627972,,79,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+flareon,,,,,,,,Female,,Shiny,,,,25000.015627972,,158,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jolteon,Jolteon,"<p>Its lungs contain an organ that creates<br>
+electricity. The crackling sound of electricity<br>
+can be heard when it exhales.</p>",Kanto,Electric,"ability:quick-feet, ability:volt-absorb, attack:65, base-experience:184, base-happiness:70, capture-rate:45, color:yellow, defense:60, egg-group:ground, evolution-chain:eevee, forms:jolteon, generation:i, genus:Lightning Pokémon, habitat:urban, has-gender-differences:false, height:8, hidden-ability:quick-feet, hp:65, id:135, is-baby:false, primary-type:electric, shape:quadruped, special-attack:110, special-defense:95, speed:130, type:electric, weight:245",true,Gender,Male,Shiny,Normal,,,,24500.020758521,,197,deny,manual,87.50,87.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+jolteon,,,,,,,,Male,,Shiny,,,,24500.020758521,,18,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jolteon,,,,,,,,Female,,Normal,,,,24500.020758521,,14,deny,manual,87.50,105.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jolteon,,,,,,,,Female,,Shiny,,,,24500.020758521,,172,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vaporeon,Vaporeon,"<p>Clean, clear waters are its usual habitat. When<br>
+it’s about to be attacked by an invading enemy,<br>
+it dives into the water to hide.</p>",Kanto,Water,"ability:hydration, ability:water-absorb, attack:65, base-experience:184, base-happiness:70, capture-rate:45, color:blue, defense:60, egg-group:ground, evolution-chain:eevee, forms:vaporeon, generation:i, genus:Bubble Jet Pokémon, habitat:urban, has-gender-differences:false, height:10, hidden-ability:hydration, hp:130, id:134, is-baby:false, primary-type:water, shape:quadruped, special-attack:110, special-defense:95, speed:65, type:water, weight:290",true,Gender,Male,Shiny,Normal,,,,29000.019942817,,63,deny,manual,87.50,87.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+vaporeon,,,,,,,,Male,,Shiny,,,,29000.019942817,,74,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vaporeon,,,,,,,,Female,,Normal,,,,29000.019942817,,80,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vaporeon,,,,,,,,Female,,Shiny,,,,29000.019942817,,106,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+eevee,Eevee,"<p>The question of why only Eevee has such<br>
+unstable genes has still not been solved.</p>",Kanto,Normal,"ability:adaptability, ability:anticipation, ability:run-away, attack:55, base-experience:65, base-happiness:70, capture-rate:45, color:brown, defense:50, egg-group:ground, evolution-chain:eevee, forms:eevee, generation:i, genus:Evolution Pokémon, habitat:urban, has-gender-differences:false, height:3, hidden-ability:anticipation, hp:55, id:133, is-baby:false, primary-type:normal, shape:quadruped, special-attack:45, special-defense:65, speed:55, type:normal, weight:65",true,Gender,Male,Shiny,Normal,,,,6499.9786621,,237,deny,manual,54.17,65.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+eevee,,,,,,,,Male,,Shiny,,,,6499.9786621,,201,deny,manual,94.79,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+eevee,,,,,,,,Female,,Normal,,,,6499.9786621,,121,deny,manual,54.17,65.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+eevee,,,,,,,,Female,,Shiny,,,,6499.9786621,,149,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ditto,Ditto,"<p>While it can transform into anything, each Ditto<br>
+apparently has its own strengths and<br>
+weaknesses when it comes to transformations.</p>",Kanto,Normal,"ability:imposter, ability:limber, attack:48, base-experience:101, base-happiness:70, capture-rate:35, color:purple, defense:48, egg-group:ditto, evolution-chain:ditto, forms:ditto, generation:i, genus:Transform Pokémon, habitat:urban, has-gender-differences:false, height:3, held-item:metal-powder, held-item:quick-powder, hidden-ability:imposter, hp:48, id:132, is-baby:false, primary-type:normal, shape:ball, special-attack:48, special-defense:48, speed:48, type:normal, weight:40",true,Gender,Default,Shiny,Normal,,,,4000.004314845,,230,deny,manual,48.00,48.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+ditto,,,,,,,,Default,,Shiny,,,,4000.004314845,,145,deny,manual,84.00,100.80,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lapras,Lapras,"<p>It likes swimming around with people on its<br>
+back. In the Alola region, it’s an important means<br>
+of transportation over water.</p>",Kanto,Water/Ice,"ability:hydration, ability:shell-armor, ability:water-absorb, attack:85, base-experience:187, base-happiness:70, capture-rate:45, color:blue, defense:80, egg-group:monster, egg-group:water1, evolution-chain:lapras, forms:lapras, generation:i, genus:Transport Pokémon, habitat:sea, has-gender-differences:false, height:25, held-item:mystic-water, hidden-ability:hydration, hp:130, id:131, is-baby:false, primary-type:water, shape:fish, special-attack:85, special-defense:95, speed:60, type:ice, type:water, weight:2200",true,Gender,Male,Shiny,Normal,,,,220000.01052029,,74,deny,manual,89.17,89.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+lapras,,,,,,,,Male,,Shiny,,,,220000.01052029,,68,deny,manual,156.04,156.04,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lapras,,,,,,,,Female,,Normal,,,,220000.01052029,,227,deny,manual,89.17,89.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lapras,,,,,,,,Female,,Shiny,,,,220000.01052029,,70,deny,manual,156.04,187.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gyarados,Gyarados,"<p>It fires hyper beams in all directions, burning the<br>
+surrounding area to ash. There are some regions<br>
+where it’s called “the deity of destruction.”</p>",Kanto,Water/Flying,"ability:intimidate, ability:moxie, attack:125, base-experience:189, base-happiness:70, capture-rate:45, color:blue, defense:79, egg-group:dragon, egg-group:water2, evolution-chain:magikarp, forms:gyarados, generation:i, genus:Atrocious Pokémon, habitat:waters-edge, has-gender-differences:true, height:65, hidden-ability:moxie, hp:95, id:130, is-baby:false, primary-type:water, shape:squiggle, special-attack:60, special-defense:100, speed:81, type:flying, type:water, weight:2350",true,Gender,Male,Shiny,Normal,,,,234999.992681531,,16,deny,manual,90.00,90.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+gyarados,,,,,,,,Male,,Shiny,,,,234999.992681531,,143,deny,manual,157.50,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gyarados,,,,,,,,Female,,Normal,,,,234999.992681531,,218,deny,manual,90.00,90.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gyarados,,,,,,,,Female,,Shiny,,,,234999.992681531,,55,deny,manual,157.50,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magikarp,Magikarp,"<p>In the distant past, they were fairly strong, but<br>
+they have become gradually weaker over time.</p>",Kanto,Water,"ability:rattled, ability:swift-swim, attack:10, base-experience:40, base-happiness:70, capture-rate:255, color:red, defense:55, egg-group:dragon, egg-group:water2, evolution-chain:magikarp, forms:magikarp, generation:i, genus:Fish Pokémon, habitat:waters-edge, has-gender-differences:true, height:9, hidden-ability:rattled, hp:20, id:129, is-baby:false, primary-type:water, shape:fish, special-attack:15, special-defense:20, speed:80, type:water, weight:100",true,Gender,Male,Shiny,Normal,,,,9999.988107494,,158,deny,manual,33.33,40.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+magikarp,,,,,,,,Male,,Shiny,,,,9999.988107494,,41,deny,manual,58.33,58.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magikarp,,,,,,,,Female,,Normal,,,,9999.988107494,,82,deny,manual,33.33,40.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magikarp,,,,,,,,Female,,Shiny,,,,9999.988107494,,229,deny,manual,58.33,58.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tauros,Tauros,"<p>They live in groups. The one with the longest,<br>
+thickest, and most-scarred horns is the boss<br>
+of the herd.</p>",Kanto,Normal,"ability:anger-point, ability:intimidate, ability:sheer-force, attack:100, base-experience:172, base-happiness:70, capture-rate:45, color:brown, defense:95, egg-group:ground, evolution-chain:tauros, forms:tauros, generation:i, genus:Wild Bull Pokémon, habitat:grassland, has-gender-differences:false, height:14, hidden-ability:sheer-force, hp:75, id:128, is-baby:false, primary-type:normal, shape:quadruped, special-attack:40, special-defense:70, speed:110, type:normal, weight:884",true,Gender,Male,Shiny,Normal,,,,88399.981959982,,72,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+tauros,,,,,,,,Male,,Shiny,,,,88399.981959982,,162,deny,manual,142.92,171.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tauros,,,,,,,,Female,,Normal,,,,88399.981959982,,106,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tauros,,,,,,,,Female,,Shiny,,,,88399.981959982,,242,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pinsir,Pinsir,"<p>It gets into territorial disputes with Vikavolt.<br>
+For some reason, it apparently gets along well<br>
+with Heracross in Alola.</p>",Kanto,Bug,"ability:hyper-cutter, ability:mold-breaker, ability:moxie, attack:125, base-experience:175, base-happiness:70, capture-rate:45, color:brown, defense:100, egg-group:bug, evolution-chain:pinsir, forms:pinsir, generation:i, genus:Stag Beetle Pokémon, habitat:forest, has-gender-differences:false, height:15, hidden-ability:moxie, hp:65, id:127, is-baby:false, primary-type:bug, shape:humanoid, special-attack:55, special-defense:70, speed:85, type:bug, weight:550",true,Gender,Male,Shiny,Normal,,,,54999.979950454,,101,deny,manual,83.33,100.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+pinsir,,,,,,,,Male,,Shiny,,,,54999.979950454,,46,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pinsir,,,,,,,,Female,,Normal,,,,54999.979950454,,232,deny,manual,83.33,100.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pinsir,,,,,,,,Female,,Shiny,,,,54999.979950454,,128,deny,manual,145.83,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magmar,Magmar,"<p>Its entire body is burning. When it breathes,<br>
+the temperature rises. When it sneezes, flames<br>
+shoot out!</p>",Kanto,Fire,"ability:flame-body, ability:vital-spirit, attack:95, base-experience:173, base-happiness:70, capture-rate:45, color:red, defense:57, egg-group:humanshape, evolution-chain:magby, forms:magmar, generation:i, genus:Spitfire Pokémon, habitat:mountain, has-gender-differences:false, height:13, held-item:magmarizer, held-item:rawst-berry, hidden-ability:vital-spirit, hp:65, id:126, is-baby:false, primary-type:fire, shape:upright, special-attack:100, special-defense:85, speed:93, type:fire, weight:445",true,Gender,Male,Shiny,Normal,,,,44499.996973509,,43,deny,manual,82.50,82.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+magmar,,,,,,,,Male,,Shiny,,,,44499.996973509,,164,deny,manual,144.38,173.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magmar,,,,,,,,Female,,Normal,,,,44499.996973509,,163,deny,manual,82.50,82.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magmar,,,,,,,,Female,,Shiny,,,,44499.996973509,,31,deny,manual,144.38,173.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+electabuzz,Electabuzz,"<p>Electricity permeates its body. It swings<br>
+its arms round and round to charge up<br>
+electricity before unleashing a punch.</p>",Kanto,Electric,"ability:static, ability:vital-spirit, attack:83, base-experience:172, base-happiness:70, capture-rate:45, color:yellow, defense:57, egg-group:humanshape, evolution-chain:elekid, forms:electabuzz, generation:i, genus:Electric Pokémon, habitat:grassland, has-gender-differences:false, height:11, held-item:electirizer, hidden-ability:vital-spirit, hp:65, id:125, is-baby:false, primary-type:electric, shape:upright, special-attack:95, special-defense:85, speed:105, type:electric, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,209,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+electabuzz,,,,,,,,Male,,Shiny,,,,30000.009681719,,107,deny,manual,142.92,171.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+electabuzz,,,,,,,,Female,,Normal,,,,30000.009681719,,232,deny,manual,81.67,98.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+electabuzz,,,,,,,,Female,,Shiny,,,,30000.009681719,,109,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jynx,Jynx,"<p>It sways its hips to a rhythm all its own. The<br>
+precise movements of Jynx living in Alola are<br>
+truly wonderful.</p>",Kanto,Ice/Psychic,"ability:dry-skin, ability:forewarn, ability:oblivious, attack:50, base-experience:159, base-happiness:70, capture-rate:45, color:red, defense:35, egg-group:humanshape, evolution-chain:smoochum, forms:jynx, generation:i, genus:Human Shape Pokémon, habitat:urban, has-gender-differences:false, height:14, held-item:aspear-berry, hidden-ability:dry-skin, hp:65, id:124, is-baby:false, primary-type:ice, shape:humanoid, special-attack:115, special-defense:95, speed:95, type:ice, type:psychic, weight:406",true,Gender,Male,Shiny,Normal,,,,40600.009776249,,140,deny,manual,75.83,75.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+jynx,,,,,,,,Male,,Shiny,,,,40600.009776249,,244,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jynx,,,,,,,,Female,,Normal,,,,40600.009776249,,153,deny,manual,75.83,75.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jynx,,,,,,,,Female,,Shiny,,,,40600.009776249,,58,deny,manual,132.71,159.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+scyther,Scyther,"<p>Its two sharp scythes are more than just<br>
+weapons. It uses them with dexterity to dress<br>
+its prey before eating.</p>",Kanto,Bug/Flying,"ability:steadfast, ability:swarm, ability:technician, attack:110, base-experience:100, base-happiness:70, capture-rate:45, color:green, defense:80, egg-group:bug, evolution-chain:scyther, forms:scyther, generation:i, genus:Mantis Pokémon, habitat:grassland, has-gender-differences:true, height:15, hidden-ability:steadfast, hp:70, id:123, is-baby:false, primary-type:bug, shape:bug-wings, special-attack:55, special-defense:80, speed:105, type:bug, type:flying, weight:560",true,Gender,Male,Shiny,Normal,,,,56000.015048593,,15,deny,manual,83.33,83.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+scyther,,,,,,,,Male,,Shiny,,,,56000.015048593,,65,deny,manual,145.83,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+scyther,,,,,,,,Female,,Normal,,,,56000.015048593,,58,deny,manual,83.33,100.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+scyther,,,,,,,,Female,,Shiny,,,,56000.015048593,,53,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mr-mime,Mr. Mime,"<p>Its pantomime skills are wonderful. You may<br>
+become enraptured while watching it, but next<br>
+thing you know, Mr. Mime has made a real wall.</p>",Kanto,Psychic/Fairy,"ability:filter, ability:soundproof, ability:technician, attack:45, base-experience:161, base-happiness:70, capture-rate:45, color:pink, defense:65, egg-group:humanshape, evolution-chain:mime-jr, forms:mr-mime, generation:i, genus:Barrier Pokémon, habitat:urban, has-gender-differences:false, height:13, held-item:leppa-berry, hidden-ability:technician, hp:40, id:122, is-baby:false, primary-type:psychic, shape:humanoid, special-attack:100, special-defense:120, speed:90, type:fairy, type:psychic, weight:545",true,Gender,Male,Shiny,Normal,,,,54499.985081003,,199,deny,manual,76.67,76.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+mr-mime,,,,,,,,Male,,Shiny,,,,54499.985081003,,191,deny,manual,134.17,161.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mr-mime,,,,,,,,Female,,Normal,,,,54499.985081003,,85,deny,manual,76.67,76.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mr-mime,,,,,,,,Female,,Shiny,,,,54499.985081003,,116,deny,manual,134.17,134.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+starmie,Starmie,"<p>Its sparkling core is called “the gem of the sea.”<br>
+This core can be made into high-priced<br>
+accessories that are traded in secret.</p>",Kanto,Water/Psychic,"ability:analytic, ability:illuminate, ability:natural-cure, attack:75, base-experience:182, base-happiness:70, capture-rate:60, color:purple, defense:85, egg-group:water3, evolution-chain:staryu, forms:starmie, generation:i, genus:Mysterious Pokémon, habitat:sea, has-gender-differences:false, height:11, held-item:star-piece, held-item:stardust, hidden-ability:analytic, hp:60, id:121, is-baby:false, primary-type:water, shape:blob, special-attack:100, special-defense:85, speed:115, type:psychic, type:water, weight:800",true,Gender,Default,Shiny,Normal,,,,79999.995578426,,226,deny,manual,86.67,104.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+starmie,,,,,,,,Default,,Shiny,,,,79999.995578426,,91,deny,manual,151.67,151.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+staryu,Staryu,"<p>In many places, there are folktales of stardust<br>
+falling into the ocean and becoming Staryu.</p>",Kanto,Water,"ability:analytic, ability:illuminate, ability:natural-cure, attack:45, base-experience:68, base-happiness:70, capture-rate:225, color:brown, defense:55, egg-group:water3, evolution-chain:staryu, forms:staryu, generation:i, genus:Star Shape Pokémon, habitat:sea, has-gender-differences:false, height:8, held-item:star-piece, held-item:stardust, hidden-ability:analytic, hp:30, id:120, is-baby:false, primary-type:water, shape:blob, special-attack:70, special-defense:55, speed:85, type:water, weight:345",true,Gender,Default,Shiny,Normal,,,,34500.008866015,,247,deny,manual,56.67,56.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+staryu,,,,,,,,Default,,Shiny,,,,34500.008866015,,21,deny,manual,99.17,119.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seaking,Seaking,"<p>Its horn spins like a drill to steadily hollow out<br>
+rocks—even harder ones. The coloration of the<br>
+male is more vivid.</p>",Kanto,Water,"ability:lightning-rod, ability:swift-swim, ability:water-veil, attack:92, base-experience:158, base-happiness:70, capture-rate:60, color:red, defense:65, egg-group:water2, evolution-chain:goldeen, forms:seaking, generation:i, genus:Goldfish Pokémon, habitat:waters-edge, has-gender-differences:true, height:13, held-item:mystic-water, hidden-ability:lightning-rod, hp:80, id:119, is-baby:false, primary-type:water, shape:fish, special-attack:65, special-defense:80, speed:68, type:water, weight:390",true,Gender,Male,Shiny,Normal,,,,39000.008050311,,41,deny,manual,75.00,75.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+seaking,,,,,,,,Male,,Shiny,,,,39000.008050311,,211,deny,manual,131.25,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seaking,,,,,,,,Female,,Normal,,,,39000.008050311,,167,deny,manual,75.00,75.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seaking,,,,,,,,Female,,Shiny,,,,39000.008050311,,118,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+goldeen,Goldeen,"<p>Although known for their splendid tail fins,<br>
+Goldeen apparently compete among themselves<br>
+to see whose horn is thickest and sharpest.</p>",Kanto,Water,"ability:lightning-rod, ability:swift-swim, ability:water-veil, attack:67, base-experience:64, base-happiness:70, capture-rate:225, color:red, defense:60, egg-group:water2, evolution-chain:goldeen, forms:goldeen, generation:i, genus:Goldfish Pokémon, habitat:waters-edge, has-gender-differences:true, height:6, held-item:mystic-water, hidden-ability:lightning-rod, hp:45, id:118, is-baby:false, primary-type:water, shape:fish, special-attack:35, special-defense:50, speed:63, type:water, weight:150",true,Gender,Male,Shiny,Normal,,,,14999.982161241,,127,deny,manual,53.33,53.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+goldeen,,,,,,,,Male,,Shiny,,,,14999.982161241,,155,deny,manual,93.33,112.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+goldeen,,,,,,,,Female,,Normal,,,,14999.982161241,,7,deny,manual,53.33,53.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+goldeen,,,,,,,,Female,,Shiny,,,,14999.982161241,,244,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seadra,Seadra,"<p>Seadra generates whirlpools by spinning its body.<br>
+The whirlpools are strong enough to swallow even<br>
+fishing boats. This Pokémon weakens prey with<br>
+these currents, then swallows it whole.</p>",Kanto,Water,"ability:damp, ability:poison-point, ability:sniper, attack:65, base-experience:154, base-happiness:70, capture-rate:75, color:blue, defense:95, egg-group:dragon, egg-group:water1, evolution-chain:horsea, forms:seadra, generation:i, genus:Dragon Pokémon, habitat:sea, has-gender-differences:false, height:12, held-item:dragon-scale, hidden-ability:damp, hp:55, id:117, is-baby:false, primary-type:water, shape:blob, special-attack:95, special-defense:45, speed:85, type:water, weight:250",true,Gender,Male,Shiny,Normal,,,,25000.015627972,,183,deny,manual,73.33,73.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+seadra,,,,,,,,Male,,Shiny,,,,25000.015627972,,3,deny,manual,128.33,154.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seadra,,,,,,,,Female,,Normal,,,,25000.015627972,,227,deny,manual,73.33,88.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seadra,,,,,,,,Female,,Shiny,,,,25000.015627972,,88,deny,manual,128.33,128.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+horsea,Horsea,"<p>If Horsea senses danger, it will reflexively spray a dense<br>
+black ink from its mouth and try to escape. This Pokémon<br>
+swims by cleverly flapping the fin on its back.</p>",Kanto,Water,"ability:damp, ability:sniper, ability:swift-swim, attack:40, base-experience:59, base-happiness:70, capture-rate:225, color:blue, defense:70, egg-group:dragon, egg-group:water1, evolution-chain:horsea, forms:horsea, generation:i, genus:Dragon Pokémon, habitat:sea, has-gender-differences:false, height:4, held-item:dragon-scale, hidden-ability:damp, hp:30, id:116, is-baby:false, primary-type:water, shape:blob, special-attack:70, special-defense:25, speed:60, type:water, weight:80",true,Gender,Male,Shiny,Normal,,,,8000.00862969,,141,deny,manual,49.17,49.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+horsea,,,,,,,,Male,,Shiny,,,,8000.00862969,,54,deny,manual,86.04,86.04,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+horsea,,,,,,,,Female,,Normal,,,,8000.00862969,,28,deny,manual,49.17,49.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+horsea,,,,,,,,Female,,Shiny,,,,8000.00862969,,123,deny,manual,86.04,86.04,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kangaskhan,Kangaskhan,"<p>Kangaskhan protects its child by keeping it in<br>
+its pouch. It has zero forgiveness for those<br>
+who harm its child and will beat them down.</p>",Kanto,Normal,"ability:early-bird, ability:inner-focus, ability:scrappy, attack:95, base-experience:172, base-happiness:70, capture-rate:45, color:brown, defense:80, egg-group:monster, evolution-chain:kangaskhan, forms:kangaskhan, generation:i, genus:Parent Pokémon, habitat:grassland, has-gender-differences:false, height:22, hidden-ability:inner-focus, hp:105, id:115, is-baby:false, primary-type:normal, shape:upright, special-attack:40, special-defense:80, speed:90, type:normal, weight:800",true,Gender,Male,Shiny,Normal,,,,79999.995578426,,37,deny,manual,81.67,81.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kangaskhan,,,,,,,,Male,,Shiny,,,,79999.995578426,,230,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kangaskhan,,,,,,,,Female,,Normal,,,,79999.995578426,,0,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kangaskhan,,,,,,,,Female,,Shiny,,,,79999.995578426,,90,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tangela,Tangela,"<p>Tangela’s vines snap off easily if they are grabbed. This<br>
+happens without pain, allowing it to make a quick getaway.<br>
+The lost vines are replaced by newly grown vines the very<br>
+next day.</p>",Kanto,Grass,"ability:chlorophyll, ability:leaf-guard, ability:regenerator, attack:55, base-experience:87, base-happiness:70, capture-rate:45, color:blue, defense:115, egg-group:plant, evolution-chain:tangela, forms:tangela, generation:i, genus:Vine Pokémon, habitat:grassland, has-gender-differences:false, height:10, hidden-ability:regenerator, hp:65, id:114, is-baby:false, primary-type:grass, shape:legs, special-attack:100, special-defense:40, speed:60, type:grass, weight:350",true,Gender,Male,Shiny,Normal,,,,35000.003735466,,57,deny,manual,72.50,72.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+tangela,,,,,,,,Male,,Shiny,,,,35000.003735466,,105,deny,manual,126.88,126.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tangela,,,,,,,,Female,,Normal,,,,35000.003735466,,22,deny,manual,72.50,72.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tangela,,,,,,,,Female,,Shiny,,,,35000.003735466,,128,deny,manual,126.88,126.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+chansey,Chansey,"<p>It seems that other Pokémon’s efforts to take<br>
+its delicious, nutritious egg away from it caused<br>
+Chansey to get faster at fleeing.</p>",Kanto,Normal,"ability:healer, ability:natural-cure, ability:serene-grace, attack:5, base-experience:395, base-happiness:140, capture-rate:30, color:pink, defense:5, egg-group:fairy, evolution-chain:happiny, forms:chansey, generation:i, genus:Egg Pokémon, habitat:urban, has-gender-differences:false, height:11, held-item:lucky-egg, held-item:lucky-punch, held-item:oval-stone, hidden-ability:healer, hp:250, id:113, is-baby:false, primary-type:normal, shape:upright, special-attack:35, special-defense:105, speed:50, type:normal, weight:346",true,Gender,Male,Shiny,Normal,,,,34599.980624363,,200,deny,manual,75.00,75.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+chansey,,,,,,,,Male,,Shiny,,,,34599.980624363,,41,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+chansey,,,,,,,,Female,,Normal,,,,34599.980624363,,20,deny,manual,75.00,75.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+chansey,,,,,,,,Female,,Shiny,,,,34599.980624363,,72,deny,manual,131.25,157.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhydon,Rhydon,"<p>Rhydon has a horn that serves as a drill. It is used for<br>
+destroying rocks and boulders. This Pokémon occasionally<br>
+rams into streams of magma, but the armor-like hide prevents<br>
+it from feeling the heat.</p>",Kanto,Ground/Rock,"ability:lightning-rod, ability:reckless, ability:rock-head, attack:130, base-experience:170, base-happiness:70, capture-rate:60, color:gray, defense:120, egg-group:ground, egg-group:monster, evolution-chain:rhyhorn, forms:rhydon, generation:i, genus:Drill Pokémon, habitat:rough-terrain, has-gender-differences:true, height:19, hidden-ability:reckless, hp:105, id:112, is-baby:false, primary-type:ground, shape:upright, special-attack:45, special-defense:45, speed:40, type:ground, type:rock, weight:1200",true,Gender,Male,Shiny,Normal,,,,119999.993367639,,185,deny,manual,80.83,80.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+rhydon,,,,,,,,Male,,Shiny,,,,119999.993367639,,208,deny,manual,141.46,169.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhydon,,,,,,,,Female,,Normal,,,,119999.993367639,,71,deny,manual,80.83,97.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhydon,,,,,,,,Female,,Shiny,,,,119999.993367639,,121,deny,manual,141.46,141.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhyhorn,Rhyhorn,"<p>Rhyhorn’s brain is very small. It is so dense, while on a run<br>
+it forgets why it started running in the first place. It apparently<br>
+remembers sometimes if it demolishes something.</p>",Kanto,Ground/Rock,"ability:lightning-rod, ability:reckless, ability:rock-head, attack:85, base-experience:69, base-happiness:70, capture-rate:120, color:gray, defense:95, egg-group:ground, egg-group:monster, evolution-chain:rhyhorn, forms:rhyhorn, generation:i, genus:Spikes Pokémon, habitat:rough-terrain, has-gender-differences:true, height:10, hidden-ability:reckless, hp:80, id:111, is-baby:false, primary-type:ground, shape:quadruped, special-attack:30, special-defense:30, speed:25, type:ground, type:rock, weight:1150",true,Gender,Male,Shiny,Normal,,,,114999.999313892,,105,deny,manual,57.50,57.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+rhyhorn,,,,,,,,Male,,Shiny,,,,114999.999313892,,71,deny,manual,100.63,100.63,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhyhorn,,,,,,,,Female,,Normal,,,,114999.999313892,,173,deny,manual,57.50,57.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rhyhorn,,,,,,,,Female,,Shiny,,,,114999.999313892,,73,deny,manual,100.63,100.63,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weezing,Weezing,"<p>Weezing alternately shrinks and inflates its twin bodies to mix<br>
+together toxic gases inside. The more the gases are mixed,<br>
+the more powerful the toxins become. The Pokémon also<br>
+becomes more putrid.</p>",Kanto,Poison,"ability:levitate, attack:90, base-experience:172, base-happiness:70, capture-rate:60, color:purple, defense:120, egg-group:indeterminate, evolution-chain:koffing, forms:weezing, generation:i, genus:Poison Gas Pokémon, habitat:urban, has-gender-differences:false, height:12, held-item:smoke-ball, hidden-ability:null, hp:65, id:110, is-baby:false, primary-type:poison, shape:heads, special-attack:85, special-defense:70, speed:60, type:poison, weight:95",true,Gender,Male,Shiny,Normal,,,,9499.993238043,,106,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+weezing,,,,,,,,Male,,Shiny,,,,9499.993238043,,73,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weezing,,,,,,,,Female,,Normal,,,,9499.993238043,,30,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weezing,,,,,,,,Female,,Shiny,,,,9499.993238043,,78,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+koffing,Koffing,"<p>Koffing embodies toxic substances. It mixes the toxins with raw<br>
+garbage to set off a chemical reaction that results in a terribly<br>
+powerful poison gas. The higher the temperature, the more gas<br>
+is concocted by this Pokémon.</p>",Kanto,Poison,"ability:levitate, attack:65, base-experience:68, base-happiness:70, capture-rate:190, color:purple, defense:95, egg-group:indeterminate, evolution-chain:koffing, forms:koffing, generation:i, genus:Poison Gas Pokémon, habitat:urban, has-gender-differences:false, height:6, held-item:smoke-ball, hidden-ability:null, hp:40, id:109, is-baby:false, primary-type:poison, shape:ball, special-attack:60, special-defense:45, speed:35, type:poison, weight:10",true,Gender,Male,Shiny,Normal,,,,999.989738902,,46,deny,manual,56.67,56.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+koffing,,,,,,,,Male,,Shiny,,,,999.989738902,,16,deny,manual,99.17,119.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+koffing,,,,,,,,Female,,Normal,,,,999.989738902,,33,deny,manual,56.67,56.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+koffing,,,,,,,,Female,,Shiny,,,,999.989738902,,241,deny,manual,99.17,99.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lickitung,Lickitung,"<p>It checks out whatever’s around it by licking<br>
+everything. If you don’t clean off a spot where<br>
+it’s licked you, you’ll break out in a rash!</p>",Kanto,Normal,"ability:cloud-nine, ability:oblivious, ability:own-tempo, attack:55, base-experience:77, base-happiness:70, capture-rate:45, color:pink, defense:75, egg-group:monster, evolution-chain:lickitung, forms:lickitung, generation:i, genus:Licking Pokémon, habitat:grassland, has-gender-differences:false, height:12, held-item:lagging-tail, hidden-ability:cloud-nine, hp:90, id:108, is-baby:false, primary-type:normal, shape:upright, special-attack:60, special-defense:75, speed:30, type:normal, weight:655",true,Gender,Male,Shiny,Normal,,,,65500.008286636,,117,deny,manual,64.17,77.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+lickitung,,,,,,,,Male,,Shiny,,,,65500.008286636,,0,deny,manual,112.29,112.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lickitung,,,,,,,,Female,,Normal,,,,65500.008286636,,124,deny,manual,64.17,64.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+lickitung,,,,,,,,Female,,Shiny,,,,65500.008286636,,64,deny,manual,112.29,112.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonchan,Hitmonchan,"<p>Hitmonchan is said to possess the spirit of a boxer who had<br>
+been working toward a world championship. This Pokémon<br>
+has an indomitable spirit and will never give up in the face<br>
+of adversity.</p>",Kanto,Fighting,"ability:inner-focus, ability:iron-fist, ability:keen-eye, attack:105, base-experience:159, base-happiness:70, capture-rate:45, color:brown, defense:79, egg-group:humanshape, evolution-chain:tyrogue, forms:hitmonchan, generation:i, genus:Punching Pokémon, habitat:urban, has-gender-differences:false, height:14, hidden-ability:inner-focus, hp:50, id:107, is-baby:false, primary-type:fighting, shape:humanoid, special-attack:35, special-defense:110, speed:76, type:fighting, weight:502",true,Gender,Male,Shiny,Normal,,,,50200.020131877,,208,deny,manual,75.83,75.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+hitmonchan,,,,,,,,Male,,Shiny,,,,50200.020131877,,168,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonchan,,,,,,,,Female,,Normal,,,,50200.020131877,,131,deny,manual,75.83,91.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonchan,,,,,,,,Female,,Shiny,,,,50200.020131877,,27,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonlee,Hitmonlee,"<p>Hitmonlee’s legs freely contract and stretch. Using these<br>
+springlike legs, it bowls over foes with devastating kicks.<br>
+After battle, it rubs down its legs and loosens the muscles<br>
+to overcome fatigue.</p>",Kanto,Fighting,"ability:limber, ability:reckless, ability:unburden, attack:120, base-experience:159, base-happiness:70, capture-rate:45, color:brown, defense:53, egg-group:humanshape, evolution-chain:tyrogue, forms:hitmonlee, generation:i, genus:Kicking Pokémon, habitat:urban, has-gender-differences:false, height:15, hidden-ability:unburden, hp:50, id:106, is-baby:false, primary-type:fighting, shape:humanoid, special-attack:35, special-defense:110, speed:87, type:fighting, weight:498",true,Gender,Male,Shiny,Normal,,,,49799.997020774,,125,deny,manual,75.83,75.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+hitmonlee,,,,,,,,Male,,Shiny,,,,49799.997020774,,6,deny,manual,132.71,159.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonlee,,,,,,,,Female,,Normal,,,,49799.997020774,,12,deny,manual,75.83,75.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hitmonlee,,,,,,,,Female,,Shiny,,,,49799.997020774,,206,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+marowak,Marowak,"<p>It throws bones at Mandibuzz to knock it down.<br>
+It’s thought that Marowak is trying to avenge<br>
+its parent.</p>",Kanto,Ground,"ability:battle-armor, ability:lightning-rod, ability:rock-head, attack:80, base-experience:149, base-happiness:70, capture-rate:75, color:brown, defense:110, egg-group:monster, evolution-chain:cubone, forms:marowak, generation:i, genus:Bone Keeper Pokémon, habitat:mountain, has-gender-differences:false, height:10, held-item:thick-club, hidden-ability:battle-armor, hp:60, id:105, is-baby:false, primary-type:ground, shape:upright, special-attack:50, special-defense:80, speed:45, type:ground, weight:450",true,Gender,Male,Shiny,Normal,,,,44999.99184296,,129,deny,manual,70.83,70.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+marowak,,,,,,,,Male,,Shiny,,,,44999.99184296,,150,deny,manual,123.96,123.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+marowak,,,,,,,,Female,,Normal,,,,44999.99184296,,237,deny,manual,70.83,70.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+marowak,,,,,,,,Female,,Shiny,,,,44999.99184296,,206,deny,manual,123.96,123.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cubone,Cubone,"<p>At night, it weeps loudly for its dead mother,<br>
+but those cries only attract its natural<br>
+enemy—Mandibuzz.</p>",Kanto,Ground,"ability:battle-armor, ability:lightning-rod, ability:rock-head, attack:50, base-experience:64, base-happiness:70, capture-rate:190, color:brown, defense:95, egg-group:monster, evolution-chain:cubone, forms:cubone, generation:i, genus:Lonely Pokémon, habitat:mountain, has-gender-differences:false, height:4, held-item:thick-club, hidden-ability:battle-armor, hp:50, id:104, is-baby:false, primary-type:ground, shape:upright, special-attack:40, special-defense:50, speed:35, type:ground, weight:65",true,Gender,Male,Shiny,Normal,,,,6499.9786621,,39,deny,manual,53.33,53.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+cubone,,,,,,,,Male,,Shiny,,,,6499.9786621,,143,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cubone,,,,,,,,Female,,Normal,,,,6499.9786621,,51,deny,manual,53.33,53.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cubone,,,,,,,,Female,,Shiny,,,,6499.9786621,,17,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggutor,Exeggutor,"<p>It engages its enemies using psychic powers.<br>
+Each of its three heads fires off psychokinetic<br>
+energy, tripling its power.</p>",Kanto,Grass/Psychic,"ability:chlorophyll, ability:harvest, attack:95, base-experience:186, base-happiness:70, capture-rate:45, color:yellow, defense:85, egg-group:plant, evolution-chain:exeggcute, forms:exeggutor, generation:i, genus:Coconut Pokémon, habitat:forest, has-gender-differences:false, height:20, hidden-ability:harvest, hp:95, id:103, is-baby:false, primary-type:grass, shape:legs, special-attack:125, special-defense:75, speed:55, type:grass, type:psychic, weight:1200",true,Gender,Male,Shiny,Normal,,,,119999.993367639,,232,deny,manual,88.33,88.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+exeggutor,,,,,,,,Male,,Shiny,,,,119999.993367639,,161,deny,manual,154.58,185.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggutor,,,,,,,,Female,,Normal,,,,119999.993367639,,196,deny,manual,88.33,106.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggutor,,,,,,,,Female,,Shiny,,,,119999.993367639,,236,deny,manual,154.58,185.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggcute,Exeggcute,"<p>Six of them form a single Pokémon. Should one<br>
+of the six be lost, the next morning there will<br>
+once more be six.</p>",Kanto,Grass/Psychic,"ability:chlorophyll, ability:harvest, attack:40, base-experience:65, base-happiness:70, capture-rate:90, color:pink, defense:80, egg-group:plant, evolution-chain:exeggcute, forms:exeggcute, generation:i, genus:Egg Pokémon, habitat:forest, has-gender-differences:false, height:4, held-item:psychic-seed, hidden-ability:harvest, hp:60, id:102, is-baby:false, primary-type:grass, shape:heads, special-attack:60, special-defense:45, speed:40, type:grass, type:psychic, weight:25",true,Gender,Male,Shiny,Normal,,,,2500.019706492,,63,deny,manual,54.17,54.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+exeggcute,,,,,,,,Male,,Shiny,,,,2500.019706492,,49,deny,manual,94.79,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggcute,,,,,,,,Female,,Normal,,,,2500.019706492,,7,deny,manual,54.17,54.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+exeggcute,,,,,,,,Female,,Shiny,,,,2500.019706492,,92,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+electrode,Electrode,"<p>One of Electrode’s characteristics is its attraction to electricity.<br>
+It is a problematical Pokémon that congregates mostly at<br>
+electrical power plants to feed on electricity that has just<br>
+been generated.</p>",Kanto,Electric,"ability:aftermath, ability:soundproof, ability:static, attack:50, base-experience:172, base-happiness:70, capture-rate:60, color:red, defense:70, egg-group:mineral, evolution-chain:voltorb, forms:electrode, generation:i, genus:Ball Pokémon, habitat:urban, has-gender-differences:false, height:12, hidden-ability:aftermath, hp:60, id:101, is-baby:false, primary-type:electric, shape:ball, special-attack:80, special-defense:80, speed:150, type:electric, weight:666",true,Gender,Default,Shiny,Normal,,,,66600.015143123,,232,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+electrode,,,,,,,,Default,,Shiny,,,,66600.015143123,,79,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+voltorb,Voltorb,"<p>Voltorb is extremely sensitive—it explodes at the slightest<br>
+of shocks. It is rumored that it was first created when a<br>
+Poké Ball was exposed to a powerful pulse of energy.</p>",Kanto,Electric,"ability:aftermath, ability:soundproof, ability:static, attack:30, base-experience:66, base-happiness:70, capture-rate:190, color:red, defense:50, egg-group:mineral, evolution-chain:voltorb, forms:voltorb, generation:i, genus:Ball Pokémon, habitat:urban, has-gender-differences:false, height:5, hidden-ability:aftermath, hp:40, id:100, is-baby:false, primary-type:electric, shape:ball, special-attack:55, special-defense:55, speed:100, type:electric, weight:104",true,Gender,Default,Shiny,Normal,,,,10400.011218597,,13,deny,manual,55.00,66.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+voltorb,,,,,,,,Default,,Shiny,,,,10400.011218597,,51,deny,manual,96.25,96.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kingler,Kingler,"<p>Kingler has an enormous, oversized claw. It waves this huge<br>
+claw in the air to communicate with others. However, because<br>
+the claw is so heavy, the Pokémon quickly tires.</p>",Kanto,Water,"ability:hyper-cutter, ability:sheer-force, ability:shell-armor, attack:130, base-experience:166, base-happiness:70, capture-rate:60, color:red, defense:115, egg-group:water3, evolution-chain:krabby, forms:kingler, generation:i, genus:Pincer Pokémon, habitat:waters-edge, has-gender-differences:false, height:13, hidden-ability:sheer-force, hp:55, id:99, is-baby:false, primary-type:water, shape:armor, special-attack:50, special-defense:50, speed:75, type:water, weight:600",true,Gender,Male,Shiny,Normal,,,,60000.019363438,,250,deny,manual,79.17,79.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kingler,,,,,,,,Male,,Shiny,,,,60000.019363438,,208,deny,manual,138.54,138.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kingler,,,,,,,,Female,,Normal,,,,60000.019363438,,220,deny,manual,79.17,95.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kingler,,,,,,,,Female,,Shiny,,,,60000.019363438,,198,deny,manual,138.54,138.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+krabby,Krabby,"<p>Krabby live on beaches, burrowed inside holes dug into<br>
+the sand. On sandy beaches with little in the way of food,<br>
+these Pokémon can be seen squabbling with each other<br>
+over territory.</p>",Kanto,Water,"ability:hyper-cutter, ability:sheer-force, ability:shell-armor, attack:105, base-experience:65, base-happiness:70, capture-rate:225, color:red, defense:90, egg-group:water3, evolution-chain:krabby, forms:krabby, generation:i, genus:River Crab Pokémon, habitat:waters-edge, has-gender-differences:false, height:4, hidden-ability:sheer-force, hp:30, id:98, is-baby:false, primary-type:water, shape:armor, special-attack:25, special-defense:25, speed:50, type:water, weight:65",true,Gender,Male,Shiny,Normal,,,,6499.9786621,,5,deny,manual,54.17,65.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+krabby,,,,,,,,Male,,Shiny,,,,6499.9786621,,45,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+krabby,,,,,,,,Female,,Normal,,,,6499.9786621,,137,deny,manual,54.17,54.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+krabby,,,,,,,,Female,,Shiny,,,,6499.9786621,,31,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hypno,Hypno,"<p>In Alola, Komala is Hypno’s main target. It rarely<br>
+harms people.</p>",Kanto,Psychic,"ability:forewarn, ability:inner-focus, ability:insomnia, attack:73, base-experience:169, base-happiness:70, capture-rate:75, color:yellow, defense:70, egg-group:humanshape, evolution-chain:drowzee, forms:hypno, generation:i, genus:Hypnosis Pokémon, habitat:grassland, has-gender-differences:true, height:16, hidden-ability:inner-focus, hp:85, id:97, is-baby:false, primary-type:psychic, shape:humanoid, special-attack:73, special-defense:115, speed:67, type:psychic, weight:756",true,Gender,Male,Shiny,Normal,,,,75600.013511715,,154,deny,manual,80.50,80.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+hypno,,,,,,,,Male,,Shiny,,,,75600.013511715,,149,deny,manual,140.88,140.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hypno,,,,,,,,Female,,Normal,,,,75600.013511715,,105,deny,manual,80.50,80.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+hypno,,,,,,,,Female,,Shiny,,,,75600.013511715,,174,deny,manual,140.88,169.05,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+drowzee,Drowzee,"<p>It can be spotted near recreational facilities,<br>
+intending to eat the pleasant dreams of children<br>
+who enjoyed themselves there that day.</p>",Kanto,Psychic,"ability:forewarn, ability:inner-focus, ability:insomnia, attack:48, base-experience:66, base-happiness:70, capture-rate:190, color:yellow, defense:45, egg-group:humanshape, evolution-chain:drowzee, forms:drowzee, generation:i, genus:Hypnosis Pokémon, habitat:grassland, has-gender-differences:false, height:10, hidden-ability:inner-focus, hp:60, id:96, is-baby:false, primary-type:psychic, shape:humanoid, special-attack:43, special-defense:90, speed:42, type:psychic, weight:324",true,Gender,Male,Shiny,Normal,,,,32400.012270626,,240,deny,manual,54.67,54.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+drowzee,,,,,,,,Male,,Shiny,,,,32400.012270626,,93,deny,manual,95.67,95.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+drowzee,,,,,,,,Female,,Normal,,,,32400.012270626,,224,deny,manual,54.67,54.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+drowzee,,,,,,,,Female,,Shiny,,,,32400.012270626,,203,deny,manual,95.67,95.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+onix,Onix,"<p>Onix has a magnet in its brain. It acts as a compass so that<br>
+this Pokémon does not lose direction while it is tunneling.<br>
+As it grows older, its body becomes increasingly rounder<br>
+and smoother.</p>",Kanto,Rock/Ground,"ability:rock-head, ability:sturdy, ability:weak-armor, attack:45, base-experience:77, base-happiness:70, capture-rate:45, color:gray, defense:160, egg-group:mineral, evolution-chain:onix, forms:onix, generation:i, genus:Rock Snake Pokémon, habitat:cave, has-gender-differences:false, height:88, held-item:hard-stone, hidden-ability:weak-armor, hp:35, id:95, is-baby:false, primary-type:rock, shape:squiggle, special-attack:30, special-defense:45, speed:70, type:ground, type:rock, weight:2100",true,Gender,Male,Shiny,Normal,,,,210000.022412796,,145,deny,manual,64.17,64.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+onix,,,,,,,,Male,,Shiny,,,,210000.022412796,,87,deny,manual,112.29,112.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+onix,,,,,,,,Female,,Normal,,,,210000.022412796,,23,deny,manual,64.17,64.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+onix,,,,,,,,Female,,Shiny,,,,210000.022412796,,223,deny,manual,112.29,112.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gengar,Gengar,"<p>You can hear tales told all over the world about<br>
+how Gengar will pay a visit to children who<br>
+are naughty.</p>",Kanto,Ghost/Poison,"ability:cursed-body, attack:65, base-experience:225, base-happiness:70, capture-rate:45, color:purple, defense:60, egg-group:indeterminate, evolution-chain:gastly, forms:gengar, generation:i, genus:Shadow Pokémon, habitat:cave, has-gender-differences:false, height:15, held-item:spell-tag, hidden-ability:null, hp:60, id:94, is-baby:false, primary-type:ghost, shape:upright, special-attack:130, special-defense:75, speed:110, type:ghost, type:poison, weight:405",true,Gender,Male,Shiny,Normal,,,,40499.992658664,,23,deny,manual,83.33,100.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+gengar,,,,,,,,Male,,Shiny,,,,40499.992658664,,37,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gengar,,,,,,,,Female,,Normal,,,,40499.992658664,,152,deny,manual,83.33,83.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gengar,,,,,,,,Female,,Shiny,,,,40499.992658664,,45,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+haunter,Haunter,"<p>On moonless nights, Haunter searches for<br>
+someone to curse, so it’s best not to go out<br>
+walking around.</p>",Kanto,Ghost/Poison,"ability:levitate, attack:50, base-experience:142, base-happiness:70, capture-rate:90, color:purple, defense:45, egg-group:indeterminate, evolution-chain:gastly, forms:haunter, generation:i, genus:Gas Pokémon, habitat:cave, has-gender-differences:false, height:16, held-item:spell-tag, hidden-ability:null, hp:45, id:93, is-baby:false, primary-type:ghost, shape:arms, special-attack:115, special-defense:55, speed:95, type:ghost, type:poison, weight:1",true,Gender,Male,Shiny,Normal,,,,100.017117585,,48,deny,manual,67.50,67.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+haunter,,,,,,,,Male,,Shiny,,,,100.017117585,,107,deny,manual,118.13,141.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+haunter,,,,,,,,Female,,Normal,,,,100.017117585,,86,deny,manual,67.50,81.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+haunter,,,,,,,,Female,,Shiny,,,,100.017117585,,227,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gastly,Gastly,"<p>It’s said that gas emanating from a graveyard<br>
+was possessed by the grievances of the<br>
+deceased and thus became a Pokémon.</p>",Kanto,Ghost/Poison,"ability:levitate, attack:35, base-experience:62, base-happiness:70, capture-rate:190, color:purple, defense:30, egg-group:indeterminate, evolution-chain:gastly, forms:gastly, generation:i, genus:Gas Pokémon, habitat:cave, has-gender-differences:false, height:13, hidden-ability:null, hp:30, id:92, is-baby:false, primary-type:ghost, shape:ball, special-attack:100, special-defense:35, speed:80, type:ghost, type:poison, weight:1",true,Gender,Male,Shiny,Normal,,,,100.017117585,,166,deny,manual,51.67,51.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+gastly,,,,,,,,Male,,Shiny,,,,100.017117585,,84,deny,manual,90.42,90.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gastly,,,,,,,,Female,,Normal,,,,100.017117585,,149,deny,manual,51.67,62.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gastly,,,,,,,,Female,,Shiny,,,,100.017117585,,56,deny,manual,90.42,90.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cloyster,Cloyster,"<p>If areas of Cloyster’s very hard shell get<br>
+damaged, those areas swell, gradually growing<br>
+into large sharp spikes.</p>",Kanto,Water/Ice,"ability:overcoat, ability:shell-armor, ability:skill-link, attack:95, base-experience:184, base-happiness:70, capture-rate:60, color:purple, defense:180, egg-group:water3, evolution-chain:shellder, forms:cloyster, generation:i, genus:Bivalve Pokémon, habitat:sea, has-gender-differences:false, height:15, held-item:big-pearl, held-item:pearl, hidden-ability:overcoat, hp:50, id:91, is-baby:false, primary-type:water, shape:ball, special-attack:85, special-defense:45, speed:70, type:ice, type:water, weight:1325",true,Gender,Male,Shiny,Normal,,,,132500.001181625,,73,deny,manual,87.50,87.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+cloyster,,,,,,,,Male,,Shiny,,,,132500.001181625,,116,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cloyster,,,,,,,,Female,,Normal,,,,132500.001181625,,164,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+cloyster,,,,,,,,Female,,Shiny,,,,132500.001181625,,120,deny,manual,153.13,183.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+shellder,Shellder,"<p>The sand that accumulates inside its shell<br>
+eventually becomes a pearl. But the pearl gets<br>
+in the way, so it spits it out and discards it.</p>",Kanto,Water,"ability:overcoat, ability:shell-armor, ability:skill-link, attack:65, base-experience:61, base-happiness:70, capture-rate:190, color:purple, defense:100, egg-group:water3, evolution-chain:shellder, forms:shellder, generation:i, genus:Bivalve Pokémon, habitat:sea, has-gender-differences:false, height:3, held-item:big-pearl, held-item:pearl, hidden-ability:overcoat, hp:30, id:90, is-baby:false, primary-type:water, shape:ball, special-attack:45, special-defense:25, speed:40, type:water, weight:40",true,Gender,Male,Shiny,Normal,,,,4000.004314845,,122,deny,manual,50.83,50.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+shellder,,,,,,,,Male,,Shiny,,,,4000.004314845,,242,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+shellder,,,,,,,,Female,,Normal,,,,4000.004314845,,94,deny,manual,50.83,50.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+shellder,,,,,,,,Female,,Shiny,,,,4000.004314845,,179,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+muk,Muk,"<p>Their food sources have decreased, and their<br>
+numbers have declined sharply. Sludge ponds<br>
+are being built to prevent their extinction.</p>",Kanto,Poison,"ability:poison-touch, ability:stench, ability:sticky-hold, attack:105, base-experience:175, base-happiness:70, capture-rate:75, color:purple, defense:75, egg-group:indeterminate, evolution-chain:grimer, forms:muk, generation:i, genus:Sludge Pokémon, habitat:urban, has-gender-differences:false, height:12, held-item:black-sludge, held-item:nugget, held-item:toxic-orb, hidden-ability:poison-touch, hp:105, id:89, is-baby:false, primary-type:poison, shape:arms, special-attack:65, special-defense:100, speed:50, type:poison, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,172,deny,manual,83.33,100.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+muk,,,,,,,,Male,,Shiny,,,,30000.009681719,,124,deny,manual,145.83,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+muk,,,,,,,,Female,,Normal,,,,30000.009681719,,231,deny,manual,83.33,83.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+muk,,,,,,,,Female,,Shiny,,,,30000.009681719,,147,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+grimer,Grimer,"<p>It was born from sludge on the ocean floor. In a<br>
+sterile environment, the germs within its body<br>
+can’t multiply, and it dies.</p>",Kanto,Poison,"ability:poison-touch, ability:stench, ability:sticky-hold, attack:80, base-experience:65, base-happiness:70, capture-rate:190, color:purple, defense:50, egg-group:indeterminate, evolution-chain:grimer, forms:grimer, generation:i, genus:Sludge Pokémon, habitat:urban, has-gender-differences:false, height:9, held-item:black-sludge, held-item:nugget, hidden-ability:poison-touch, hp:80, id:88, is-baby:false, primary-type:poison, shape:arms, special-attack:40, special-defense:50, speed:25, type:poison, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,209,deny,manual,54.17,54.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+grimer,,,,,,,,Male,,Shiny,,,,30000.009681719,,72,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+grimer,,,,,,,,Female,,Normal,,,,30000.009681719,,164,deny,manual,54.17,54.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+grimer,,,,,,,,Female,,Shiny,,,,30000.009681719,,37,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dewgong,Dewgong,"<p>It swims through the ocean at a speed of eight<br>
+knots, searching for Pokémon that will become<br>
+its prey. It’s especially fond of Wishiwashi.</p>",Kanto,Water/Ice,"ability:hydration, ability:ice-body, ability:thick-fat, attack:70, base-experience:166, base-happiness:70, capture-rate:75, color:white, defense:80, egg-group:ground, egg-group:water1, evolution-chain:seel, forms:dewgong, generation:i, genus:Sea Lion Pokémon, habitat:sea, has-gender-differences:false, height:17, held-item:aspear-berry, held-item:never-melt-ice, hidden-ability:ice-body, hp:90, id:87, is-baby:false, primary-type:water, shape:fish, special-attack:70, special-defense:95, speed:70, type:ice, type:water, weight:1200",true,Gender,Male,Shiny,Normal,,,,119999.993367639,,165,deny,manual,79.17,95.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dewgong,,,,,,,,Male,,Shiny,,,,119999.993367639,,186,deny,manual,138.54,138.54,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dewgong,,,,,,,,Female,,Normal,,,,119999.993367639,,234,deny,manual,79.17,95.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dewgong,,,,,,,,Female,,Shiny,,,,119999.993367639,,130,deny,manual,138.54,166.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seel,Seel,"<p>It has always been supposed that Seel live only<br>
+in cold seas. Their having shown up in Alola is<br>
+a mystery.</p>",Kanto,Water,"ability:hydration, ability:ice-body, ability:thick-fat, attack:45, base-experience:65, base-happiness:70, capture-rate:190, color:white, defense:55, egg-group:ground, egg-group:water1, evolution-chain:seel, forms:seel, generation:i, genus:Sea Lion Pokémon, habitat:sea, has-gender-differences:false, height:11, held-item:aspear-berry, hidden-ability:ice-body, hp:65, id:86, is-baby:false, primary-type:water, shape:fish, special-attack:45, special-defense:70, speed:45, type:water, weight:900",true,Gender,Male,Shiny,Normal,,,,89999.98368592,,191,deny,manual,54.17,54.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+seel,,,,,,,,Male,,Shiny,,,,89999.98368592,,22,deny,manual,94.79,94.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seel,,,,,,,,Female,,Normal,,,,89999.98368592,,90,deny,manual,54.17,54.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+seel,,,,,,,,Female,,Shiny,,,,89999.98368592,,111,deny,manual,94.79,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dodrio,Dodrio,"<p>Apparently, the heads aren’t the only parts of the body that<br>
+Dodrio has three of. It has three sets of hearts and lungs as<br>
+well, so it is capable of running long distances without rest.</p>",Kanto,Normal/Flying,"ability:early-bird, ability:run-away, ability:tangled-feet, attack:110, base-experience:165, base-happiness:70, capture-rate:45, color:brown, defense:70, egg-group:flying, evolution-chain:doduo, forms:dodrio, generation:i, genus:Triple Bird Pokémon, habitat:grassland, has-gender-differences:true, height:18, held-item:sharp-beak, hidden-ability:tangled-feet, hp:60, id:85, is-baby:false, primary-type:normal, shape:legs, special-attack:60, special-defense:60, speed:110, type:flying, type:normal, weight:852",true,Gender,Male,Shiny,Normal,,,,85199.978508106,,176,deny,manual,78.33,78.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dodrio,,,,,,,,Male,,Shiny,,,,85199.978508106,,29,deny,manual,137.08,137.08,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dodrio,,,,,,,,Female,,Normal,,,,85199.978508106,,44,deny,manual,78.33,94.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dodrio,,,,,,,,Female,,Shiny,,,,85199.978508106,,70,deny,manual,137.08,137.08,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+doduo,Doduo,"<p>Doduo’s two heads contain completely identical brains. A<br>
+scientific study reported that on rare occasions, there will be<br>
+examples of this Pokémon possessing different sets of brains.</p>",Kanto,Normal/Flying,"ability:early-bird, ability:run-away, ability:tangled-feet, attack:85, base-experience:62, base-happiness:70, capture-rate:190, color:brown, defense:45, egg-group:flying, evolution-chain:doduo, forms:doduo, generation:i, genus:Twin Bird Pokémon, habitat:grassland, has-gender-differences:true, height:14, held-item:sharp-beak, hidden-ability:tangled-feet, hp:35, id:84, is-baby:false, primary-type:normal, shape:legs, special-attack:35, special-defense:35, speed:75, type:flying, type:normal, weight:392",true,Gender,Male,Shiny,Normal,,,,39199.996926244,,34,deny,manual,51.67,62.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+doduo,,,,,,,,Male,,Shiny,,,,39199.996926244,,6,deny,manual,90.42,90.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+doduo,,,,,,,,Female,,Normal,,,,39199.996926244,,72,deny,manual,51.67,51.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+doduo,,,,,,,,Female,,Shiny,,,,39199.996926244,,126,deny,manual,90.42,90.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+farfetch-d,Farfetch’d,"<p>Farfetch’d is always seen with a stalk from a plant of some<br>
+sort. Apparently, there are good stalks and bad stalks. This<br>
+Pokémon has been known to fight with others over stalks.</p>",Kanto,Normal/Flying,"ability:defiant, ability:inner-focus, ability:keen-eye, attack:90, base-experience:132, base-happiness:70, capture-rate:45, color:brown, defense:55, egg-group:flying, egg-group:ground, evolution-chain:farfetchd, forms:farfetchd, generation:i, genus:Wild Duck Pokémon, habitat:grassland, has-gender-differences:false, height:8, held-item:stick, hidden-ability:defiant, hp:52, id:83, is-baby:false, primary-type:normal, shape:wings, special-attack:58, special-defense:62, speed:60, type:flying, type:normal, weight:150",true,Gender,Male,Shiny,Normal,,,,14999.982161241,,76,deny,manual,62.83,62.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+farfetch-d,,,,,,,,Male,,Shiny,,,,14999.982161241,,113,deny,manual,109.96,131.95,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+farfetch-d,,,,,,,,Female,,Normal,,,,14999.982161241,,25,deny,manual,62.83,62.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+farfetch-d,,,,,,,,Female,,Shiny,,,,14999.982161241,,88,deny,manual,109.96,131.95,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magneton,Magneton,"<p>Delicate equipment can malfunction in areas<br>
+inhabited by Magneton, which send out<br>
+mysterious electrical signals.</p>",Kanto,Electric/Steel,"ability:analytic, ability:magnet-pull, ability:sturdy, attack:60, base-experience:163, base-happiness:70, capture-rate:60, color:gray, defense:95, egg-group:mineral, evolution-chain:magnemite, forms:magneton, generation:i, genus:Magnet Pokémon, habitat:rough-terrain, has-gender-differences:false, height:10, held-item:magnet, held-item:metal-coat, hidden-ability:analytic, hp:50, id:82, is-baby:false, primary-type:electric, shape:heads, special-attack:120, special-defense:70, speed:70, type:electric, type:steel, weight:600",true,Gender,Default,Shiny,Normal,,,,60000.019363438,,142,deny,manual,77.50,93.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+magneton,,,,,,,,Default,,Shiny,,,,60000.019363438,,90,deny,manual,135.63,162.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+magnemite,Magnemite,"<p>It’s frequently the cause of power outages,<br>
+which is why some power plants send out<br>
+electrical signals that it can’t stand.</p>",Kanto,Electric/Steel,"ability:analytic, ability:magnet-pull, ability:sturdy, attack:35, base-experience:65, base-happiness:70, capture-rate:190, color:gray, defense:70, egg-group:mineral, evolution-chain:magnemite, forms:magnemite, generation:i, genus:Magnet Pokémon, habitat:rough-terrain, has-gender-differences:false, height:3, held-item:metal-coat, hidden-ability:analytic, hp:25, id:81, is-baby:false, primary-type:electric, shape:arms, special-attack:95, special-defense:55, speed:45, type:electric, type:steel, weight:60",true,Gender,Default,Shiny,Normal,,,,5999.983792649,,10,deny,manual,54.17,54.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+magnemite,,,,,,,,Default,,Shiny,,,,5999.983792649,,6,deny,manual,94.79,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowbro,Slowbro,"<p>Spacing out is basically all it does. It turns back<br>
+into Slowpoke if its tail, along with Shellder,<br>
+breaks off.</p>",Kanto,Water/Psychic,"ability:oblivious, ability:own-tempo, ability:regenerator, attack:75, base-experience:172, base-happiness:70, capture-rate:75, color:pink, defense:110, egg-group:monster, egg-group:water1, evolution-chain:slowpoke, forms:slowbro, generation:i, genus:Hermit Crab Pokémon, habitat:waters-edge, has-gender-differences:false, height:16, held-item:kings-rock, hidden-ability:regenerator, hp:95, id:80, is-baby:false, primary-type:water, shape:upright, special-attack:100, special-defense:80, speed:30, type:psychic, type:water, weight:785",true,Gender,Male,Shiny,Normal,,,,78500.010970073,,221,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+slowbro,,,,,,,,Male,,Shiny,,,,78500.010970073,,138,deny,manual,142.92,171.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowbro,,,,,,,,Female,,Normal,,,,78500.010970073,,3,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowbro,,,,,,,,Female,,Shiny,,,,78500.010970073,,174,deny,manual,142.92,171.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowpoke,Slowpoke,"<p>There are some places where Slowpoke is<br>
+worshiped because of a long-standing belief<br>
+that whenever Slowpoke yawns, it rains.</p>",Kanto,Water/Psychic,"ability:oblivious, ability:own-tempo, ability:regenerator, attack:65, base-experience:63, base-happiness:70, capture-rate:190, color:pink, defense:65, egg-group:monster, egg-group:water1, evolution-chain:slowpoke, forms:slowpoke, generation:i, genus:Dopey Pokémon, habitat:waters-edge, has-gender-differences:false, height:12, held-item:kings-rock, held-item:lagging-tail, hidden-ability:regenerator, hp:90, id:79, is-baby:false, primary-type:water, shape:quadruped, special-attack:40, special-defense:40, speed:15, type:psychic, type:water, weight:360",true,Gender,Male,Shiny,Normal,,,,35999.993474368,,156,deny,manual,52.50,52.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+slowpoke,,,,,,,,Male,,Shiny,,,,35999.993474368,,248,deny,manual,91.88,91.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowpoke,,,,,,,,Female,,Normal,,,,35999.993474368,,62,deny,manual,52.50,52.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+slowpoke,,,,,,,,Female,,Shiny,,,,35999.993474368,,35,deny,manual,91.88,91.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rapidash,Rapidash,"<p>Rapidash usually can be seen casually cantering in the fields<br>
+and plains. However, when this Pokémon turns serious, its<br>
+fiery manes flare and blaze as it gallops its way up to 150 mph.</p>",Kanto,Fire,"ability:flame-body, ability:flash-fire, ability:run-away, attack:100, base-experience:175, base-happiness:70, capture-rate:60, color:yellow, defense:70, egg-group:ground, evolution-chain:ponyta, forms:rapidash, generation:i, genus:Fire Horse Pokémon, habitat:grassland, has-gender-differences:false, height:17, held-item:shuca-berry, hidden-ability:flame-body, hp:65, id:78, is-baby:false, primary-type:fire, shape:quadruped, special-attack:80, special-defense:80, speed:105, type:fire, weight:950",true,Gender,Male,Shiny,Normal,,,,94999.977739667,,157,deny,manual,83.33,83.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+rapidash,,,,,,,,Male,,Shiny,,,,94999.977739667,,132,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rapidash,,,,,,,,Female,,Normal,,,,94999.977739667,,28,deny,manual,83.33,83.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rapidash,,,,,,,,Female,,Shiny,,,,94999.977739667,,97,deny,manual,145.83,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ponyta,Ponyta,"<p>Ponyta is very weak at birth. It can barely stand up.<br>
+This Pokémon becomes stronger by stumbling and<br>
+falling to keep up with its parent.</p>",Kanto,Fire,"ability:flame-body, ability:flash-fire, ability:run-away, attack:85, base-experience:82, base-happiness:70, capture-rate:190, color:yellow, defense:55, egg-group:ground, evolution-chain:ponyta, forms:ponyta, generation:i, genus:Fire Horse Pokémon, habitat:grassland, has-gender-differences:false, height:10, held-item:shuca-berry, hidden-ability:flame-body, hp:50, id:77, is-baby:false, primary-type:fire, shape:quadruped, special-attack:65, special-defense:65, speed:90, type:fire, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,178,deny,manual,68.33,68.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+ponyta,,,,,,,,Male,,Shiny,,,,30000.009681719,,180,deny,manual,119.58,143.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ponyta,,,,,,,,Female,,Normal,,,,30000.009681719,,135,deny,manual,68.33,68.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ponyta,,,,,,,,Female,,Shiny,,,,30000.009681719,,138,deny,manual,119.58,143.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golem,Golem,"<p>When Golem grow old, they stop shedding their<br>
+shells. Those that have lived a long, long time<br>
+have shells green with moss.</p>",Kanto,Rock/Ground,"ability:rock-head, ability:sand-veil, ability:sturdy, attack:120, base-experience:223, base-happiness:70, capture-rate:45, color:brown, defense:130, egg-group:mineral, evolution-chain:geodude, forms:golem, generation:i, genus:Megaton Pokémon, habitat:mountain, has-gender-differences:false, height:14, held-item:everstone, held-item:hard-stone, hidden-ability:sand-veil, hp:80, id:76, is-baby:false, primary-type:rock, shape:humanoid, special-attack:55, special-defense:65, speed:45, type:ground, type:rock, weight:3000",true,Gender,Male,Shiny,Normal,,,,300000.006098716,,12,deny,manual,82.50,99.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+golem,,,,,,,,Male,,Shiny,,,,300000.006098716,,38,deny,manual,144.38,173.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golem,,,,,,,,Female,,Normal,,,,300000.006098716,,114,deny,manual,82.50,82.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golem,,,,,,,,Female,,Shiny,,,,300000.006098716,,241,deny,manual,144.38,144.38,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+graveler,Graveler,"<p>It climbs up cliffs as it heads toward the peak<br>
+of a mountain. As soon as it reaches the summit,<br>
+it rolls back down the way it came.</p>",Kanto,Rock/Ground,"ability:rock-head, ability:sand-veil, ability:sturdy, attack:95, base-experience:137, base-happiness:70, capture-rate:120, color:brown, defense:115, egg-group:mineral, evolution-chain:geodude, forms:graveler, generation:i, genus:Rock Pokémon, habitat:mountain, has-gender-differences:false, height:10, held-item:everstone, held-item:hard-stone, hidden-ability:sand-veil, hp:55, id:75, is-baby:false, primary-type:rock, shape:humanoid, special-attack:45, special-defense:45, speed:35, type:ground, type:rock, weight:1050",true,Gender,Male,Shiny,Normal,,,,105000.011206398,,46,deny,manual,65.00,78.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+graveler,,,,,,,,Male,,Shiny,,,,105000.011206398,,93,deny,manual,113.75,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+graveler,,,,,,,,Female,,Normal,,,,105000.011206398,,116,deny,manual,65.00,65.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+graveler,,,,,,,,Female,,Shiny,,,,105000.011206398,,116,deny,manual,113.75,136.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+geodude,Geodude,"<p>Geodude that have lived a long life have had all<br>
+their edges smoothed out until they’re totally<br>
+round. They also have a calm, quiet disposition.</p>",Kanto,Rock/Ground,"ability:rock-head, ability:sand-veil, ability:sturdy, attack:80, base-experience:60, base-happiness:70, capture-rate:255, color:brown, defense:100, egg-group:mineral, evolution-chain:geodude, forms:geodude, generation:i, genus:Rock Pokémon, habitat:mountain, has-gender-differences:false, height:4, held-item:everstone, hidden-ability:sand-veil, hp:40, id:74, is-baby:false, primary-type:rock, shape:arms, special-attack:30, special-defense:30, speed:20, type:ground, type:rock, weight:200",true,Gender,Male,Shiny,Normal,,,,20000.021574225,,163,deny,manual,50.00,50.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+geodude,,,,,,,,Male,,Shiny,,,,20000.021574225,,93,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+geodude,,,,,,,,Female,,Normal,,,,20000.021574225,,202,deny,manual,50.00,50.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+geodude,,,,,,,,Female,,Shiny,,,,20000.021574225,,177,deny,manual,87.50,105.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacruel,Tentacruel,"<p>It fires off ultrasonic waves from its red orbs<br>
+to weaken its prey, and then it wraps them up<br>
+in its 80 tentacles.</p>",Kanto,Water/Poison,"ability:clear-body, ability:liquid-ooze, ability:rain-dish, attack:70, base-experience:180, base-happiness:70, capture-rate:60, color:blue, defense:65, egg-group:water3, evolution-chain:tentacool, forms:tentacruel, generation:i, genus:Jellyfish Pokémon, habitat:sea, has-gender-differences:false, height:16, held-item:poison-barb, hidden-ability:rain-dish, hp:80, id:73, is-baby:false, primary-type:water, shape:tentacles, special-attack:80, special-defense:120, speed:100, type:poison, type:water, weight:550",true,Gender,Male,Shiny,Normal,,,,54999.979950454,,113,deny,manual,85.83,85.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+tentacruel,,,,,,,,Male,,Shiny,,,,54999.979950454,,130,deny,manual,150.21,150.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacruel,,,,,,,,Female,,Normal,,,,54999.979950454,,43,deny,manual,85.83,85.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacruel,,,,,,,,Female,,Shiny,,,,54999.979950454,,166,deny,manual,150.21,150.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacool,Tentacool,"<p>It drifts through the sea searching for prey.<br>
+Its poisonous tentacles break off sometimes,<br>
+but after a while, they grow back.</p>",Kanto,Water/Poison,"ability:clear-body, ability:liquid-ooze, ability:rain-dish, attack:40, base-experience:67, base-happiness:70, capture-rate:190, color:blue, defense:35, egg-group:water3, evolution-chain:tentacool, forms:tentacool, generation:i, genus:Jellyfish Pokémon, habitat:sea, has-gender-differences:false, height:9, held-item:poison-barb, hidden-ability:rain-dish, hp:40, id:72, is-baby:false, primary-type:water, shape:tentacles, special-attack:50, special-defense:100, speed:70, type:poison, type:water, weight:455",true,Gender,Male,Shiny,Normal,,,,45499.986712411,,169,deny,manual,55.83,55.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+tentacool,,,,,,,,Male,,Shiny,,,,45499.986712411,,71,deny,manual,97.71,97.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacool,,,,,,,,Female,,Normal,,,,45499.986712411,,204,deny,manual,55.83,55.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+tentacool,,,,,,,,Female,,Shiny,,,,45499.986712411,,127,deny,manual,97.71,117.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+victreebel,Victreebel,"<p>Victreebel has a long vine that extends from its head.<br>
+This vine is waved and flicked about as if it were an animal<br>
+to attract prey. When an unsuspecting prey draws near,<br>
+this Pokémon swallows it whole.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:gluttony, attack:105, base-experience:221, base-happiness:70, capture-rate:45, color:green, defense:65, egg-group:plant, evolution-chain:bellsprout, forms:victreebel, generation:i, genus:Flycatcher Pokémon, habitat:forest, has-gender-differences:false, height:17, hidden-ability:gluttony, hp:80, id:71, is-baby:false, primary-type:grass, shape:blob, special-attack:100, special-defense:70, speed:70, type:grass, type:poison, weight:155",true,Gender,Male,Shiny,Normal,,,,15500.022389929,,182,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+victreebel,,,,,,,,Male,,Shiny,,,,15500.022389929,,122,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+victreebel,,,,,,,,Female,,Normal,,,,15500.022389929,,146,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+victreebel,,,,,,,,Female,,Shiny,,,,15500.022389929,,48,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weepinbell,Weepinbell,"<p>Weepinbell has a large hook on its rear end. At night, the<br>
+Pokémon hooks on to a tree branch and goes to sleep.<br>
+If it moves around in its sleep, it may wake up to find itself<br>
+on the ground.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:gluttony, attack:90, base-experience:137, base-happiness:70, capture-rate:120, color:green, defense:50, egg-group:plant, evolution-chain:bellsprout, forms:weepinbell, generation:i, genus:Flycatcher Pokémon, habitat:forest, has-gender-differences:false, height:10, hidden-ability:gluttony, hp:65, id:70, is-baby:false, primary-type:grass, shape:blob, special-attack:85, special-defense:45, speed:55, type:grass, type:poison, weight:64",true,Gender,Male,Shiny,Normal,,,,6400.006903752,,235,deny,manual,65.00,78.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+weepinbell,,,,,,,,Male,,Shiny,,,,6400.006903752,,77,deny,manual,113.75,136.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weepinbell,,,,,,,,Female,,Normal,,,,6400.006903752,,161,deny,manual,65.00,65.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weepinbell,,,,,,,,Female,,Shiny,,,,6400.006903752,,247,deny,manual,113.75,113.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bellsprout,Bellsprout,"<p>Bellsprout’s thin and flexible body lets it bend and sway<br>
+to avoid any attack, however strong it may be. From its mouth,<br>
+this Pokémon spits a corrosive fluid that melts even iron.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:gluttony, attack:75, base-experience:60, base-happiness:70, capture-rate:255, color:green, defense:35, egg-group:plant, evolution-chain:bellsprout, forms:bellsprout, generation:i, genus:Flower Pokémon, habitat:forest, has-gender-differences:false, height:7, hidden-ability:gluttony, hp:50, id:69, is-baby:false, primary-type:grass, shape:humanoid, special-attack:70, special-defense:30, speed:40, type:grass, type:poison, weight:40",true,Gender,Male,Shiny,Normal,,,,4000.004314845,,26,deny,manual,50.00,50.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+bellsprout,,,,,,,,Male,,Shiny,,,,4000.004314845,,104,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bellsprout,,,,,,,,Female,,Normal,,,,4000.004314845,,218,deny,manual,50.00,50.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bellsprout,,,,,,,,Female,,Shiny,,,,4000.004314845,,191,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machamp,Machamp,"<p>It grasps its opponents with its four arms and<br>
+twists them up in an intricate hold. People call<br>
+it “the Machamp special.”</p>",Kanto,Fighting,"ability:guts, ability:no-guard, ability:steadfast, attack:130, base-experience:227, base-happiness:70, capture-rate:45, color:gray, defense:80, egg-group:humanshape, evolution-chain:machop, forms:machamp, generation:i, genus:Superpower Pokémon, habitat:mountain, has-gender-differences:false, height:16, held-item:focus-band, hidden-ability:steadfast, hp:90, id:68, is-baby:false, primary-type:fighting, shape:humanoid, special-attack:65, special-defense:85, speed:55, type:fighting, weight:1300",true,Gender,Male,Shiny,Normal,,,,129999.981475133,,97,deny,manual,84.17,84.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+machamp,,,,,,,,Male,,Shiny,,,,129999.981475133,,157,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machamp,,,,,,,,Female,,Normal,,,,129999.981475133,,5,deny,manual,84.17,84.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machamp,,,,,,,,Female,,Shiny,,,,129999.981475133,,12,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machoke,Machoke,"<p>When it encounters an enemy that’s truly<br>
+mighty, this Pokémon removes the power-save<br>
+belt from its waist and unleashes its full power.</p>",Kanto,Fighting,"ability:guts, ability:no-guard, ability:steadfast, attack:100, base-experience:142, base-happiness:70, capture-rate:90, color:gray, defense:70, egg-group:humanshape, evolution-chain:machop, forms:machoke, generation:i, genus:Superpower Pokémon, habitat:mountain, has-gender-differences:false, height:15, held-item:focus-band, hidden-ability:steadfast, hp:80, id:67, is-baby:false, primary-type:fighting, shape:humanoid, special-attack:50, special-defense:60, speed:45, type:fighting, weight:705",true,Gender,Male,Shiny,Normal,,,,70500.002340383,,114,deny,manual,67.50,67.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+machoke,,,,,,,,Male,,Shiny,,,,70500.002340383,,226,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machoke,,,,,,,,Female,,Normal,,,,70500.002340383,,21,deny,manual,67.50,81.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machoke,,,,,,,,Female,,Shiny,,,,70500.002340383,,230,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machop,Machop,"<p>Once this Pokémon has gained enough<br>
+confidence and muscle from training with its<br>
+friends, it challenges Makuhita to a battle.</p>",Kanto,Fighting,"ability:guts, ability:no-guard, ability:steadfast, attack:80, base-experience:61, base-happiness:70, capture-rate:180, color:gray, defense:50, egg-group:humanshape, evolution-chain:machop, forms:machop, generation:i, genus:Superpower Pokémon, habitat:mountain, has-gender-differences:false, height:8, held-item:focus-band, hidden-ability:steadfast, hp:70, id:66, is-baby:false, primary-type:fighting, shape:upright, special-attack:35, special-defense:35, speed:35, type:fighting, weight:195",true,Gender,Male,Shiny,Normal,,,,19499.981345537,,129,deny,manual,50.83,50.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+machop,,,,,,,,Male,,Shiny,,,,19499.981345537,,195,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machop,,,,,,,,Female,,Normal,,,,19499.981345537,,139,deny,manual,50.83,50.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+machop,,,,,,,,Female,,Shiny,,,,19499.981345537,,159,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+alakazam,Alakazam,"<p>Alakazam uses its psychic powers to make the<br>
+spoons it carries. Each spoon is an original that<br>
+there’s only one of in the whole world.</p>",Kanto,Psychic,"ability:inner-focus, ability:magic-guard, ability:synchronize, attack:50, base-experience:225, base-happiness:70, capture-rate:50, color:brown, defense:45, egg-group:humanshape, evolution-chain:abra, forms:alakazam, generation:i, genus:Psi Pokémon, habitat:urban, has-gender-differences:true, height:15, held-item:twisted-spoon, hidden-ability:magic-guard, hp:55, id:65, is-baby:false, primary-type:psychic, shape:humanoid, special-attack:135, special-defense:95, speed:120, type:psychic, weight:480",true,Gender,Male,Shiny,Normal,,,,48000.006418903,,112,deny,manual,83.33,83.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+alakazam,,,,,,,,Male,,Shiny,,,,48000.006418903,,138,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+alakazam,,,,,,,,Female,,Normal,,,,48000.006418903,,195,deny,manual,83.33,83.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+alakazam,,,,,,,,Female,,Shiny,,,,48000.006418903,,72,deny,manual,145.83,175.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kadabra,Kadabra,"<p>It stares at a silver spoon to amplify its psychic<br>
+powers before it lets loose. Apparently, gold<br>
+spoons are no good.</p>",Kanto,Psychic,"ability:inner-focus, ability:magic-guard, ability:synchronize, attack:35, base-experience:140, base-happiness:70, capture-rate:100, color:brown, defense:30, egg-group:humanshape, evolution-chain:abra, forms:kadabra, generation:i, genus:Psi Pokémon, habitat:urban, has-gender-differences:true, height:13, held-item:twisted-spoon, hidden-ability:magic-guard, hp:40, id:64, is-baby:false, primary-type:psychic, shape:upright, special-attack:120, special-defense:70, speed:105, type:psychic, weight:565",true,Gender,Male,Shiny,Normal,,,,56500.009918044,,202,deny,manual,66.67,66.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kadabra,,,,,,,,Male,,Shiny,,,,56500.009918044,,248,deny,manual,116.67,116.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kadabra,,,,,,,,Female,,Normal,,,,56500.009918044,,188,deny,manual,66.67,66.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kadabra,,,,,,,,Female,,Shiny,,,,56500.009918044,,221,deny,manual,116.67,116.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+abra,Abra,"<p>It uses various psychic powers even while it’s<br>
+sleeping, so you can’t tell whether or not<br>
+it’s awake.</p>",Kanto,Psychic,"ability:inner-focus, ability:magic-guard, ability:synchronize, attack:20, base-experience:62, base-happiness:70, capture-rate:200, color:brown, defense:15, egg-group:humanshape, evolution-chain:abra, forms:abra, generation:i, genus:Psi Pokémon, habitat:urban, has-gender-differences:false, height:9, held-item:twisted-spoon, hidden-ability:magic-guard, hp:25, id:63, is-baby:false, primary-type:psychic, shape:upright, special-attack:105, special-defense:55, speed:90, type:psychic, weight:195",true,Gender,Male,Shiny,Normal,,,,19499.981345537,,56,deny,manual,51.67,62.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+abra,,,,,,,,Male,,Shiny,,,,19499.981345537,,122,deny,manual,90.42,90.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+abra,,,,,,,,Female,,Normal,,,,19499.981345537,,60,deny,manual,51.67,62.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+abra,,,,,,,,Female,,Shiny,,,,19499.981345537,,84,deny,manual,90.42,108.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwrath,Poliwrath,"<p>It’s quite a gifted swimmer, even among<br>
+Water-type Pokémon, but it normally spends its<br>
+time on land.</p>",Kanto,Water/Fighting,"ability:damp, ability:swift-swim, ability:water-absorb, attack:95, base-experience:230, base-happiness:70, capture-rate:45, color:blue, defense:95, egg-group:water1, evolution-chain:poliwag, forms:poliwrath, generation:i, genus:Tadpole Pokémon, habitat:waters-edge, has-gender-differences:false, height:13, held-item:kings-rock, hidden-ability:swift-swim, hp:90, id:62, is-baby:false, primary-type:water, shape:humanoid, special-attack:70, special-defense:90, speed:70, type:fighting, type:water, weight:540",true,Gender,Male,Shiny,Normal,,,,53999.990211552,,227,deny,manual,85.00,85.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+poliwrath,,,,,,,,Male,,Shiny,,,,53999.990211552,,237,deny,manual,148.75,148.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwrath,,,,,,,,Female,,Normal,,,,53999.990211552,,206,deny,manual,85.00,85.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwrath,,,,,,,,Female,,Shiny,,,,53999.990211552,,84,deny,manual,148.75,148.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwhirl,Poliwhirl,"<p>Although it has become capable of living on<br>
+land, it spends its time in the water, where<br>
+its prey, fish Pokémon, are plentiful.</p>",Kanto,Water,"ability:damp, ability:swift-swim, ability:water-absorb, attack:65, base-experience:135, base-happiness:70, capture-rate:120, color:blue, defense:65, egg-group:water1, evolution-chain:poliwag, forms:poliwhirl, generation:i, genus:Tadpole Pokémon, habitat:waters-edge, has-gender-differences:false, height:10, held-item:kings-rock, hidden-ability:swift-swim, hp:65, id:61, is-baby:false, primary-type:water, shape:humanoid, special-attack:50, special-defense:50, speed:90, type:water, weight:200",true,Gender,Male,Shiny,Normal,,,,20000.021574225,,152,deny,manual,64.17,64.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+poliwhirl,,,,,,,,Male,,Shiny,,,,20000.021574225,,200,deny,manual,112.29,112.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwhirl,,,,,,,,Female,,Normal,,,,20000.021574225,,43,deny,manual,64.17,77.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwhirl,,,,,,,,Female,,Shiny,,,,20000.021574225,,7,deny,manual,112.29,134.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwag,Poliwag,"<p>Despite the danger, it wants to come up on land.<br>
+So it does its best to waddle along, but when<br>
+an enemy finds it, it rushes back to the water.</p>",Kanto,Water,"ability:damp, ability:swift-swim, ability:water-absorb, attack:50, base-experience:60, base-happiness:70, capture-rate:255, color:blue, defense:40, egg-group:water1, evolution-chain:poliwag, forms:poliwag, generation:i, genus:Tadpole Pokémon, habitat:waters-edge, has-gender-differences:false, height:6, hidden-ability:swift-swim, hp:40, id:60, is-baby:false, primary-type:water, shape:legs, special-attack:40, special-defense:40, speed:90, type:water, weight:124",true,Gender,Male,Shiny,Normal,,,,12399.990696401,,69,deny,manual,50.00,50.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+poliwag,,,,,,,,Male,,Shiny,,,,12399.990696401,,125,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwag,,,,,,,,Female,,Normal,,,,12399.990696401,,5,deny,manual,50.00,50.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+poliwag,,,,,,,,Female,,Shiny,,,,12399.990696401,,171,deny,manual,87.50,105.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arcanine,Arcanine,"<p>Legends tell of its fighting alongside a general<br>
+and conquering a whole country.</p>",Kanto,Fire,"ability:flash-fire, ability:intimidate, ability:justified, attack:110, base-experience:194, base-happiness:70, capture-rate:75, color:brown, defense:80, egg-group:ground, evolution-chain:growlithe, forms:arcanine, generation:i, genus:Legendary Pokémon, habitat:grassland, has-gender-differences:false, height:19, held-item:rawst-berry, hidden-ability:justified, hp:90, id:59, is-baby:false, primary-type:fire, shape:quadruped, special-attack:100, special-defense:80, speed:95, type:fire, weight:1550",true,Gender,Male,Shiny,Normal,,,,154999.997103105,,74,deny,manual,92.50,92.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+arcanine,,,,,,,,Male,,Shiny,,,,154999.997103105,,96,deny,manual,161.88,161.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arcanine,,,,,,,,Female,,Normal,,,,154999.997103105,,171,deny,manual,92.50,111.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arcanine,,,,,,,,Female,,Shiny,,,,154999.997103105,,241,deny,manual,161.88,161.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+growlithe,Growlithe,"<p>While it’s quite friendly toward humans once it’s<br>
+grown used to them, in the wild it must be quite<br>
+fierce to defend its territory from Rockruff.</p>",Kanto,Fire,"ability:flash-fire, ability:intimidate, ability:justified, attack:70, base-experience:70, base-happiness:70, capture-rate:190, color:brown, defense:45, egg-group:ground, evolution-chain:growlithe, forms:growlithe, generation:i, genus:Puppy Pokémon, habitat:grassland, has-gender-differences:false, height:7, held-item:rawst-berry, hidden-ability:justified, hp:55, id:58, is-baby:false, primary-type:fire, shape:quadruped, special-attack:70, special-defense:50, speed:60, type:fire, weight:190",true,Gender,Male,Shiny,Normal,,,,18999.986476086,,128,deny,manual,58.33,58.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+growlithe,,,,,,,,Male,,Shiny,,,,18999.986476086,,28,deny,manual,102.08,102.08,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+growlithe,,,,,,,,Female,,Normal,,,,18999.986476086,,3,deny,manual,58.33,58.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+growlithe,,,,,,,,Female,,Shiny,,,,18999.986476086,,151,deny,manual,102.08,122.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+primeape,Primeape,"<p>It will never forgive opponents who have<br>
+angered it. Even after it has beaten them down<br>
+until they can’t move, it never ever forgives.</p>",Kanto,Fighting,"ability:anger-point, ability:defiant, ability:vital-spirit, attack:105, base-experience:159, base-happiness:70, capture-rate:75, color:brown, defense:60, egg-group:ground, evolution-chain:mankey, forms:primeape, generation:i, genus:Pig Monkey Pokémon, habitat:mountain, has-gender-differences:false, height:10, held-item:payapa-berry, hidden-ability:defiant, hp:65, id:57, is-baby:false, primary-type:fighting, shape:upright, special-attack:60, special-defense:70, speed:95, type:fighting, weight:320",true,Gender,Male,Shiny,Normal,,,,31999.989159523,,16,deny,manual,75.83,91.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+primeape,,,,,,,,Male,,Shiny,,,,31999.989159523,,162,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+primeape,,,,,,,,Female,,Normal,,,,31999.989159523,,149,deny,manual,75.83,75.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+primeape,,,,,,,,Female,,Shiny,,,,31999.989159523,,100,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mankey,Mankey,"<p>The smallest of things could cause it to lose its<br>
+temper. Because it doesn’t hold in its stress,<br>
+this Pokémon can live a long time.</p>",Kanto,Fighting,"ability:anger-point, ability:defiant, ability:vital-spirit, attack:80, base-experience:61, base-happiness:70, capture-rate:190, color:brown, defense:35, egg-group:ground, evolution-chain:mankey, forms:mankey, generation:i, genus:Pig Monkey Pokémon, habitat:mountain, has-gender-differences:false, height:5, held-item:payapa-berry, hidden-ability:defiant, hp:40, id:56, is-baby:false, primary-type:fighting, shape:upright, special-attack:35, special-defense:45, speed:70, type:fighting, weight:280",true,Gender,Male,Shiny,Normal,,,,27999.984844678,,160,deny,manual,50.83,50.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+mankey,,,,,,,,Male,,Shiny,,,,27999.984844678,,129,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mankey,,,,,,,,Female,,Normal,,,,27999.984844678,,14,deny,manual,50.83,50.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+mankey,,,,,,,,Female,,Shiny,,,,27999.984844678,,136,deny,manual,88.96,106.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golduck,Golduck,"<p>Even fast-swimming fish Pokémon can be<br>
+disabled by Golduck. It brings them to a<br>
+standstill and seizes them.</p>",Kanto,Water,"ability:cloud-nine, ability:damp, ability:swift-swim, attack:82, base-experience:175, base-happiness:70, capture-rate:75, color:blue, defense:78, egg-group:ground, egg-group:water1, evolution-chain:psyduck, forms:golduck, generation:i, genus:Duck Pokémon, habitat:waters-edge, has-gender-differences:false, height:17, hidden-ability:swift-swim, hp:80, id:55, is-baby:false, primary-type:water, shape:upright, special-attack:95, special-defense:80, speed:85, type:water, weight:766",true,Gender,Male,Shiny,Normal,,,,76600.003250617,,94,deny,manual,83.33,83.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+golduck,,,,,,,,Male,,Shiny,,,,76600.003250617,,219,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golduck,,,,,,,,Female,,Normal,,,,76600.003250617,,58,deny,manual,83.33,100.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golduck,,,,,,,,Female,,Shiny,,,,76600.003250617,,51,deny,manual,145.83,145.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+psyduck,Psyduck,"<p>Using psychokinesis gives it a headache, so it<br>
+normally passes the time spacing out and doing<br>
+as little as possible.</p>",Kanto,Water,"ability:cloud-nine, ability:damp, ability:swift-swim, attack:52, base-experience:64, base-happiness:70, capture-rate:190, color:yellow, defense:48, egg-group:ground, egg-group:water1, evolution-chain:psyduck, forms:psyduck, generation:i, genus:Duck Pokémon, habitat:waters-edge, has-gender-differences:false, height:8, hidden-ability:swift-swim, hp:50, id:54, is-baby:false, primary-type:water, shape:upright, special-attack:65, special-defense:50, speed:55, type:water, weight:196",true,Gender,Male,Shiny,Normal,,,,19599.998463122,,223,deny,manual,53.33,53.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+psyduck,,,,,,,,Male,,Shiny,,,,19599.998463122,,121,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+psyduck,,,,,,,,Female,,Normal,,,,19599.998463122,,1,deny,manual,53.33,53.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+psyduck,,,,,,,,Female,,Shiny,,,,19599.998463122,,52,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+persian,Persian,"<p>Although the jewel on its forehead appears to<br>
+be a different color than those of Alolan<br>
+Persian, it’s mostly made of the same material.</p>",Kanto,Normal,"ability:limber, ability:technician, ability:unnerve, attack:70, base-experience:154, base-happiness:70, capture-rate:90, color:yellow, defense:60, egg-group:ground, evolution-chain:meowth, forms:persian, generation:i, genus:Classy Cat Pokémon, habitat:urban, has-gender-differences:false, height:10, held-item:quick-claw, hidden-ability:unnerve, hp:65, id:53, is-baby:false, primary-type:normal, shape:quadruped, special-attack:65, special-defense:65, speed:115, type:normal, weight:320",true,Gender,Male,Shiny,Normal,,,,31999.989159523,,98,deny,manual,73.33,73.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+persian,,,,,,,,Male,,Shiny,,,,31999.989159523,,21,deny,manual,128.33,154.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+persian,,,,,,,,Female,,Normal,,,,31999.989159523,,250,deny,manual,73.33,73.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+persian,,,,,,,,Female,,Shiny,,,,31999.989159523,,242,deny,manual,128.33,128.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+meowth,Meowth,"<p>When visiting a junkyard, you may catch sight<br>
+of it having an intense fight with Murkrow over<br>
+shiny objects.</p>",Kanto,Normal,"ability:pickup, ability:technician, ability:unnerve, attack:45, base-experience:58, base-happiness:70, capture-rate:255, color:yellow, defense:35, egg-group:ground, evolution-chain:meowth, forms:meowth, generation:i, genus:Scratch Cat Pokémon, habitat:urban, has-gender-differences:false, height:4, held-item:nugget, held-item:quick-claw, hidden-ability:unnerve, hp:40, id:52, is-baby:false, primary-type:normal, shape:quadruped, special-attack:40, special-defense:40, speed:90, type:normal, weight:42",true,Gender,Male,Shiny,Normal,,,,4199.993190778,,71,deny,manual,48.33,48.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+meowth,,,,,,,,Male,,Shiny,,,,4199.993190778,,134,deny,manual,84.58,84.58,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+meowth,,,,,,,,Female,,Normal,,,,4199.993190778,,122,deny,manual,48.33,48.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+meowth,,,,,,,,Female,,Shiny,,,,4199.993190778,,139,deny,manual,84.58,101.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dugtrio,Dugtrio,"<p>While the three of them normally get along<br>
+splendidly, on rare occasions a huge fight will<br>
+break out over which head gets to eat first.</p>",Kanto,Ground,"ability:arena-trap, ability:sand-force, ability:sand-veil, attack:100, base-experience:149, base-happiness:70, capture-rate:50, color:brown, defense:50, egg-group:ground, evolution-chain:diglett, forms:dugtrio, generation:i, genus:Mole Pokémon, habitat:cave, has-gender-differences:false, height:7, held-item:soft-sand, hidden-ability:sand-force, hp:35, id:51, is-baby:false, primary-type:ground, shape:heads, special-attack:50, special-defense:70, speed:120, type:ground, weight:333",true,Gender,Male,Shiny,Normal,,,,33299.984891943,,24,deny,manual,70.83,70.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+dugtrio,,,,,,,,Male,,Shiny,,,,33299.984891943,,121,deny,manual,123.96,123.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dugtrio,,,,,,,,Female,,Normal,,,,33299.984891943,,219,deny,manual,70.83,70.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+dugtrio,,,,,,,,Female,,Shiny,,,,33299.984891943,,168,deny,manual,123.96,123.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+diglett,Diglett,"<p>It travels through tunnels that it digs<br>
+underground. It hates sunlight, so it comes<br>
+out only after the sun goes down.</p>",Kanto,Ground,"ability:arena-trap, ability:sand-force, ability:sand-veil, attack:55, base-experience:53, base-happiness:70, capture-rate:255, color:brown, defense:25, egg-group:ground, evolution-chain:diglett, forms:diglett, generation:i, genus:Mole Pokémon, habitat:cave, has-gender-differences:false, height:2, held-item:soft-sand, hidden-ability:sand-force, hp:10, id:50, is-baby:false, primary-type:ground, shape:blob, special-attack:35, special-defense:45, speed:95, type:ground, weight:8",true,Gender,Male,Shiny,Normal,,,,800.000862969,,137,deny,manual,44.17,44.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+diglett,,,,,,,,Male,,Shiny,,,,800.000862969,,131,deny,manual,77.29,77.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+diglett,,,,,,,,Female,,Normal,,,,800.000862969,,127,deny,manual,44.17,44.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+diglett,,,,,,,,Female,,Shiny,,,,800.000862969,,153,deny,manual,77.29,92.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venomoth,Venomoth,"<p>Venomoth is nocturnal—it is a Pokémon that only becomes<br>
+active at night. Its favorite prey are small insects that gather<br>
+around streetlights, attracted by the light in the darkness.</p>",Kanto,Bug/Poison,"ability:shield-dust, ability:tinted-lens, ability:wonder-skin, attack:65, base-experience:158, base-happiness:70, capture-rate:75, color:purple, defense:60, egg-group:bug, evolution-chain:venonat, forms:venomoth, generation:i, genus:Poison Moth Pokémon, habitat:forest, has-gender-differences:false, height:15, held-item:shed-shell, held-item:silver-powder, hidden-ability:wonder-skin, hp:70, id:49, is-baby:false, primary-type:bug, shape:bug-wings, special-attack:90, special-defense:75, speed:90, type:bug, type:poison, weight:125",true,Gender,Male,Shiny,Normal,,,,12500.007813986,,26,deny,manual,75.00,75.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+venomoth,,,,,,,,Male,,Shiny,,,,12500.007813986,,190,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venomoth,,,,,,,,Female,,Normal,,,,12500.007813986,,121,deny,manual,75.00,75.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venomoth,,,,,,,,Female,,Shiny,,,,12500.007813986,,95,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venonat,Venonat,"<p>Venonat is said to have evolved with a coat of thin, stiff hair<br>
+that covers its entire body for protection. It possesses large<br>
+eyes that never fail to spot even minuscule prey.</p>",Kanto,Bug/Poison,"ability:compound-eyes, ability:run-away, ability:tinted-lens, attack:55, base-experience:61, base-happiness:70, capture-rate:190, color:purple, defense:50, egg-group:bug, evolution-chain:venonat, forms:venonat, generation:i, genus:Insect Pokémon, habitat:forest, has-gender-differences:false, height:10, hidden-ability:run-away, hp:60, id:48, is-baby:false, primary-type:bug, shape:humanoid, special-attack:40, special-defense:55, speed:45, type:bug, type:poison, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,7,deny,manual,50.83,61.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+venonat,,,,,,,,Male,,Shiny,,,,30000.009681719,,88,deny,manual,88.96,88.96,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venonat,,,,,,,,Female,,Normal,,,,30000.009681719,,56,deny,manual,50.83,50.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venonat,,,,,,,,Female,,Shiny,,,,30000.009681719,,1,deny,manual,88.96,106.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+parasect,Parasect,"<p>The bug is mostly dead, with the mushroom on<br>
+its back having become the main body. If the<br>
+mushroom comes off, the bug stops moving.</p>",Kanto,Bug/Grass,"ability:damp, ability:dry-skin, ability:effect-spore, attack:95, base-experience:142, base-happiness:70, capture-rate:75, color:red, defense:80, egg-group:bug, egg-group:plant, evolution-chain:paras, forms:parasect, generation:i, genus:Mushroom Pokémon, habitat:forest, has-gender-differences:false, height:10, held-item:balm-mushroom, held-item:big-mushroom, held-item:tiny-mushroom, hidden-ability:damp, hp:60, id:47, is-baby:false, primary-type:bug, shape:armor, special-attack:60, special-defense:80, speed:30, type:bug, type:grass, weight:295",true,Gender,Male,Shiny,Normal,,,,29500.014812268,,19,deny,manual,67.50,67.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+parasect,,,,,,,,Male,,Shiny,,,,29500.014812268,,161,deny,manual,118.13,141.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+parasect,,,,,,,,Female,,Normal,,,,29500.014812268,,195,deny,manual,67.50,67.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+parasect,,,,,,,,Female,,Shiny,,,,29500.014812268,,85,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+paras,Paras,"<p>Whether it’s due to a lack of moisture or a lack<br>
+of nutrients, in Alola the mushrooms on Paras<br>
+don’t grow up quite right.</p>",Kanto,Bug/Grass,"ability:damp, ability:dry-skin, ability:effect-spore, attack:70, base-experience:57, base-happiness:70, capture-rate:190, color:red, defense:55, egg-group:bug, egg-group:plant, evolution-chain:paras, forms:paras, generation:i, genus:Mushroom Pokémon, habitat:forest, has-gender-differences:false, height:3, held-item:balm-mushroom, held-item:big-mushroom, held-item:tiny-mushroom, hidden-ability:damp, hp:35, id:46, is-baby:false, primary-type:bug, shape:armor, special-attack:45, special-defense:55, speed:25, type:bug, type:grass, weight:54",true,Gender,Male,Shiny,Normal,,,,5400.01716485,,69,deny,manual,47.50,47.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+paras,,,,,,,,Male,,Shiny,,,,5400.01716485,,4,deny,manual,83.13,83.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+paras,,,,,,,,Female,,Normal,,,,5400.01716485,,193,deny,manual,47.50,47.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+paras,,,,,,,,Female,,Shiny,,,,5400.01716485,,14,deny,manual,83.13,83.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vileplume,Vileplume,"<p>Vileplume has the world’s largest petals. They are used to<br>
+attract prey that are then doused with toxic spores. Once the<br>
+prey are immobilized, this Pokémon catches and devours them.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:effect-spore, attack:80, base-experience:221, base-happiness:70, capture-rate:45, color:red, defense:85, egg-group:plant, evolution-chain:oddish, forms:vileplume, generation:i, genus:Flower Pokémon, habitat:grassland, has-gender-differences:true, height:12, held-item:absorb-bulb, hidden-ability:effect-spore, hp:75, id:45, is-baby:false, primary-type:grass, shape:humanoid, special-attack:110, special-defense:90, speed:50, type:grass, type:poison, weight:186",true,Gender,Male,Shiny,Normal,,,,18600.00872422,,49,deny,manual,81.67,98.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+vileplume,,,,,,,,Male,,Shiny,,,,18600.00872422,,43,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vileplume,,,,,,,,Female,,Normal,,,,18600.00872422,,240,deny,manual,81.67,81.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vileplume,,,,,,,,Female,,Shiny,,,,18600.00872422,,20,deny,manual,142.92,142.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gloom,Gloom,"<p>From its mouth Gloom drips honey that smells absolutely<br>
+horrible. Apparently, it loves the horrid stench. It sniffs the<br>
+noxious fumes and then drools even more of its honey.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:stench, attack:65, base-experience:138, base-happiness:70, capture-rate:120, color:blue, defense:70, egg-group:plant, evolution-chain:oddish, forms:gloom, generation:i, genus:Weed Pokémon, habitat:grassland, has-gender-differences:true, height:8, held-item:absorb-bulb, hidden-ability:stench, hp:60, id:44, is-baby:false, primary-type:grass, shape:humanoid, special-attack:85, special-defense:75, speed:40, type:grass, type:poison, weight:86",true,Gender,Male,Shiny,Normal,,,,8600.020616726,,201,deny,manual,65.83,65.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+gloom,,,,,,,,Male,,Shiny,,,,8600.020616726,,191,deny,manual,115.21,138.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gloom,,,,,,,,Female,,Normal,,,,8600.020616726,,141,deny,manual,65.83,65.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+gloom,,,,,,,,Female,,Shiny,,,,8600.020616726,,205,deny,manual,115.21,138.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+oddish,Oddish,"<p>Oddish searches for fertile, nutrient-rich soil, then plants itself.<br>
+During the daytime, while it is planted, this Pokémon’s feet<br>
+are thought to change shape and become similar to the roots<br>
+of trees.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:run-away, attack:50, base-experience:64, base-happiness:70, capture-rate:255, color:blue, defense:55, egg-group:plant, evolution-chain:oddish, forms:oddish, generation:i, genus:Weed Pokémon, habitat:grassland, has-gender-differences:false, height:5, held-item:absorb-bulb, hidden-ability:run-away, hp:45, id:43, is-baby:false, primary-type:grass, shape:legs, special-attack:75, special-defense:65, speed:30, type:grass, type:poison, weight:54",true,Gender,Male,Shiny,Normal,,,,5400.01716485,,180,deny,manual,53.33,53.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+oddish,,,,,,,,Male,,Shiny,,,,5400.01716485,,172,deny,manual,93.33,112.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+oddish,,,,,,,,Female,,Normal,,,,5400.01716485,,129,deny,manual,53.33,53.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+oddish,,,,,,,,Female,,Shiny,,,,5400.01716485,,105,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golbat,Golbat,"<p>Every once in a while, you’ll see a Golbat that’s<br>
+missing some fangs. This happens when hunger<br>
+drives it to try biting a Steel-type Pokémon.</p>",Kanto,Poison/Flying,"ability:infiltrator, ability:inner-focus, attack:80, base-experience:159, base-happiness:70, capture-rate:90, color:purple, defense:70, egg-group:flying, evolution-chain:zubat, forms:golbat, generation:i, genus:Bat Pokémon, habitat:cave, has-gender-differences:true, height:16, hidden-ability:infiltrator, hp:75, id:42, is-baby:false, primary-type:poison, shape:wings, special-attack:65, special-defense:75, speed:90, type:flying, type:poison, weight:550",true,Gender,Male,Shiny,Normal,,,,54999.979950454,,199,deny,manual,75.83,91.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+golbat,,,,,,,,Male,,Shiny,,,,54999.979950454,,10,deny,manual,132.71,159.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golbat,,,,,,,,Female,,Normal,,,,54999.979950454,,83,deny,manual,75.83,75.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+golbat,,,,,,,,Female,,Shiny,,,,54999.979950454,,129,deny,manual,132.71,132.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+zubat,Zubat,"<p>It has no eyeballs, so it can’t see. It checks its<br>
+surroundings via the ultrasonic waves it emits<br>
+from its mouth.</p>",Kanto,Poison/Flying,"ability:infiltrator, ability:inner-focus, attack:45, base-experience:49, base-happiness:70, capture-rate:255, color:purple, defense:35, egg-group:flying, evolution-chain:zubat, forms:zubat, generation:i, genus:Bat Pokémon, habitat:cave, has-gender-differences:true, height:8, hidden-ability:infiltrator, hp:40, id:41, is-baby:false, primary-type:poison, shape:wings, special-attack:30, special-defense:40, speed:55, type:flying, type:poison, weight:75",true,Gender,Male,Shiny,Normal,,,,7500.013760239,,142,deny,manual,40.83,49.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+zubat,,,,,,,,Male,,Shiny,,,,7500.013760239,,201,deny,manual,71.46,71.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+zubat,,,,,,,,Female,,Normal,,,,7500.013760239,,142,deny,manual,40.83,40.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+zubat,,,,,,,,Female,,Shiny,,,,7500.013760239,,222,deny,manual,71.46,71.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wigglytuff,Wigglytuff,"<p>Thanks to its bouncy body and fine fur,<br>
+this Pokémon is sought after. Holding one<br>
+in your arms while you sleep feels great.</p>",Kanto,Normal/Fairy,"ability:competitive, ability:cute-charm, ability:frisk, attack:70, base-experience:196, base-happiness:70, capture-rate:50, color:pink, defense:45, egg-group:fairy, evolution-chain:igglybuff, forms:wigglytuff, generation:i, genus:Balloon Pokémon, habitat:grassland, has-gender-differences:false, height:10, held-item:moon-stone, held-item:oran-berry, hidden-ability:frisk, hp:140, id:40, is-baby:false, primary-type:normal, shape:humanoid, special-attack:85, special-defense:50, speed:45, type:fairy, type:normal, weight:120",true,Gender,Male,Shiny,Normal,,,,12000.012944535,,15,deny,manual,72.50,87.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+wigglytuff,,,,,,,,Male,,Shiny,,,,12000.012944535,,50,deny,manual,126.88,126.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wigglytuff,,,,,,,,Female,,Normal,,,,12000.012944535,,53,deny,manual,72.50,72.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wigglytuff,,,,,,,,Female,,Shiny,,,,12000.012944535,,108,deny,manual,126.88,152.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jigglypuff,Jigglypuff,"<p>Recordings of Jigglypuff’s strange lullabies can<br>
+be purchased from department stores. These<br>
+CDs can be found near the bedding area.</p>",Kanto,Normal/Fairy,"ability:competitive, ability:cute-charm, ability:friend-guard, attack:45, base-experience:95, base-happiness:70, capture-rate:170, color:pink, defense:20, egg-group:fairy, evolution-chain:igglybuff, forms:jigglypuff, generation:i, genus:Balloon Pokémon, habitat:grassland, has-gender-differences:false, height:5, held-item:moon-stone, held-item:oran-berry, hidden-ability:friend-guard, hp:115, id:39, is-baby:false, primary-type:normal, shape:humanoid, special-attack:45, special-defense:25, speed:20, type:fairy, type:normal, weight:55",true,Gender,Male,Shiny,Normal,,,,5499.988923198,,91,deny,manual,45.00,45.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+jigglypuff,,,,,,,,Male,,Shiny,,,,5499.988923198,,75,deny,manual,78.75,94.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jigglypuff,,,,,,,,Female,,Normal,,,,5499.988923198,,120,deny,manual,45.00,45.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+jigglypuff,,,,,,,,Female,,Shiny,,,,5499.988923198,,27,deny,manual,78.75,78.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ninetales,Ninetales,"<p>It is vindictive and relentless by nature.<br>
+Those who cross it even once will be cursed for<br>
+a thousand years, along with their descendants.</p>",Kanto,Fire,"ability:drought, ability:flash-fire, attack:76, base-experience:177, base-happiness:70, capture-rate:75, color:yellow, defense:75, egg-group:ground, evolution-chain:vulpix, forms:ninetales, generation:i, genus:Fox Pokémon, habitat:grassland, has-gender-differences:false, height:11, held-item:charcoal, held-item:rawst-berry, hidden-ability:drought, hp:73, id:38, is-baby:false, primary-type:fire, shape:quadruped, special-attack:81, special-defense:100, speed:100, type:fire, weight:199",true,Gender,Male,Shiny,Normal,,,,19900.00445664,,40,deny,manual,84.17,84.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+ninetales,,,,,,,,Male,,Shiny,,,,19900.00445664,,229,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ninetales,,,,,,,,Female,,Normal,,,,19900.00445664,,7,deny,manual,84.17,84.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ninetales,,,,,,,,Female,,Shiny,,,,19900.00445664,,21,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vulpix,Vulpix,"<p>Its beautiful tails have made it very popular.<br>
+However, if it’s not brushed diligently, it will<br>
+be a mass of tangles before you know it.</p>",Kanto,Fire,"ability:drought, ability:flash-fire, attack:41, base-experience:60, base-happiness:70, capture-rate:190, color:brown, defense:40, egg-group:ground, evolution-chain:vulpix, forms:vulpix, generation:i, genus:Fox Pokémon, habitat:grassland, has-gender-differences:false, height:6, held-item:charcoal, held-item:rawst-berry, hidden-ability:drought, hp:38, id:37, is-baby:false, primary-type:fire, shape:quadruped, special-attack:50, special-defense:65, speed:65, type:fire, weight:99",true,Gender,Male,Shiny,Normal,,,,9900.016349146,,104,deny,manual,49.83,59.80,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+vulpix,,,,,,,,Male,,Shiny,,,,9900.016349146,,14,deny,manual,87.21,87.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vulpix,,,,,,,,Female,,Normal,,,,9900.016349146,,111,deny,manual,49.83,49.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+vulpix,,,,,,,,Female,,Shiny,,,,9900.016349146,,118,deny,manual,87.21,87.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefable,Clefable,"<p>It can’t help but hear a pin drop from over half<br>
+a mile away, so it lives deep in the mountains<br>
+where there aren’t many people or Pokémon.</p>",Kanto,Fairy,"ability:cute-charm, ability:magic-guard, ability:unaware, attack:70, base-experience:217, base-happiness:140, capture-rate:25, color:pink, defense:73, egg-group:fairy, evolution-chain:cleffa, forms:clefable, generation:i, genus:Fairy Pokémon, habitat:mountain, has-gender-differences:false, height:13, held-item:comet-shard, held-item:leppa-berry, held-item:moon-stone, hidden-ability:unaware, hp:95, id:36, is-baby:false, primary-type:fairy, shape:upright, special-attack:95, special-defense:90, speed:60, type:fairy, weight:400",true,Gender,Male,Shiny,Normal,,,,39999.997789213,,91,deny,manual,80.50,80.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+clefable,,,,,,,,Male,,Shiny,,,,39999.997789213,,11,deny,manual,140.88,169.05,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefable,,,,,,,,Female,,Normal,,,,39999.997789213,,179,deny,manual,80.50,80.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefable,,,,,,,,Female,,Shiny,,,,39999.997789213,,141,deny,manual,140.88,140.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefairy,Clefairy,"<p>They’re popular, but they’re rare. Trainers who<br>
+show them off recklessly may be targeted<br>
+by thieves.</p>",Kanto,Fairy,"ability:cute-charm, ability:friend-guard, ability:magic-guard, attack:45, base-experience:113, base-happiness:140, capture-rate:150, color:pink, defense:48, egg-group:fairy, evolution-chain:cleffa, forms:clefairy, generation:i, genus:Fairy Pokémon, habitat:mountain, has-gender-differences:false, height:6, held-item:comet-shard, held-item:leppa-berry, held-item:moon-stone, hidden-ability:friend-guard, hp:70, id:35, is-baby:false, primary-type:fairy, shape:upright, special-attack:60, special-defense:65, speed:35, type:fairy, weight:75",true,Gender,Male,Shiny,Normal,,,,7500.013760239,,123,deny,manual,53.83,64.60,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+clefairy,,,,,,,,Male,,Shiny,,,,7500.013760239,,184,deny,manual,94.21,113.05,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefairy,,,,,,,,Female,,Normal,,,,7500.013760239,,27,deny,manual,53.83,64.60,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+clefairy,,,,,,,,Female,,Shiny,,,,7500.013760239,,55,deny,manual,94.21,94.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoking,Nidoking,"<p>Nidoking’s thick tail packs enormously destructive power.<br>
+With one swing, it can topple a metal transmission tower. Once<br>
+this Pokémon goes on a rampage, there is no stopping it.</p>",Kanto,Poison/Ground,"ability:poison-point, ability:rivalry, ability:sheer-force, attack:102, base-experience:227, base-happiness:70, capture-rate:45, color:purple, defense:77, egg-group:ground, egg-group:monster, evolution-chain:nidoran-m, forms:nidoking, generation:i, genus:Drill Pokémon, habitat:grassland, has-gender-differences:false, height:14, hidden-ability:sheer-force, hp:81, id:34, is-baby:false, primary-type:poison, shape:upright, special-attack:85, special-defense:75, speed:85, type:ground, type:poison, weight:620",true,Gender,Male,Shiny,Normal,,,,61999.998841242,,197,deny,manual,84.17,84.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidoking,,,,,,,,Male,,Shiny,,,,61999.998841242,,92,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoking,,,,,,,,Female,,Normal,,,,61999.998841242,,242,deny,manual,84.17,101.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoking,,,,,,,,Female,,Shiny,,,,61999.998841242,,165,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorino,Nidorino,"<p>Nidorino has a horn that is harder than a diamond. If it senses<br>
+a hostile presence, all the barbs on its back bristle up at once,<br>
+and it challenges the foe with all its might.</p>",Kanto,Poison,"ability:hustle, ability:poison-point, ability:rivalry, attack:72, base-experience:128, base-happiness:70, capture-rate:120, color:purple, defense:57, egg-group:ground, egg-group:monster, evolution-chain:nidoran-m, forms:nidorino, generation:i, genus:Poison Pin Pokémon, habitat:grassland, has-gender-differences:false, height:9, hidden-ability:hustle, hp:61, id:33, is-baby:false, primary-type:poison, shape:quadruped, special-attack:55, special-defense:55, speed:65, type:poison, weight:195",true,Gender,Male,Shiny,Normal,,,,19499.981345537,,168,deny,manual,60.83,60.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidorino,,,,,,,,Male,,Shiny,,,,19499.981345537,,199,deny,manual,106.46,106.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorino,,,,,,,,Female,,Normal,,,,19499.981345537,,108,deny,manual,60.83,60.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorino,,,,,,,,Female,,Shiny,,,,19499.981345537,,117,deny,manual,106.46,106.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-m,Nidoran♂,"<p>Nidoran♂ has developed muscles for moving its ears. Thanks<br>
+to them, the ears can be freely moved in any direction. Even<br>
+the slightest sound does not escape this Pokémon’s notice.</p>",Kanto,Poison,"ability:hustle, ability:poison-point, ability:rivalry, attack:57, base-experience:55, base-happiness:70, capture-rate:235, color:purple, defense:40, egg-group:ground, egg-group:monster, evolution-chain:nidoran-m, forms:nidoran-m, generation:i, genus:Poison Pin Pokémon, habitat:grassland, has-gender-differences:false, height:5, hidden-ability:hustle, hp:46, id:32, is-baby:false, primary-type:poison, shape:quadruped, special-attack:40, special-defense:40, speed:50, type:poison, weight:90",true,Gender,Male,Shiny,Normal,,,,8999.998368592,,33,deny,manual,45.50,45.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidoran-m,,,,,,,,Male,,Shiny,,,,8999.998368592,,235,deny,manual,79.63,95.55,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-m,,,,,,,,Female,,Normal,,,,8999.998368592,,73,deny,manual,45.50,45.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-m,,,,,,,,Female,,Shiny,,,,8999.998368592,,10,deny,manual,79.63,79.63,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoqueen,Nidoqueen,"<p>Nidoqueen’s body is encased in extremely hard scales.<br>
+It is adept at sending foes flying with harsh tackles. This<br>
+Pokémon is at its strongest when it is defending its young.</p>",Kanto,Poison/Ground,"ability:poison-point, ability:rivalry, ability:sheer-force, attack:92, base-experience:227, base-happiness:70, capture-rate:45, color:blue, defense:87, egg-group:no-eggs, evolution-chain:nidoran-f, forms:nidoqueen, generation:i, genus:Drill Pokémon, habitat:grassland, has-gender-differences:false, height:13, hidden-ability:sheer-force, hp:90, id:31, is-baby:false, primary-type:poison, shape:upright, special-attack:75, special-defense:85, speed:76, type:ground, type:poison, weight:600",true,Gender,Male,Shiny,Normal,,,,60000.019363438,,9,deny,manual,84.17,101.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidoqueen,,,,,,,,Male,,Shiny,,,,60000.019363438,,96,deny,manual,147.29,147.29,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoqueen,,,,,,,,Female,,Normal,,,,60000.019363438,,6,deny,manual,84.17,84.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoqueen,,,,,,,,Female,,Shiny,,,,60000.019363438,,26,deny,manual,147.29,176.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorina,Nidorina,"<p>When Nidorina are with their friends or family, they keep<br>
+their barbs tucked away to prevent hurting each other.<br>
+This Pokémon appears to become nervous if separated<br>
+from the others.</p>",Kanto,Poison,"ability:hustle, ability:poison-point, ability:rivalry, attack:62, base-experience:128, base-happiness:70, capture-rate:120, color:blue, defense:67, egg-group:no-eggs, evolution-chain:nidoran-f, forms:nidorina, generation:i, genus:Poison Pin Pokémon, habitat:grassland, has-gender-differences:false, height:8, hidden-ability:hustle, hp:70, id:30, is-baby:false, primary-type:poison, shape:quadruped, special-attack:55, special-defense:55, speed:56, type:poison, weight:200",true,Gender,Male,Shiny,Normal,,,,20000.021574225,,172,deny,manual,60.83,60.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidorina,,,,,,,,Male,,Shiny,,,,20000.021574225,,73,deny,manual,106.46,127.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorina,,,,,,,,Female,,Normal,,,,20000.021574225,,68,deny,manual,60.83,60.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidorina,,,,,,,,Female,,Shiny,,,,20000.021574225,,19,deny,manual,106.46,106.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-f,Nidoran♀,"<p>Nidoran♀ has barbs that secrete a powerful poison.<br>
+They are thought to have developed as protection for<br>
+this small-bodied Pokémon. When enraged, it releases<br>
+a horrible toxin from its horn.</p>",Kanto,Poison,"ability:hustle, ability:poison-point, ability:rivalry, attack:47, base-experience:55, base-happiness:70, capture-rate:235, color:blue, defense:52, egg-group:ground, egg-group:monster, evolution-chain:nidoran-f, forms:nidoran-f, generation:i, genus:Poison Pin Pokémon, habitat:grassland, has-gender-differences:false, height:4, hidden-ability:hustle, hp:55, id:29, is-baby:false, primary-type:poison, shape:quadruped, special-attack:40, special-defense:40, speed:41, type:poison, weight:70",true,Gender,Male,Shiny,Normal,,,,7000.018890788,,176,deny,manual,45.83,45.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+nidoran-f,,,,,,,,Male,,Shiny,,,,7000.018890788,,109,deny,manual,80.21,96.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-f,,,,,,,,Female,,Normal,,,,7000.018890788,,153,deny,manual,45.83,55.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+nidoran-f,,,,,,,,Female,,Shiny,,,,7000.018890788,,135,deny,manual,80.21,80.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandslash,Sandslash,"<p>Its claws and horns often break off. The broken<br>
+claws and horns can be used to carve plows for<br>
+tilling farm fields.</p>",Kanto,Ground,"ability:sand-rush, ability:sand-veil, attack:100, base-experience:158, base-happiness:70, capture-rate:90, color:yellow, defense:110, egg-group:ground, evolution-chain:sandshrew, forms:sandslash, generation:i, genus:Mouse Pokémon, habitat:rough-terrain, has-gender-differences:false, height:10, held-item:grip-claw, held-item:quick-claw, held-item:soft-sand, hidden-ability:sand-rush, hp:75, id:28, is-baby:false, primary-type:ground, shape:upright, special-attack:45, special-defense:55, speed:65, type:ground, weight:295",true,Gender,Male,Shiny,Normal,,,,29500.014812268,,226,deny,manual,75.00,75.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+sandslash,,,,,,,,Male,,Shiny,,,,29500.014812268,,167,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandslash,,,,,,,,Female,,Normal,,,,29500.014812268,,238,deny,manual,75.00,75.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandslash,,,,,,,,Female,,Shiny,,,,29500.014812268,,103,deny,manual,131.25,131.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandshrew,Sandshrew,"<p>It lives in areas of limited rainfall. When danger<br>
+approaches, it curls up into a ball to protect its<br>
+soft stomach.</p>",Kanto,Ground,"ability:sand-rush, ability:sand-veil, attack:75, base-experience:60, base-happiness:70, capture-rate:255, color:yellow, defense:85, egg-group:ground, evolution-chain:sandshrew, forms:sandshrew, generation:i, genus:Mouse Pokémon, habitat:rough-terrain, has-gender-differences:false, height:6, held-item:grip-claw, held-item:quick-claw, hidden-ability:sand-rush, hp:50, id:27, is-baby:false, primary-type:ground, shape:upright, special-attack:20, special-defense:30, speed:40, type:ground, weight:120",true,Gender,Male,Shiny,Normal,,,,12000.012944535,,192,deny,manual,50.00,60.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+sandshrew,,,,,,,,Male,,Shiny,,,,12000.012944535,,165,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandshrew,,,,,,,,Female,,Normal,,,,12000.012944535,,37,deny,manual,50.00,60.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+sandshrew,,,,,,,,Female,,Shiny,,,,12000.012944535,,128,deny,manual,87.50,87.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raichu,Raichu,"<p>As electricity builds up inside its body, it<br>
+becomes more aggressive. One theory is that<br>
+the electricity buildup is actually causing stress.</p>",Kanto,Electric,"ability:lightning-rod, ability:static, attack:90, base-experience:218, base-happiness:70, capture-rate:75, color:yellow, defense:55, egg-group:fairy, egg-group:ground, evolution-chain:pichu, forms:raichu, generation:i, genus:Mouse Pokémon, habitat:forest, has-gender-differences:true, height:8, held-item:oran-berry, hidden-ability:lightning-rod, hp:60, id:26, is-baby:false, primary-type:electric, shape:upright, special-attack:90, special-defense:80, speed:110, type:electric, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,91,deny,manual,80.83,80.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+raichu,,,,,,,,Male,,Shiny,,,,30000.009681719,,48,deny,manual,141.46,169.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raichu,,,,,,,,Female,,Normal,,,,30000.009681719,,71,deny,manual,80.83,80.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raichu,,,,,,,,Female,,Shiny,,,,30000.009681719,,97,deny,manual,141.46,141.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pikachu,Pikachu,"<p>Its nature is to store up electricity. Forests<br>
+where nests of Pikachu live are dangerous,<br>
+since the trees are so often struck by lightning.</p>",Kanto,Electric,"ability:lightning-rod, ability:static, attack:55, base-experience:112, base-happiness:70, capture-rate:190, color:yellow, defense:40, egg-group:fairy, egg-group:ground, evolution-chain:pichu, forms:pikachu, generation:i, genus:Mouse Pokémon, habitat:forest, has-gender-differences:true, height:4, held-item:light-ball, held-item:oran-berry, hidden-ability:lightning-rod, hp:35, id:25, is-baby:false, primary-type:electric, shape:quadruped, special-attack:50, special-defense:50, speed:90, type:electric, weight:60",true,Gender,Male,Shiny,Normal,,,,5999.983792649,,34,deny,manual,53.33,53.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+pikachu,,,,,,,,Male,,Shiny,,,,5999.983792649,,188,deny,manual,93.33,112.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pikachu,,,,,,,,Female,,Normal,,,,5999.983792649,,119,deny,manual,53.33,53.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pikachu,,,,,,,,Female,,Shiny,,,,5999.983792649,,43,deny,manual,93.33,93.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arbok,Arbok,"<p>The latest research has determined that there<br>
+are over 20 possible arrangements of the<br>
+patterns on its stomach.</p>",Kanto,Poison,"ability:intimidate, ability:shed-skin, ability:unnerve, attack:95, base-experience:157, base-happiness:70, capture-rate:90, color:purple, defense:69, egg-group:dragon, egg-group:ground, evolution-chain:ekans, forms:arbok, generation:i, genus:Cobra Pokémon, habitat:grassland, has-gender-differences:false, height:35, held-item:poison-barb, hidden-ability:unnerve, hp:60, id:24, is-baby:false, primary-type:poison, shape:squiggle, special-attack:65, special-defense:79, speed:80, type:poison, weight:650",true,Gender,Male,Shiny,Normal,,,,65000.013417185,,84,deny,manual,74.67,74.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+arbok,,,,,,,,Male,,Shiny,,,,65000.013417185,,177,deny,manual,130.67,130.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arbok,,,,,,,,Female,,Normal,,,,65000.013417185,,41,deny,manual,74.67,89.60,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+arbok,,,,,,,,Female,,Shiny,,,,65000.013417185,,185,deny,manual,130.67,130.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ekans,Ekans,"<p>By dislocating its jaw, it can swallow prey larger<br>
+than itself. After a meal, it curls up and rests.</p>",Kanto,Poison,"ability:intimidate, ability:shed-skin, ability:unnerve, attack:60, base-experience:58, base-happiness:70, capture-rate:255, color:purple, defense:44, egg-group:dragon, egg-group:ground, evolution-chain:ekans, forms:ekans, generation:i, genus:Snake Pokémon, habitat:grassland, has-gender-differences:false, height:20, hidden-ability:unnerve, hp:35, id:23, is-baby:false, primary-type:poison, shape:squiggle, special-attack:40, special-defense:54, speed:55, type:poison, weight:69",true,Gender,Male,Shiny,Normal,,,,6900.001773203,,44,deny,manual,48.00,57.60,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+ekans,,,,,,,,Male,,Shiny,,,,6900.001773203,,172,deny,manual,84.00,100.80,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ekans,,,,,,,,Female,,Normal,,,,6900.001773203,,20,deny,manual,48.00,48.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ekans,,,,,,,,Female,,Shiny,,,,6900.001773203,,234,deny,manual,84.00,84.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+fearow,Fearow,"<p>Carrying food through Fearow’s territory is<br>
+dangerous. It will snatch the food away from<br>
+you in a flash!</p>",Kanto,Normal/Flying,"ability:keen-eye, ability:sniper, attack:90, base-experience:155, base-happiness:70, capture-rate:90, color:brown, defense:65, egg-group:flying, evolution-chain:spearow, forms:fearow, generation:i, genus:Beak Pokémon, habitat:rough-terrain, has-gender-differences:false, height:12, held-item:sharp-beak, hidden-ability:sniper, hp:65, id:22, is-baby:false, primary-type:normal, shape:wings, special-attack:61, special-defense:61, speed:100, type:flying, type:normal, weight:380",true,Gender,Male,Shiny,Normal,,,,38000.018311409,,203,deny,manual,73.67,73.67,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+fearow,,,,,,,,Male,,Shiny,,,,38000.018311409,,3,deny,manual,128.92,154.70,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+fearow,,,,,,,,Female,,Normal,,,,38000.018311409,,66,deny,manual,73.67,88.40,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+fearow,,,,,,,,Female,,Shiny,,,,38000.018311409,,28,deny,manual,128.92,128.92,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+spearow,Spearow,"<p>Its reckless nature leads it to stand up to<br>
+others—even large Pokémon—if it has to protect<br>
+its territory.</p>",Kanto,Normal/Flying,"ability:keen-eye, ability:sniper, attack:60, base-experience:52, base-happiness:70, capture-rate:255, color:brown, defense:30, egg-group:flying, evolution-chain:spearow, forms:spearow, generation:i, genus:Tiny Bird Pokémon, habitat:rough-terrain, has-gender-differences:false, height:3, held-item:sharp-beak, hidden-ability:sniper, hp:40, id:21, is-baby:false, primary-type:normal, shape:wings, special-attack:31, special-defense:31, speed:70, type:flying, type:normal, weight:20",true,Gender,Male,Shiny,Normal,,,,1999.979477804,,91,deny,manual,43.67,52.40,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+spearow,,,,,,,,Male,,Shiny,,,,1999.979477804,,204,deny,manual,76.42,76.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+spearow,,,,,,,,Female,,Normal,,,,1999.979477804,,121,deny,manual,43.67,43.67,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+spearow,,,,,,,,Female,,Shiny,,,,1999.979477804,,101,deny,manual,76.42,76.42,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raticate,Raticate,"<p>People say that it fled from its enemies by<br>
+using its small webbed hind feet to swim<br>
+from island to island in Alola.</p>",Kanto,Normal,"ability:guts, ability:hustle, ability:run-away, attack:81, base-experience:145, base-happiness:70, capture-rate:127, color:brown, defense:60, egg-group:ground, evolution-chain:rattata, forms:raticate, generation:i, genus:Mouse Pokémon, habitat:grassland, has-gender-differences:true, height:7, held-item:chilan-berry, held-item:oran-berry, held-item:sitrus-berry, hidden-ability:hustle, hp:55, id:20, is-baby:false, primary-type:normal, shape:quadruped, special-attack:50, special-defense:70, speed:97, type:normal, weight:185",true,Gender,Male,Shiny,Normal,,,,18499.991606635,,41,deny,manual,68.83,82.60,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+raticate,,,,,,,,Male,,Shiny,,,,18499.991606635,,151,deny,manual,120.46,120.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raticate,,,,,,,,Female,,Normal,,,,18499.991606635,,167,deny,manual,68.83,82.60,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+raticate,,,,,,,,Female,,Shiny,,,,18499.991606635,,67,deny,manual,120.46,120.46,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rattata,Rattata,"<p>Its incisors grow continuously throughout its life.<br>
+If its incisors get too long, this Pokémon<br>
+becomes unable to eat, and it starves to death.</p>",Kanto,Normal,"ability:guts, ability:hustle, ability:run-away, attack:56, base-experience:51, base-happiness:70, capture-rate:255, color:purple, defense:35, egg-group:ground, evolution-chain:rattata, forms:rattata, generation:i, genus:Mouse Pokémon, habitat:grassland, has-gender-differences:true, height:3, held-item:chilan-berry, hidden-ability:hustle, hp:30, id:19, is-baby:false, primary-type:normal, shape:quadruped, special-attack:25, special-defense:35, speed:72, type:normal, weight:35",true,Gender,Male,Shiny,Normal,,,,3500.009445394,,177,deny,manual,42.17,42.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+rattata,,,,,,,,Male,,Shiny,,,,3500.009445394,,201,deny,manual,73.79,73.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rattata,,,,,,,,Female,,Normal,,,,3500.009445394,,213,deny,manual,42.17,42.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+rattata,,,,,,,,Female,,Shiny,,,,3500.009445394,,238,deny,manual,73.79,88.55,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeot,Pidgeot,"<p>This Pokémon has a dazzling plumage of beautifully<br>
+glossy feathers. Many Trainers are captivated by the<br>
+striking beauty of the feathers on its head, compelling<br>
+them to choose Pidgeot as their Pokémon.</p>",Kanto,Normal/Flying,"ability:big-pecks, ability:keen-eye, ability:tangled-feet, attack:80, base-experience:216, base-happiness:70, capture-rate:45, color:brown, defense:75, egg-group:flying, evolution-chain:pidgey, forms:pidgeot, generation:i, genus:Bird Pokémon, habitat:forest, has-gender-differences:false, height:15, hidden-ability:big-pecks, hp:83, id:18, is-baby:false, primary-type:normal, shape:wings, special-attack:70, special-defense:70, speed:101, type:flying, type:normal, weight:395",true,Gender,Male,Shiny,Normal,,,,39500.002919762,,92,deny,manual,79.83,95.80,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+pidgeot,,,,,,,,Male,,Shiny,,,,39500.002919762,,119,deny,manual,139.71,139.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeot,,,,,,,,Female,,Normal,,,,39500.002919762,,25,deny,manual,79.83,79.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeot,,,,,,,,Female,,Shiny,,,,39500.002919762,,36,deny,manual,139.71,139.71,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeotto,Pidgeotto,"<p>Pidgeotto claims a large area as its own territory. This<br>
+Pokémon flies around, patrolling its living space. If its territory<br>
+is violated, it shows no mercy in thoroughly punishing the foe<br>
+with its sharp claws.</p>",Kanto,Normal/Flying,"ability:big-pecks, ability:keen-eye, ability:tangled-feet, attack:60, base-experience:122, base-happiness:70, capture-rate:120, color:brown, defense:55, egg-group:flying, evolution-chain:pidgey, forms:pidgeotto, generation:i, genus:Bird Pokémon, habitat:forest, has-gender-differences:false, height:11, hidden-ability:big-pecks, hp:63, id:17, is-baby:false, primary-type:normal, shape:wings, special-attack:50, special-defense:50, speed:71, type:flying, type:normal, weight:300",true,Gender,Male,Shiny,Normal,,,,30000.009681719,,202,deny,manual,58.17,58.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+pidgeotto,,,,,,,,Male,,Shiny,,,,30000.009681719,,10,deny,manual,101.79,101.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeotto,,,,,,,,Female,,Normal,,,,30000.009681719,,41,deny,manual,58.17,58.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgeotto,,,,,,,,Female,,Shiny,,,,30000.009681719,,29,deny,manual,101.79,101.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgey,Pidgey,"<p>Pidgey has an extremely sharp sense of direction.<br>
+It is capable of unerringly returning home to its nest,<br>
+however far it may be removed from its familiar surroundings.</p>",Kanto,Normal/Flying,"ability:big-pecks, ability:keen-eye, ability:tangled-feet, attack:45, base-experience:50, base-happiness:70, capture-rate:255, color:brown, defense:40, egg-group:flying, evolution-chain:pidgey, forms:pidgey, generation:i, genus:Tiny Bird Pokémon, habitat:forest, has-gender-differences:false, height:3, hidden-ability:big-pecks, hp:40, id:16, is-baby:false, primary-type:normal, shape:wings, special-attack:35, special-defense:35, speed:56, type:flying, type:normal, weight:18",true,Gender,Male,Shiny,Normal,,,,1799.990601871,,53,deny,manual,41.83,50.20,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+pidgey,,,,,,,,Male,,Shiny,,,,1799.990601871,,159,deny,manual,73.21,73.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgey,,,,,,,,Female,,Normal,,,,1799.990601871,,217,deny,manual,41.83,41.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+pidgey,,,,,,,,Female,,Shiny,,,,1799.990601871,,100,deny,manual,73.21,73.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+beedrill,Beedrill,"<p>Beedrill is extremely territorial. No one should ever approach<br>
+its nest—this is for their own safety. If angered, they will attack<br>
+in a furious swarm.</p>",Kanto,Bug/Poison,"ability:sniper, ability:swarm, attack:90, base-experience:178, base-happiness:70, capture-rate:45, color:yellow, defense:40, egg-group:bug, evolution-chain:weedle, forms:beedrill, generation:i, genus:Poison Bee Pokémon, habitat:forest, has-gender-differences:false, height:10, held-item:poison-barb, hidden-ability:sniper, hp:65, id:15, is-baby:false, primary-type:bug, shape:bug-wings, special-attack:45, special-defense:80, speed:75, type:bug, type:poison, weight:295",true,Gender,Male,Shiny,Normal,,,,29500.014812268,,57,deny,manual,65.83,65.83,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+beedrill,,,,,,,,Male,,Shiny,,,,29500.014812268,,197,deny,manual,115.21,115.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+beedrill,,,,,,,,Female,,Normal,,,,29500.014812268,,2,deny,manual,65.83,79.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+beedrill,,,,,,,,Female,,Shiny,,,,29500.014812268,,190,deny,manual,115.21,115.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kakuna,Kakuna,"<p>Kakuna remains virtually immobile as it clings to a tree.<br>
+However, on the inside, it is extremely busy as it prepares<br>
+for its coming evolution.<br>
+This is evident from how hot the shell becomes to the touch.</p>",Kanto,Bug/Poison,"ability:shed-skin, attack:25, base-experience:72, base-happiness:70, capture-rate:120, color:yellow, defense:50, egg-group:bug, evolution-chain:weedle, forms:kakuna, generation:i, genus:Cocoon Pokémon, habitat:forest, has-gender-differences:false, height:6, hidden-ability:null, hp:45, id:14, is-baby:false, primary-type:bug, shape:squiggle, special-attack:25, special-defense:25, speed:35, type:bug, type:poison, weight:100",true,Gender,Male,Shiny,Normal,,,,9999.988107494,,134,deny,manual,34.17,41.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+kakuna,,,,,,,,Male,,Shiny,,,,9999.988107494,,239,deny,manual,59.79,59.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kakuna,,,,,,,,Female,,Normal,,,,9999.988107494,,49,deny,manual,34.17,34.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+kakuna,,,,,,,,Female,,Shiny,,,,9999.988107494,,63,deny,manual,59.79,59.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weedle,Weedle,"<p>Weedle has an extremely acute sense of smell. It is capable<br>
+of distinguishing its favorite kinds of leaves from those it<br>
+dislikes just by sniffing with its big red proboscis (nose).</p>",Kanto,Bug/Poison,"ability:run-away, ability:shield-dust, attack:35, base-experience:39, base-happiness:70, capture-rate:255, color:brown, defense:30, egg-group:bug, evolution-chain:weedle, forms:weedle, generation:i, genus:Hairy Bug Pokémon, habitat:forest, has-gender-differences:false, height:3, hidden-ability:run-away, hp:40, id:13, is-baby:false, primary-type:bug, shape:armor, special-attack:20, special-defense:20, speed:50, type:bug, type:poison, weight:32",true,Gender,Male,Shiny,Normal,,,,3200.003451876,,12,deny,manual,32.50,39.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+weedle,,,,,,,,Male,,Shiny,,,,3200.003451876,,106,deny,manual,56.88,68.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weedle,,,,,,,,Female,,Normal,,,,3200.003451876,,30,deny,manual,32.50,32.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+weedle,,,,,,,,Female,,Shiny,,,,3200.003451876,,26,deny,manual,56.88,56.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+butterfree,Butterfree,"<p>Its wings are covered in toxic scales. If it finds<br>
+bird Pokémon going after Caterpie, Butterfree<br>
+sprinkles its scales on them to drive them off.</p>",Kanto,Bug/Flying,"ability:compound-eyes, ability:tinted-lens, attack:45, base-experience:178, base-happiness:70, capture-rate:45, color:white, defense:50, egg-group:bug, evolution-chain:caterpie, forms:butterfree, generation:i, genus:Butterfly Pokémon, habitat:forest, has-gender-differences:true, height:11, held-item:silver-powder, hidden-ability:tinted-lens, hp:60, id:12, is-baby:false, primary-type:bug, shape:bug-wings, special-attack:90, special-defense:80, speed:70, type:bug, type:flying, weight:320",true,Gender,Male,Shiny,Normal,,,,31999.989159523,,48,deny,manual,65.83,79.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+butterfree,,,,,,,,Male,,Shiny,,,,31999.989159523,,227,deny,manual,115.21,115.21,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+butterfree,,,,,,,,Female,,Normal,,,,31999.989159523,,244,deny,manual,65.83,65.83,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+butterfree,,,,,,,,Female,,Shiny,,,,31999.989159523,,247,deny,manual,115.21,138.25,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+metapod,Metapod,"<p>Its shell is filled with a thick liquid. All of the<br>
+cells throughout its body are being rebuilt in<br>
+preparation for evolution.</p>",Kanto,Bug,"ability:shed-skin, attack:20, base-experience:72, base-happiness:70, capture-rate:120, color:green, defense:55, egg-group:bug, evolution-chain:caterpie, forms:metapod, generation:i, genus:Cocoon Pokémon, habitat:forest, has-gender-differences:false, height:7, hidden-ability:null, hp:50, id:11, is-baby:false, primary-type:bug, shape:squiggle, special-attack:25, special-defense:25, speed:30, type:bug, weight:99",true,Gender,Male,Shiny,Normal,,,,9900.016349146,,132,deny,manual,34.17,34.17,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+metapod,,,,,,,,Male,,Shiny,,,,9900.016349146,,26,deny,manual,59.79,59.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+metapod,,,,,,,,Female,,Normal,,,,9900.016349146,,44,deny,manual,34.17,34.17,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+metapod,,,,,,,,Female,,Shiny,,,,9900.016349146,,70,deny,manual,59.79,59.79,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+caterpie,Caterpie,"<p>Perhaps because it would like to grow up<br>
+quickly, it has a voracious appetite, eating<br>
+a hundred leaves a day.</p>",Kanto,Bug,"ability:run-away, ability:shield-dust, attack:30, base-experience:39, base-happiness:70, capture-rate:255, color:green, defense:35, egg-group:bug, evolution-chain:caterpie, forms:caterpie, generation:i, genus:Worm Pokémon, habitat:forest, has-gender-differences:false, height:3, hidden-ability:run-away, hp:45, id:10, is-baby:false, primary-type:bug, shape:armor, special-attack:20, special-defense:20, speed:45, type:bug, weight:29",true,Gender,Male,Shiny,Normal,,,,2899.997458358,,235,deny,manual,32.50,39.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+caterpie,,,,,,,,Male,,Shiny,,,,2899.997458358,,101,deny,manual,56.88,56.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+caterpie,,,,,,,,Female,,Normal,,,,2899.997458358,,153,deny,manual,32.50,39.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+caterpie,,,,,,,,Female,,Shiny,,,,2899.997458358,,199,deny,manual,56.88,56.88,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+blastoise,Blastoise,"<p>Blastoise has water spouts that protrude from its shell.<br>
+The water spouts are very accurate.<br>
+They can shoot bullets of water with enough accuracy<br>
+to strike empty cans from a distance of over 160 feet.</p>",Kanto,Water,"ability:rain-dish, ability:torrent, attack:83, base-experience:239, base-happiness:70, capture-rate:45, color:blue, defense:100, egg-group:monster, egg-group:water1, evolution-chain:squirtle, forms:blastoise, generation:i, genus:Shellfish Pokémon, habitat:waters-edge, has-gender-differences:false, height:16, hidden-ability:rain-dish, hp:79, id:9, is-baby:false, primary-type:water, shape:upright, special-attack:85, special-defense:105, speed:78, type:water, weight:855",true,Gender,Male,Shiny,Normal,,,,85499.984501624,,145,deny,manual,88.33,88.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+blastoise,,,,,,,,Male,,Shiny,,,,85499.984501624,,228,deny,manual,154.58,154.58,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+blastoise,,,,,,,,Female,,Normal,,,,85499.984501624,,118,deny,manual,88.33,88.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+blastoise,,,,,,,,Female,,Shiny,,,,85499.984501624,,143,deny,manual,154.58,154.58,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wartortle,Wartortle,"<p>Its tail is large and covered with a rich, thick fur. The tail<br>
+becomes increasingly deeper in color as Wartortle ages.<br>
+The scratches on its shell are evidence of this Pokémon’s<br>
+toughness as a battler.</p>",Kanto,Water,"ability:rain-dish, ability:torrent, attack:63, base-experience:142, base-happiness:70, capture-rate:45, color:blue, defense:80, egg-group:monster, egg-group:water1, evolution-chain:squirtle, forms:wartortle, generation:i, genus:Turtle Pokémon, habitat:waters-edge, has-gender-differences:false, height:10, hidden-ability:rain-dish, hp:59, id:8, is-baby:false, primary-type:water, shape:upright, special-attack:65, special-defense:80, speed:58, type:water, weight:225",true,Gender,Male,Shiny,Normal,,,,22499.99592148,,52,deny,manual,67.50,81.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+wartortle,,,,,,,,Male,,Shiny,,,,22499.99592148,,38,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wartortle,,,,,,,,Female,,Normal,,,,22499.99592148,,79,deny,manual,67.50,67.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+wartortle,,,,,,,,Female,,Shiny,,,,22499.99592148,,238,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+squirtle,Squirtle,"<p>Squirtle’s shell is not merely used for protection.<br>
+The shell’s rounded shape and the grooves on its<br>
+surface help minimize resistance in water,<br>
+enabling this Pokémon to swim at high speeds.</p>",Kanto,Water,"ability:rain-dish, ability:torrent, attack:48, base-experience:63, base-happiness:70, capture-rate:45, color:blue, defense:65, egg-group:monster, egg-group:water1, evolution-chain:squirtle, forms:squirtle, generation:i, genus:Tiny Turtle Pokémon, habitat:waters-edge, has-gender-differences:false, height:5, hidden-ability:rain-dish, hp:44, id:7, is-baby:false, primary-type:water, shape:upright, special-attack:50, special-defense:64, speed:43, type:water, weight:90",true,Gender,Male,Shiny,Normal,,,,8999.998368592,,221,deny,manual,52.33,52.33,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+squirtle,,,,,,,,Male,,Shiny,,,,8999.998368592,,163,deny,manual,91.58,91.58,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+squirtle,,,,,,,,Female,,Normal,,,,8999.998368592,,3,deny,manual,52.33,52.33,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+squirtle,,,,,,,,Female,,Shiny,,,,8999.998368592,,198,deny,manual,91.58,91.58,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charizard,Charizard,"<p>Charizard flies around the sky in search of powerful opponents.<br>
+It breathes fire of such great heat that it melts anything.<br>
+However, it never turns its fiery breath on any opponent<br>
+weaker than itself.</p>",Kanto,Fire/Flying,"ability:blaze, ability:solar-power, attack:84, base-experience:240, base-happiness:70, capture-rate:45, color:red, defense:78, egg-group:dragon, egg-group:monster, evolution-chain:charmander, forms:charizard, generation:i, genus:Flame Pokémon, habitat:mountain, has-gender-differences:false, height:17, hidden-ability:solar-power, hp:78, id:6, is-baby:false, primary-type:fire, shape:upright, special-attack:109, special-defense:85, speed:100, type:fire, type:flying, weight:905",true,Gender,Male,Shiny,Normal,,,,90499.978555371,,165,deny,manual,89.00,89.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+charizard,,,,,,,,Male,,Shiny,,,,90499.978555371,,168,deny,manual,155.75,155.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charizard,,,,,,,,Female,,Normal,,,,90499.978555371,,208,deny,manual,89.00,106.80,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charizard,,,,,,,,Female,,Shiny,,,,90499.978555371,,210,deny,manual,155.75,155.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmeleon,Charmeleon,"<p>Charmeleon mercilessly destroys its foes using its sharp<br>
+claws. If it encounters a strong foe, it turns aggressive.<br>
+In this excited state, the flame at the tip of its tail flares with<br>
+a bluish white color.</p>",Kanto,Fire,"ability:blaze, ability:solar-power, attack:64, base-experience:142, base-happiness:70, capture-rate:45, color:red, defense:58, egg-group:dragon, egg-group:monster, evolution-chain:charmander, forms:charmeleon, generation:i, genus:Flame Pokémon, habitat:mountain, has-gender-differences:false, height:11, hidden-ability:solar-power, hp:58, id:5, is-baby:false, primary-type:fire, shape:upright, special-attack:80, special-defense:65, speed:80, type:fire, weight:190",true,Gender,Male,Shiny,Normal,,,,18999.986476086,,237,deny,manual,67.50,67.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+charmeleon,,,,,,,,Male,,Shiny,,,,18999.986476086,,106,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmeleon,,,,,,,,Female,,Normal,,,,18999.986476086,,233,deny,manual,67.50,81.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmeleon,,,,,,,,Female,,Shiny,,,,18999.986476086,,163,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmander,Charmander,"<p>The flame that burns at the tip of its tail is an indication<br>
+of its emotions. The flame wavers when Charmander<br>
+is enjoying itself. If the Pokémon becomes enraged,<br>
+the flame burns fiercely.</p>",Kanto,Fire,"ability:blaze, ability:solar-power, attack:52, base-experience:62, base-happiness:70, capture-rate:45, color:red, defense:43, egg-group:dragon, egg-group:monster, evolution-chain:charmander, forms:charmander, generation:i, genus:Lizard Pokémon, habitat:mountain, has-gender-differences:false, height:6, hidden-ability:solar-power, hp:39, id:4, is-baby:false, primary-type:fire, shape:upright, special-attack:60, special-defense:50, speed:65, type:fire, weight:85",true,Gender,Male,Shiny,Normal,,,,8500.003499141,,211,deny,manual,51.50,51.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+charmander,,,,,,,,Male,,Shiny,,,,8500.003499141,,200,deny,manual,90.13,108.15,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmander,,,,,,,,Female,,Normal,,,,8500.003499141,,233,deny,manual,51.50,61.80,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+charmander,,,,,,,,Female,,Shiny,,,,8500.003499141,,201,deny,manual,90.13,90.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venusaur,Venusaur,"<p>There is a large flower on Venusaur’s back. The flower is said<br>
+to take on vivid colors if it gets plenty of nutrition and sunlight.<br>
+The flower’s aroma soothes the emotions of people.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:overgrow, attack:82, base-experience:236, base-happiness:70, capture-rate:45, color:green, defense:83, egg-group:monster, egg-group:plant, evolution-chain:bulbasaur, forms:venusaur, generation:i, genus:Seed Pokémon, habitat:grassland, has-gender-differences:true, height:20, hidden-ability:chlorophyll, hp:80, id:3, is-baby:false, primary-type:grass, shape:quadruped, special-attack:100, special-defense:100, speed:80, type:grass, type:poison, weight:1000",true,Gender,Male,Shiny,Normal,,,,100000.017152651,,99,deny,manual,87.50,105.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+venusaur,,,,,,,,Male,,Shiny,,,,100000.017152651,,83,deny,manual,153.13,153.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venusaur,,,,,,,,Female,,Normal,,,,100000.017152651,,209,deny,manual,87.50,105.00,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+venusaur,,,,,,,,Female,,Shiny,,,,100000.017152651,,95,deny,manual,153.13,183.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ivysaur,Ivysaur,"<p>There is a bud on this Pokémon’s back. To support its weight,<br>
+Ivysaur’s legs and trunk grow thick and strong.<br>
+If it starts spending more time lying in the sunlight,<br>
+it’s a sign that the bud will bloom into a large flower soon.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:overgrow, attack:62, base-experience:142, base-happiness:70, capture-rate:45, color:green, defense:63, egg-group:monster, egg-group:plant, evolution-chain:bulbasaur, forms:ivysaur, generation:i, genus:Seed Pokémon, habitat:grassland, has-gender-differences:false, height:10, hidden-ability:chlorophyll, hp:60, id:2, is-baby:false, primary-type:grass, shape:quadruped, special-attack:80, special-defense:80, speed:60, type:grass, type:poison, weight:130",true,Gender,Male,Shiny,Normal,,,,13000.002683437,,183,deny,manual,67.50,67.50,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+ivysaur,,,,,,,,Male,,Shiny,,,,13000.002683437,,89,deny,manual,118.13,141.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ivysaur,,,,,,,,Female,,Normal,,,,13000.002683437,,134,deny,manual,67.50,67.50,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+ivysaur,,,,,,,,Female,,Shiny,,,,13000.002683437,,144,deny,manual,118.13,118.13,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bulbasaur,Bulbasaur,"<p>Bulbasaur can be seen napping in bright sunlight.<br>
+There is a seed on its back. By soaking up the sun’s rays,<br>
+the seed grows progressively larger.</p>",Kanto,Grass/Poison,"ability:chlorophyll, ability:overgrow, attack:49, base-experience:64, base-happiness:70, capture-rate:45, color:green, defense:49, egg-group:monster, egg-group:plant, evolution-chain:bulbasaur, forms:bulbasaur, generation:i, genus:Seed Pokémon, habitat:grassland, has-gender-differences:false, height:7, hidden-ability:chlorophyll, hp:45, id:1, is-baby:false, primary-type:grass, shape:quadruped, special-attack:65, special-defense:65, speed:45, type:grass, type:poison, weight:69",true,Gender,Male,Shiny,Normal,,,,6900.001773203,,248,deny,manual,53.00,53.00,true,false,,,,,false,,,,,,,,,,,,,,,,,lb,,
+bulbasaur,,,,,,,,Male,,Shiny,,,,6900.001773203,,218,deny,manual,92.75,92.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bulbasaur,,,,,,,,Female,,Normal,,,,6900.001773203,,224,deny,manual,53.00,63.60,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,
+bulbasaur,,,,,,,,Female,,Shiny,,,,6900.001773203,,238,deny,manual,92.75,92.75,true,false,,,,,,,,,,,,,,,,,,,,,,lb,,

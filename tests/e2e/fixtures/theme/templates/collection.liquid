@@ -1,0 +1,143 @@
+{%- capture default_collection -%}
+    {
+        "id": 0,
+        "handle": "all",
+        "title": {{ collection.title | json }}
+    }
+{%- endcapture -%}
+
+{%-
+    liquid
+    if collection.id
+        assign collection_json = collection | json
+    else
+        assign collection_json = default_collection
+    endif
+    assign collection_json = collection_json | escape
+-%}
+
+{%- capture filter_rules -%}
+    [
+        {
+            "name": "Color",
+            "sourceName": "color",
+            "sourceType": "tag",
+            "filterType": "singular"
+        },
+        {
+            "name": "Egg Group",
+            "sourceName": "egg-group",
+            "sourceType": "tag",
+            "filterType": "AND"
+        },
+        {
+            "name": "Type",
+            "sourceName": "type",
+            "sourceType": "type",
+            "filterType": "OR"
+        },
+        {
+            "name": "Vendor",
+            "sourceName": "vendor",
+            "sourceType": "vendor",
+            "filterType": "OR"
+        }
+    ]
+{%- endcapture -%}
+
+{%- capture custom_sort_methods -%}
+    defaultSortMethods => [
+        ...defaultSortMethods,
+        {
+            "id": "id",
+            "label": "ID",
+            "method": (a, b) => {
+                const getProductID = product => {
+                    const regex = /^id:/;
+                    const tagSuffix = product.tags
+                        .find(tag => regex.test(tag))
+                        .replace(regex, '');
+                    return Number(tagSuffix);
+                };
+
+                return getProductID(a) - getProductID(b);
+            }
+        }
+    ]
+{%- endcapture -%}
+
+<Collection
+    :build-sort-methods="{{ custom_sort_methods | escape }}"
+    :collection="{{ collection_json }}"
+    :filter-rules="{{ filter_rules | escape }}"
+    :initial-products="{{ collection.products | json | escape }}"
+    :product-count="{{ collection.products_count }}"
+    :product-fetch-limit="50"
+    v-slot="{
+        appliedSortMethod,
+        availableFilters,
+        changeSortMethod,
+        filters,
+        paginatedProducts,
+        products,
+        sortMethods,
+    }"
+>
+    <label for="sort">
+        Sort
+    </label>
+    <select
+        @input="changeSortMethod"
+        name="sort"
+        id="sort"
+        data-cy="sort-select"
+    >
+        <option
+            v-for="method in sortMethods"
+            :key="method.id"
+            :value="method.id"
+        >
+            ${method.label}
+        </option>
+    </select>
+
+    <ul style="display: flex; list-style-type: none; margin: 0 -30px; padding: 0 30px;">
+        <li
+            v-for="filter in availableFilters"
+            :key="filter.id"
+            style="padding: 0 15px;"
+        >
+            <strong>${filter.name}</strong>
+            <ul style="padding: 0;">
+                <li
+                    v-for="value in filter.getAvailableValues(products)"
+                    :key="value.id"
+                    style="display: flex;"
+                >
+                    <label :for="`filter-${filter.id}`" style="flex-grow: 1;">
+                        ${value.id}
+                    </label>
+                    <input
+                        v-model="filter.selectedValues"
+                        :name="`filter-${filter.id}`"
+                        :id="`filter-${filter.id}`"
+                        :value="value.id"
+                        type="checkbox"
+                        data-cy="filter-item"
+                        :data-cy-value="`${filter.id}-${value.id}`"
+                    >
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <ol style="padding-left: 30px;">
+        <li
+            v-for="product in paginatedProducts"
+            :key="product.id"
+            data-cy="product-item"
+        >
+            ${product.title}
+        </li>
+    </ol>
+</Collection>
