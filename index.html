@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Baleen</title>
+    <meta name="generator" content="VuePress 1.5.0">
+    
+    <meta name="description" content="">
+    <link rel="preload" href="/baleen/assets/css/0.styles.4115f2cd.css" as="style"><link rel="preload" href="/baleen/assets/js/app.40183eb1.js" as="script"><link rel="preload" href="/baleen/assets/js/2.89d83936.js" as="script"><link rel="preload" href="/baleen/assets/js/5.ca74fabe.js" as="script"><link rel="prefetch" href="/baleen/assets/js/3.1dc62ad2.js"><link rel="prefetch" href="/baleen/assets/js/4.2b7fc900.js"><link rel="prefetch" href="/baleen/assets/js/6.79675d07.js">
+    <link rel="stylesheet" href="/baleen/assets/css/0.styles.4115f2cd.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/baleen/" aria-current="page" class="home-link router-link-exact-active router-link-active"></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <!----></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><!---->  <ul class="sidebar-links"><li><a href="/baleen/" aria-current="page" class="active sidebar-link">Baleen</a><ul class="sidebar-sub-headers"><li class="sidebar-sub-header"><a href="/baleen/#installation" class="sidebar-link">Installation</a></li><li class="sidebar-sub-header"><a href="/baleen/#getting-started" class="sidebar-link">Getting Started</a></li></ul></li><li><a href="/baleen/reference/" class="sidebar-link">Reference</a></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="baleen"><a href="#baleen" class="header-anchor">#</a> Baleen</h1> <h2 id="installation"><a href="#installation" class="header-anchor">#</a> Installation</h2> <p>Assuming you're already using Vue, install this project and its dependencies:</p> <p>Using Yarn, run:</p> <div class="language-shell extra-class"><pre class="language-shell"><code>$ <span class="token function">yarn</span> <span class="token function">add</span> @strawberrydigital/baleen vue-router axios
+</code></pre></div><p>Or, using NPM:</p> <div class="language-shell extra-class"><pre class="language-shell"><code>$ <span class="token function">npm</span> <span class="token function">install</span> @strawberrydigital/baleen vue-router axios
+</code></pre></div><p><strong>Note:</strong> <code>vue-router</code> and <code>axios</code> are both peer dependencies of this project. You must install them yourself to avoid the risk of bundling multiple copies in your project.</p> <h2 id="getting-started"><a href="#getting-started" class="header-anchor">#</a> Getting Started</h2> <h3 id="js"><a href="#js" class="header-anchor">#</a> JS</h3> <div class="language-js extra-class"><pre class="language-js"><code><span class="token keyword">import</span> Vue <span class="token keyword">from</span> <span class="token string">'vue'</span>
+<span class="token keyword">import</span> VueRouter <span class="token keyword">from</span> <span class="token string">'vue-router'</span>
+<span class="token keyword">import</span> Baleen <span class="token keyword">from</span> <span class="token string">'@strawberrydigital/baleen'</span>
+
+Vue<span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>VueRouter<span class="token punctuation">)</span>
+
+<span class="token keyword">new</span> <span class="token class-name">Vue</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+    el<span class="token operator">:</span> <span class="token string">'[data-collection]'</span><span class="token punctuation">,</span>
+    components<span class="token operator">:</span> <span class="token punctuation">{</span> Baleen <span class="token punctuation">}</span><span class="token punctuation">,</span>
+    delimiters<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">'${'</span><span class="token punctuation">,</span> <span class="token string">'}'</span><span class="token punctuation">]</span><span class="token punctuation">,</span>
+    router<span class="token operator">:</span> <span class="token keyword">new</span> <span class="token class-name">VueRouter</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span>
+</code></pre></div><h3 id="liquid-templates-collection-liquid"><a href="#liquid-templates-collection-liquid" class="header-anchor">#</a> Liquid (templates/collection.liquid)</h3> <div class="language-html extra-class"><pre class="language-html"><code>{%- capture default_collection -%}
+    {
+        &quot;id&quot;: 0,
+        &quot;handle&quot;: &quot;all&quot;,
+        &quot;title&quot;: {{ collection.title | json }}
+    }
+{%- endcapture -%}
+
+{%-
+    liquid
+    if collection.id
+        assign collection_json = collection | json
+    else
+        assign collection_json = default_collection
+    endif
+    assign collection_json = collection_json | escape
+-%}
+
+{%- capture filter_rules -%}
+    [
+        {
+            &quot;name&quot;: &quot;Color&quot;,
+            &quot;sourceName&quot;: &quot;color&quot;,
+            &quot;sourceType&quot;: &quot;tag&quot;,
+            &quot;filterType&quot;: &quot;singular&quot;
+        }
+    ]
+{%- endcapture -%}
+
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>Baleen</span>
+    <span class="token attr-name">:collection</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>{{ collection_json }}<span class="token punctuation">&quot;</span></span>
+    <span class="token attr-name">:filter-rules</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>{{ filter_rules | escape }}<span class="token punctuation">&quot;</span></span>
+    <span class="token attr-name">:initial-products</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>{{ collection.products | json | escape }}<span class="token punctuation">&quot;</span></span>
+    <span class="token attr-name">:product-count</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>{{ collection.products_count }}<span class="token punctuation">&quot;</span></span>
+    <span class="token attr-name">v-slot</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>{
+        appliedSortMethod,
+        availableFilters,
+        changeSortMethod,
+        filters,
+        paginatedProducts,
+        products,
+        sortMethods
+    }<span class="token punctuation">&quot;</span></span>
+<span class="token punctuation">&gt;</span></span>
+    {%- raw -%}
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>ul</span><span class="token punctuation">&gt;</span></span>
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>li</span> <span class="token attr-name">v-for</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>product in paginatedProducts<span class="token punctuation">&quot;</span></span> <span class="token attr-name">:key</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>product.id<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+                <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span> <span class="token attr-name">:href</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">&quot;</span>product.url<span class="token punctuation">&quot;</span></span><span class="token punctuation">&gt;</span></span>
+                    {{- product.title -}}
+                <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">&gt;</span></span>
+            <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>li</span><span class="token punctuation">&gt;</span></span>
+        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>ul</span><span class="token punctuation">&gt;</span></span>
+    {%- endraw -%}
+<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>Baleen</span><span class="token punctuation">&gt;</span></span>
+</code></pre></div></div> <footer class="page-edit"><!----> <!----></footer> <div class="page-nav"><p class="inner"><!----> <span class="next"><a href="/baleen/reference/">
+        Reference
+      </a>
+      →
+    </span></p></div> </main></div><div class="global-ui"></div></div>
+    <script src="/baleen/assets/js/app.40183eb1.js" defer></script><script src="/baleen/assets/js/2.89d83936.js" defer></script><script src="/baleen/assets/js/5.ca74fabe.js" defer></script>
+  </body>
+</html>
