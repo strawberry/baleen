@@ -47,21 +47,23 @@ The number of products requested per page when fetching products from the API. D
 
 ## Slot Scope
 
-| Slot                      | Type         |
-| ------------------------- | ------------ |
-| appliedSortMethod         | String       |
-| availableFilters          | Filter[]     |
-| changeSortMethod          | Function     |
-| filters                   | FilterList   |
-| filteredAndSortedProducts | Product[]    |
-| paginatedProducts         | Product[]    |
-| products                  | Product[]    |
-| sortMethods               | SortMethod[] |
+| Slot                      | Type                      |
+| ------------------------- | ------------------------- |
+| appliedFilters            | {[key: String]: String[]} |
+| appliedSortMethod         | String                    |
+| availableFilters          | Filter[]                  |
+| changeSortMethod          | Function                  |
+| filters                   | FilterList                |
+| filteredAndSortedProducts | Product[]                 |
+| paginatedProducts         | Product[]                 |
+| products                  | Product[]                 |
+| sortMethods               | SortMethod[]              |
 
 Example using all slot props:
 ```vue
 <collection
     v-slot="{
+        appliedFilters
         appliedSortMethod,
         availableFilters,
         changeSortMethod,
@@ -74,6 +76,10 @@ Example using all slot props:
 >
 </collection>
 ```
+
+### appliedFilters
+The filters and associated values being applied. An object for which the keys are filter ids and the values are arrays of all applied values for the filter. For
+example, if you have filter rules for size and color, and the following URL parameters `?size=l&color=red&color=blue`, `appliedFilters` would be `{ size: ['l'], color: ['red', 'blue'] }`.
 
 ### appliedSortMethod
 This is the id of the sort method as shown by the `sort` URL parameter. `?sort=recommended`, means `appliedSortMethod` has the value: `recommended`.
