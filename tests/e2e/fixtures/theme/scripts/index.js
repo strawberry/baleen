@@ -8,6 +8,11 @@ Vue.use(VueRouter);
 new Vue({
     el: '#app',
     components: { Collection },
+    data() {
+        return {
+            Math,
+        };
+    },
     delimiters: ['${', '}'],
     router: new VueRouter({
         mode: 'history',
