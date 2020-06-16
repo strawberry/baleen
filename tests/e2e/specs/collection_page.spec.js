@@ -1,6 +1,8 @@
 const selectors = {
     filterItem: '[data-cy="filter-item"]',
     filterItemValue: (filter, value) => `[data-cy-value="${filter}-${value}"]`,
+    nextPage: '[data-cy="next-page"]',
+    previousPage: '[data-cy="previous-page"]',
     productItem: '[data-cy="product-item"]',
     sortSelect: '[data-cy="sort-select"]',
 };
@@ -135,5 +137,16 @@ describe('Collection Component', () => {
                 'Zapdos',
             ]);
         });
+    });
+
+    it('Responds to page changes', () => {
+        cy.goTo('/collections/water');
+
+        cy.get(selectors.productItem).should('have.length', 3);
+        cy.get(selectors.nextPage).click();
+        cy.location().should('be', '/collections/water?page=2');
+
+        cy.get(selectors.previousPage).click();
+        cy.location().should('be', '/collections/water?page=1');
     });
 });

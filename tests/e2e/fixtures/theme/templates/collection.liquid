@@ -71,18 +71,41 @@
     :collection="{{ collection_json }}"
     :filter-rules="{{ filter_rules | escape }}"
     :initial-products="{{ collection.products | json | escape }}"
+    {%- if collection.title == 'Water' -%}
+        :items-per-page="3"
+    {%- endif -%}
     :product-count="{{ collection.products_count }}"
     :product-fetch-limit="50"
     v-slot="{
         appliedSortMethod,
         availableFilters,
+        changePage,
         changeSortMethod,
+        currentPage,
         filters,
+        filteredAndSortedProducts,
         paginatedProducts,
         products,
         sortMethods,
     }"
 >
+    <button
+        v-if="currentPage < Math.ceil(
+            filteredAndSortedProducts.length / 3
+        )"
+        @click="changePage(currentPage + 1)"
+        data-cy="next-page"
+    >
+        Next Page
+    </button>
+    <button
+        v-if="currentPage > 1"
+        @click="changePage(currentPage - 1)"
+        data-cy="previous-page"
+    >
+        Previous Page
+    </button>
+
     <label for="sort">
         Sort
     </label>

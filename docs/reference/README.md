@@ -52,7 +52,9 @@ The number of products requested per page when fetching products from the API. D
 | appliedFilters            | {[key: String]: String[]} |
 | appliedSortMethod         | String                    |
 | availableFilters          | Filter[]                  |
+| changePage                | Function                  |
 | changeSortMethod          | Function                  |
+| currentPage               | Number                    |
 | filters                   | FilterList                |
 | filteredAndSortedProducts | Product[]                 |
 | paginatedProducts         | Product[]                 |
@@ -66,7 +68,9 @@ Example using all slot props:
         appliedFilters
         appliedSortMethod,
         availableFilters,
+        changePage,
         changeSortMethod,
+        currentPage,
         filters,
         filteredAndSortedProducts,
         paginatedProducts,
@@ -87,6 +91,12 @@ This is the id of the sort method as shown by the `sort` URL parameter. `?sort=r
 ### availableFilters
 An array of filters for which there are values to be applied. If a filter exists for tags prefixed with `size`, but no such tags exist, for example, the filter will not be passed to this array.
 
+### changePage
+Used to update the page, like so:
+```js
+changePage(2)
+```
+
 ### changeSortMethod
 A method required for updating the `appliedSortMethod`. Attach this to a `select` element like so:
 ```vue
@@ -96,6 +106,9 @@ A method required for updating the `appliedSortMethod`. Attach this to a `select
     </option>
 </select>
 ```
+
+### currentPage
+The current page.
 
 ### filters
 The `filterList` containing all provided filters.
