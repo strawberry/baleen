@@ -1,6 +1,7 @@
 <template>
     <div>
         <slot
+            :applied-filters="appliedFilters"
             :applied-sort-method="appliedSortMethod"
             :available-filters="availableFilters"
             :change-sort-method="changeSortMethod"
