@@ -68,9 +68,9 @@ Example using all slot props:
         appliedFilters
         appliedSortMethod,
         availableFilters,
-        currentPage,
         changePage,
         changeSortMethod,
+        currentPage,
         filters,
         filteredAndSortedProducts,
         paginatedProducts,

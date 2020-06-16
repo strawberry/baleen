@@ -23,9 +23,15 @@ If you don't already have a development store to run tests on, create one throug
 #### 2. Import test products into your store
 Import [tests/fixtures/products.csv](/tests/fixtures/products.csv) to your store via `<store-name>.myshopify.com/admin/products`.
 
-#### 3. Create a test collection
-The collection should have the handle `electric`, and should be a smart collection where products must match the following condition:
+#### 3. Create test collections
+Create 2 new collections, they should have the following titles: `Electric` and `Water`.
+They should also be smart collections where products must match the following conditions:
+
+Electric:
 > Product tag is equal to type:electric
+
+Water:
+> Product tag is equal to type:water
 
 #### 4. Configure Cypress to use your store
 Create a Cypress env file (`cypress.env.json`) in the project root like so, setting `BASE_URL` to the `.myshopify.com` url and `STORE_PASSWORD` to the password required to access the store, if it is password protected:
