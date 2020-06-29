@@ -28,7 +28,7 @@ new Vue({
     el: '[data-collection]',
     components: { Baleen },
     delimiters: ['${', '}'],
-    router: new VueRouter()
+    router: new VueRouter({ mode: 'history' })
 })
 ```
 ### Liquid (templates/collection.liquid)
