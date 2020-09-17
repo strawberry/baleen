@@ -110,7 +110,7 @@
         Sort
     </label>
     <select
-        @input="changeSortMethod"
+        @input="event => changeSortMethod(event.target.value)"
         name="sort"
         id="sort"
         data-cy="sort-select"
