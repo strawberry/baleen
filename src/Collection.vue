@@ -162,8 +162,9 @@ export default {
     },
 
     methods: {
-        changeSortMethod(event) {
-            this.appliedSortMethod = event.target.value;
+        /** @param {string} sortId */
+        changeSortMethod(sortId) {
+            this.appliedSortMethod = sortId;
         },
 
         /** @param {number=1} page */
