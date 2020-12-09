@@ -9,14 +9,7 @@ class AvailabilityFilter extends Filter {
     /** @param {Product} product */
     // eslint-disable-next-line class-methods-use-this
     getPossibleValuesFromProduct(product) {
-        const availability = [];
-        product.variants.forEach(variant => {
-            availability.push(variant.available);
-        });
-        if (availability.includes(true)) {
-            return ['true'];
-        }
-        return ['false'];
+        return [product.variants.some(variant => variant.available).toString()];
     }
 }
 
