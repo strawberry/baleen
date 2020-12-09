@@ -98,9 +98,9 @@ changePage(2)
 ```
 
 ### changeSortMethod
-A method required for updating the `appliedSortMethod`. Attach this to a `select` element like so:
+A method required for updating the `appliedSortMethod`. It accepts a sort method ID as an argument. Attach this to a `select` element like so:
 ```vue
-<select @input="changeSortMethod">
+<select @input="event => changeSortMethod(event.target.value)">
     <option v-for="method in sortMethods" :key="method.id">
         {{ method.label }}
     </option>
