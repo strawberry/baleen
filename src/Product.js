@@ -31,6 +31,10 @@ class Product {
         return this.data.handle;
     }
 
+    get available() {
+        return this.data.available;
+    }
+
     get id() {
         return this.data.id;
     }

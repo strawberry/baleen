@@ -36,6 +36,8 @@ describe('Collection Component', () => {
         ['egg-group', ['water1'], 22],
         ['egg-group', ['water1', 'dragon'], 5],
         ['egg-group', ['water1', 'water3', 'dragon'], 0],
+        ['availability', ['true'], 150],
+        ['availability', ['false'], 1],
     ].forEach(([filter, values, expectedLength]) => {
         it(`Correctly applies the ${filter} filter when the [${values}] inputs are activated`, () => {
             const selector = values
