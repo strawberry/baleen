@@ -3,7 +3,7 @@ import OptionFilter from './OptionFilter';
 import TagFilter from './TagFilter';
 import TypeFilter from './TypeFilter';
 import VendorFilter from './VendorFilter';
-import StockFilter from './StockFilter';
+import AvailabilityFilter from './AvailabilityFilter';
 
 /** @typedef {import('vue-router').Route} Route */
 /** @typedef {import('../../types/Shopify')} */
@@ -17,7 +17,7 @@ class FilterList {
             tag: TagFilter,
             type: TypeFilter,
             vendor: VendorFilter,
-            stock: StockFilter,
+            availability: AvailabilityFilter,
             ...filterTypes,
         };
 
