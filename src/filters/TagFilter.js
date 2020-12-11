@@ -9,7 +9,7 @@ class TagFilter extends Filter {
 
     /** @param {Product} product */
     getPossibleValuesFromProduct(product) {
-        const prefixRegex = `^${this.id.toLowerCase()}${this.delimiter}`;
+        const prefixRegex = `^${this.id}${this.delimiter}`;
         return product.tags
             .filter(tag => new RegExp(prefixRegex).test(tag))
             .map(tag => tag.replace(new RegExp(prefixRegex, 'g'), ''));
