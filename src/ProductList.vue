@@ -17,9 +17,7 @@
 </template>
 
 <script>
-import axios from 'axios';
 import FilterList from './filters/FilterList';
-import Product from './Product';
 
 /** @typedef {import('vue-router').RawLocation} RawLocation */
 /** @typedef {import('../types/Filters').FilterRule} FilterRule */
@@ -30,12 +28,6 @@ export default {
         buildSortMethods: {
             default: sortMethods => sortMethods,
             type: Function,
-        },
-
-        /** @type {Vue.PropOptions<{}>} */
-        collection: {
-            required: true,
-            type: Object,
         },
 
         /** @type {Vue.PropOptions<FilterRule[]>} */
@@ -55,14 +47,9 @@ export default {
             type: Number,
         },
 
-        productCount: {
+        products: {
             required: true,
-            type: Number,
-        },
-
-        productFetchLimit: {
-            default: 250,
-            type: Number,
+            type: Array,
         },
     },
 
@@ -71,9 +58,6 @@ export default {
             appliedSortMethod: this.$route.query.sort || 'recommended',
             currentPage: Number(this.$route.query.page) || 1,
             filters: new FilterList(this.filterRules),
-            products: this.initialProducts.map(
-                (product, index) => new Product(product, index)
-            ),
             sortMethods: this.buildSortMethods([
                 {
                     label: 'Recommended',
@@ -125,12 +109,6 @@ export default {
             return products;
         },
 
-        hasAllCollectionProducts() {
-            return this.products
-                ? this.products.length === this.productCount
-                : false;
-        },
-
         /** @returns {Product[]} */
         paginatedProducts() {
             if (this.itemsPerPage === Infinity) {
@@ -153,12 +131,6 @@ export default {
 
     mounted() {
         this.filters.applyFiltersFromObject(this.getAppliedFiltersFromRoute());
-
-        if (this.hasAllCollectionProducts) {
-            return;
-        }
-
-        this.fetchProducts();
     },
 
     methods: {
@@ -192,39 +164,6 @@ export default {
             );
         },
 
-        fetchProducts() {
-            const totalPages = Math.ceil(
-                this.productCount / this.productFetchLimit
-            );
-
-            const pageRequests = new Array(totalPages)
-                .fill(null)
-                .map((page, index) =>
-                    this.fetchProductsForPage(index + 1, totalPages)
-                );
-
-            Promise.all(pageRequests)
-                .then(results =>
-                    results.flatMap(result => result.data.products)
-                )
-                .then(products => {
-                    this.products = products.map(
-                        product => new Product(product)
-                    );
-                });
-        },
-
-        /** @param {number} page */
-        fetchProductsForPage(page) {
-            const url =
-                this.collection.id === 0
-                    ? `/products.json`
-                    : `/collections/${this.collection.handle}/products.json`;
-            const params = { limit: this.productFetchLimit, page };
-
-            return axios.get(url, { params });
-        },
-
         /** @returns {{[key: string]: (string | string[])}} */
         getAppliedFiltersFromRoute() {
             return Object.fromEntries(
@@ -249,12 +188,6 @@ export default {
          */
         isValidSortMethod(methodId) {
             return this.sortMethods.some(method => method.id === methodId);
-        },
-
-        resetProducts() {
-            this.products = this.initialProducts.map(
-                product => new Product(product)
-            );
         },
     },
 

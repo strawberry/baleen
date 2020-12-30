@@ -72,6 +72,14 @@
     ]
 {%- endcapture -%}
 
+<CollectionTemplate 
+    :collection="{{ collection_json }}" 
+    :product-count="{{ collection.products_count }}"
+    :build-sort-methods="{{ custom_sort_methods | escape }}"
+    :filter-rules="{{ filter_rules | escape }}"
+/>
+<!-- 
+<CollectionProvider :collection="{{ collection_json }}" :product-count="{{ collection.products_count }}" v-slot="{ products }">
 <Collection
     :build-sort-methods="{{ custom_sort_methods | escape }}"
     :collection="{{ collection_json }}"
@@ -170,3 +178,5 @@
         </li>
     </ol>
 </Collection>
+</CollectionProvider> -->
+
