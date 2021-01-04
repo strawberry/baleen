@@ -130,7 +130,7 @@ export default {
             type: Object,
         },
         productFetchLimit: {
-            default: 50,
+            default: 250,
             type: Number,
         },
         productCount: {
