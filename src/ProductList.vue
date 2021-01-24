@@ -36,12 +36,6 @@ export default {
             type: Array,
         },
 
-        /** @type {Vue.PropOptions<Shopify.Product[]>} */
-        initialProducts: {
-            default: () => [],
-            type: Array,
-        },
-
         itemsPerPage: {
             default: Infinity,
             type: Number,
