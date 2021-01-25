@@ -65,7 +65,6 @@ The data which is consumed by the component which was passed from the provider c
 | filters                   | FilterList                |
 | filteredAndSortedProducts | Product[]                 |
 | paginatedProducts         | Product[]                 |
-| products                  | Product[]                 |
 | sortMethods               | SortMethod[]              |
 
 Example using all slot props:
@@ -123,9 +122,6 @@ The products list after having filters applied and being sorted, this can be use
 
 ### paginatedProducts
 The `filteredAndSortedProducts` array after pagination. This should be used to list products on the page.
-
-### products
-The products list after having filters applied and being sorted, this can be used to get all possible values from filters.
 
 ### sortMethods
 An array of methods by which the collection can be sorted. See [changeSortMethod](#changesortmethod) for how they might be used within a component.
