@@ -19,7 +19,7 @@ Describes the collection to be fetched. At a minimum should contain the followin
 id, handle. If `collection.id` is 0, products will be requested from `/products.json`.
 
 #### productCount
-The number of products in the collection. The total number of products to be fetched. When the component mounts if `initialProducts` has the same length as `productCount`, it will not make any API requests. Otherwise `productCount` will be used to determine the number of pages to be fetched.
+Sets maximum number of products on a page. If the `productCount` is less than the `productFetchLimit` the product list data will be paginated.
 
 #### productFetchLimit
 The number of products requested per page when fetching products from the API. Defaults to 250.
@@ -33,7 +33,7 @@ The following props are accepted by the component:
 | ----------------- | ----------------------- | -------- | -------- |
 | filterRules       | FilterRule[]            | False    | []       |
 | itemsPerPage      | Number                  | False    | Infinity |
-| products          | Array                   | True     | []       |
+| products          | Product[]               | True     | []       |
 
 
 #### filterRules
@@ -69,8 +69,9 @@ The data which is consumed by the component which was passed from the provider c
 
 Example using all slot props:
 ```vue
-<collection
+<ProductList
     v-slot="{
+        appliedFilters,
         appliedSortMethod,
         availableFilters,
         changePage,
@@ -82,7 +83,7 @@ Example using all slot props:
         sortMethods,
     }"
 >
-</collection>
+</ProductList>
 ```
 
 ### appliedFilters
