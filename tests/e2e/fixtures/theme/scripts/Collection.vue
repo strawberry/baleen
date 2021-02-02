@@ -7,6 +7,7 @@
         <template v-slot="{ products }">
             <ProductList
                 :build-sort-methods="buildSortMethods"
+                :items-per-page="itemsPerPage"
                 :filter-rules="filterRules"
                 :products="products"
                 v-slot="{
@@ -128,6 +129,10 @@ export default {
         collection: {
             required: true,
             type: Object,
+        },
+        itemsPerPage: {
+            default: Infinity,
+            type: Number,
         },
         productFetchLimit: {
             default: 250,

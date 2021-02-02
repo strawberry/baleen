@@ -1,13 +1,13 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import collectionTemplate from './CollectionTemplate';
+import Collection from './Collection';
 
 Vue.use(VueRouter);
-
+//
 // eslint-disable-next-line no-new
 new Vue({
     el: '#app',
-    components: { collectionTemplate },
+    components: { Collection },
     data() {
         return {
             Math,

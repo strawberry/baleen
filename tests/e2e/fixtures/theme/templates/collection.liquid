@@ -72,10 +72,14 @@
     ]
 {%- endcapture -%}
 
-<CollectionTemplate 
+<Collection
     :collection="{{ collection_json }}" 
     :product-count="{{ collection.products_count }}"
+    :product-fetch-limit="50"
     :build-sort-methods="{{ custom_sort_methods | escape }}"
     :filter-rules="{{ filter_rules | escape }}"
+    {%- if collection.title == 'Water' -%}
+        :items-per-page="3"
+    {%- endif -%}
 />
    
