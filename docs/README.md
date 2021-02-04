@@ -16,11 +16,15 @@ $ npm install @strawberrydigital/baleen vue-router axios
 **Note:** `vue-router` and `axios` are both peer dependencies of this project. You must install them yourself to avoid the risk of bundling multiple copies in your project.
 
 ## Getting Started
+
+Baleen uses the Provider / Consumer pattern which allows you to create custom data providers. We have included a collection provider which uses the Shopify Storefront `/products.json` endpoint to retrieve the collection data.
+
 ### JS
 ```js
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Baleen from '@strawberrydigital/baleen'
+import CollectionProvider from '@strawberrydigital/baleen/src/providers/CollectionProvider';
+import Baleen from '@strawberrydigital/baleen/src/ProductList'
 
 Vue.use(VueRouter)
 
@@ -62,29 +66,39 @@ new Vue({
     ]
 {%- endcapture -%}
 
-<Baleen
-    :collection="{{ collection_json }}"
-    :filter-rules="{{ filter_rules | escape }}"
-    :initial-products="{{ collection.products | json | escape }}"
-    :product-count="{{ collection.products_count }}"
-    v-slot="{
-        appliedSortMethod,
-        availableFilters,
-        changeSortMethod,
-        filters,
-        paginatedProducts,
-        products,
-        sortMethods
-    }"
+
+<CollectionProvider
+    :collection="collection"
+    :product-fetch-limit="productFetchLimit"
+    :product-count="productCount"
 >
-    {%- raw -%}
-        <ul>
-            <li v-for="product in paginatedProducts" :key="product.id">
-                <a :href="product.url">
-                    {{- product.title -}}
-                </a>
-            </li>
-        </ul>
-    {%- endraw -%}
-</Baleen>
+    <template v-slot="{ products }">
+        <ProductList
+            :build-sort-methods="buildSortMethods"
+            :filter-rules="filterRules"
+            :products="products"
+            v-slot="{
+                appliedSortMethod,
+                availableFilters,
+                changePage,
+                changeSortMethod,
+                currentPage,
+                filteredAndSortedProducts,
+                filters,
+                paginatedProducts,
+                sortMethods,
+            }"
+        >
+            {%- raw -%}
+                <ul>
+                    <li v-for="product in paginatedProducts" :key="product.id">
+                        <a :href="product.url">
+                            {{- product.title -}}
+                        </a>
+                    </li>
+                </ul>
+            {%- endraw -%}
+        </ProductList>
+    </template>
+</CollectionProvider>
 ```

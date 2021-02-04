@@ -2,7 +2,7 @@ import { createLocalVue } from '@vue/test-utils';
 import mockAxios from 'jest-mock-axios';
 import VueRouter from 'vue-router';
 import { shallowMount } from './utils/mount';
-import Collection from '../../src/Collection';
+import Collection from '../../src/ProductList';
 import LiquidProducts from './fixtures/LiquidProducts';
 import Product from '../../src/Product';
 
@@ -14,7 +14,7 @@ function createCollectionWrapper(propsData = {}, otherData = {}) {
     return shallowMount(
         Collection,
         {
-            initialProducts: LiquidProducts,
+            products: LiquidProducts.map(product => new Product(product)),
             productCount: 50,
             collection: {
                 id: 0,
@@ -36,40 +36,6 @@ afterEach(() => {
 });
 
 describe('Collection', () => {
-    it('Receives products from initialProducts prop', () => {
-        const wrapper = createCollectionWrapper();
-
-        expect(wrapper.vm.initialProducts.length).toBe(50);
-        expect(wrapper.vm.initialProducts).toBe(LiquidProducts);
-    });
-
-    it('Converts initialProducts into products', () => {
-        const wrapper = createCollectionWrapper();
-
-        expect(wrapper.vm.products.length).toBe(50);
-        LiquidProducts.forEach((product, index) => {
-            expect(wrapper.vm.products[index]).toStrictEqual(
-                new Product(product)
-            );
-        });
-    });
-
-    it(`Doesn't make API requests if all products are provided to the component on mount`, () => {
-        createCollectionWrapper();
-
-        expect(mockAxios.get).not.toHaveBeenCalled();
-    });
-
-    it(`Makes API requests if all products are not provided to the component on mount`, () => {
-        createCollectionWrapper({ productCount: 500 });
-
-        expect(mockAxios.get).toHaveBeenCalledWith('/products.json', {
-            params: { limit: 250, page: 1 },
-        });
-        expect(mockAxios.get).toHaveBeenCalledWith('/products.json', {
-            params: { limit: 250, page: 2 },
-        });
-    });
 
     it('Applies filters from route on mount', () => {
         const router = new VueRouter();

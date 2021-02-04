@@ -8,14 +8,6 @@ const selectors = {
 };
 
 describe('Collection Component', () => {
-    it('Initially lists 50 products', () => {
-        /** API requests must be delayed so that the assertion(s) can run before they respond */
-        cy.server();
-        cy.route({ url: '/products.json*', delay: 5000 });
-        cy.goTo('/collections/all');
-        cy.get(selectors.productItem).should('have.length', 50);
-    });
-
     it('Loads all products after component mounts', () => {
         cy.goTo('/collections/all');
         cy.get(selectors.productItem).should('have.length', 151);
