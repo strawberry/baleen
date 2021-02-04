@@ -48,11 +48,11 @@ export default {
                 const { products } = results.data;
                 this.products = products.map(product => new Product(product));
                 this.loading = false;
-                this.fetchTheRestOfTheProducts();
+                this.fetchAllProducts();
             });
         },
 
-        fetchTheRestOfTheProducts() {
+        fetchAllProducts() {
             const totalPages = Math.ceil(
                 this.productCount / this.productFetchLimit
             );
